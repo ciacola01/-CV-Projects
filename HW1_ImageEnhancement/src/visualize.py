@@ -32,7 +32,7 @@ def plot_comparison(original_img, degraded_img, results, filename):
         axes[i+1].axis('off')
 
     plt.tight_layout()
-    save_path = os.path.join(OUTPUT_DIR, f"comparison_{filename}")
+    save_path = os.path.join(OUTPUT_DIR, f"{filename}_comparison")
     plt.savefig(save_path, dpi=150, bbox_inches='tight')
     plt.close()
     print(f"Saved: {save_path}")

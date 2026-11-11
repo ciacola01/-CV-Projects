@@ -1,0 +1,21 @@
+Image,Method,MSE,PSNR (dB)
+MonzaGP.jpeg,Baseline,1794.2195,15.59
+MonzaGP.jpeg,Linear Stretching,458.0962,21.52
+MonzaGP.jpeg,Histogram Equalization CIE Lab,602.2585,20.33
+MonzaGP.jpeg,Histogram Equalization HSV,462.1481,21.48
+MonzaGP.jpeg,Bilateral + Stretch,282.4436,23.62
+Oceanografic.jpeg,Baseline,1654.1890,15.94
+Oceanografic.jpeg,Linear Stretching,1259.5073,17.13
+Oceanografic.jpeg,Histogram Equalization CIE Lab,4625.5273,11.48
+Oceanografic.jpeg,Histogram Equalization HSV,2260.4016,14.59
+Oceanografic.jpeg,Bilateral + Stretch,1951.6409,15.23
+Barcelona.jpeg,Baseline,4215.7310,11.88
+Barcelona.jpeg,Linear Stretching,693.4457,19.72
+Barcelona.jpeg,Histogram Equalization CIE Lab,4183.7090,11.92
+Barcelona.jpeg,Histogram Equalization HSV,5391.3218,10.81
+Barcelona.jpeg,Bilateral + Stretch,462.7118,21.48
+Champions.jpeg,Baseline,2056.4563,15.00
+Champions.jpeg,Linear Stretching,794.5435,19.13
+Champions.jpeg,Histogram Equalization CIE Lab,1669.1425,15.91
+Champions.jpeg,Histogram Equalization HSV,460.0134,21.50
+Champions.jpeg,Bilateral + Stretch,387.5080,22.25

@@ -2,7 +2,9 @@ import cv2
 import numpy as np
 import os
 
-# Configuration of fixed parameters
+''' 
+    Configuration of fixed parameters
+'''
 INPUT_DIR = "data/original"
 OUTPUT_DIR = "data/degraded"
 ALPHA = 0.5     # Contrast reduction factor of 50%
@@ -10,9 +12,12 @@ BETA = 30       # Brightness offset
 SIGMA = 10.0    # Standard deviation for Gaussian noise
 SEED = 42       # Fixed seed for reproducibility
 
+'''
+    Degrade the image reducing the contrast and shifting the brightness
+    Formula: newPixel = alpha * oldPixel + beta
+'''
+
 def degrade_image(image):
-    # Reduce the contrast and shift brightness
-    # Formula: new pixel = alpha * old_pixel + beta
     degraded = cv2.convertScaleAbs(image, alpha = ALPHA, beta = BETA)
 
     # Add Gaussian noise
@@ -22,6 +27,14 @@ def degrade_image(image):
     # Add noise and clip values to valid range [0, 255]
     noisy_degraded = np.clip(degraded.astype(np.float32) + noise, 0, 255).astype(np.uint8)
     return noisy_degraded
+
+'''
+    The main has these jobs:
+    - make directory data/degraded if doesn't exist
+    - process all images in the input directory
+    - degrade every image
+    - save the degraded image
+'''
 
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
