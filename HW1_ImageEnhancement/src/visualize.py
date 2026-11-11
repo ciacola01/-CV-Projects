@@ -8,12 +8,13 @@ DEGRADED_DIR = "data/degraded"
 ORIGINAL_DIR = "data/original"
 OUTPUT_DIR = "results/images"
 
-def plot_comparison(original_img, degraded_img, results, filename):
-    # Plots the original, the degraded and processed images side by side
-    # Convert to RGB for matplotlib
+'''
+    Plot a side-by-side comparison between the original image and the methods that we applied 
+'''
+def plot_comparison(original_img, results, filename):
     original_rgb = cv2.cvtColor(original_img, cv2.COLOR_BGR2RGB)
 
-    # Columns: original, degraded and number of methods
+    # Columns: original and number of methods
     num_columns = 1 + len(results)
 
     fig, axes = plt.subplots(1, num_columns, figsize=(5 * num_columns, 5))
@@ -31,11 +32,16 @@ def plot_comparison(original_img, degraded_img, results, filename):
         axes[i+1].set_title(title, fontsize=14)
         axes[i+1].axis('off')
 
+    # Take the comparison image and put it in a relative path append "_comparison" on the filename
     plt.tight_layout()
     save_path = os.path.join(OUTPUT_DIR, f"{filename}_comparison")
     plt.savefig(save_path, dpi=150, bbox_inches='tight')
     plt.close()
     print(f"Saved: {save_path}")
+
+'''
+    Takes all the images with a valid extension and when apply all the methods plot and save the CSV
+'''
 
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -59,7 +65,7 @@ def main():
 
             # Plot and save
             base_name = os.path.splitext(filename)[0]
-            plot_comparison(original_img, degraded_img, results, base_name)
+            plot_comparison(original_img, results, base_name)
 
 
 if __name__ == "__main__":

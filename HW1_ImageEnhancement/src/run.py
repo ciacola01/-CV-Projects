@@ -3,7 +3,7 @@ import subprocess
 import sys
 
 def run(script_path):
-    # Run a Python scripr as a subprocess and checks for errors
+    # Run a Python script as a subprocess and checks for errors
     print(f"\n{'='*50}")
     print(f"Running: {script_path}")
     print(f"{'='*50}")

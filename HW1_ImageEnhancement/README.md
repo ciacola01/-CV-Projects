@@ -43,4 +43,3 @@ The required packages are NumPy, OpenCV and Matplotlib
 The synthetic degradation is applied with fixed parameters for reproducibility
 - `ALPHA = 0.5` and `BETA = 30` for the contrast reduction
 - `MEAN = 0`, `STD = 10` and `SEED = 42` for the Gaussian noise
-
