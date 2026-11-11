@@ -27,7 +27,7 @@ The required packages are NumPy, OpenCV and Matplotlib
 
 ## How to run
 1. Clone this repository and navigate to the root
-2. Create a virtual environment as said before on [[#Requirements]]
+2. Create a virtual environment as said before on requirements
 3. Change directory into `HW1_ImageEnhancement`
    ```bash
    cd HW1_ImageEnhancement
