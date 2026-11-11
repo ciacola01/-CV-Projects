@@ -1,7 +1,9 @@
 <center>
-    <b> Recchia Luca - VR563083 </b> <br>
-    <a href="https://github.com/ciacola01/-CV-Projects.git">GitHub Repository</a>
+	<b>Recchia Luca - VR563083</b> <br>
+	<a href="https://github.com/ciacola01/-CV-Projects.git">Repository GitHub</a>
 </center>
+
+---
 
 # Objective and Data
 The goal of the project is to build, apply and compare a classical image enhancement pipeline for images affected by non-uniform illumination, low contrast and noise. 
@@ -51,11 +53,11 @@ and `sigmaSpace = 75` (spatial extent)
 *Expected trade-off*: Excellent noise removal and edge-preservation, but risks over-smoothing fine textures. 
 
 ---
-
-# Results: Visual Comparison
+# Results: Visual Comparison and Metrics
 Side-by-side comparisons were generated for each image, including the original, degraded baseline and all enhancement outputs.
 
-**MonzaGP**: The original F1 car is obscured by a chain-link fence under strong sunlight, which creates deep shadows and harsh highlights. 
+**MonzaGP**
+The original F1 car is obscured by a chain-link fence under strong sunlight, which creates deep shadows and harsh highlights. 
 The degradation flattens the contrast hiding the details of the fence and of the F1 car. 
 - *Linear Stretching*: improves global contrast and legibility, moreover the sky is a natural blue. 
 - *Histogram Equalizations (CIELab and HSV)* are highly aggressive turning the sky into noisy mess. 
@@ -71,8 +73,9 @@ The degradation flattens the contrast hiding the details of the fence and of the
 | MonzaGP.jpeg | Histogram Equalization HSV     | 462.1481  | 21.48     |
 | MonzaGP.jpeg | Bilateral + Stretch            | 261.7122  | 23.95     |
 
-**Oceanografic**: The shark is in low contrast against a strong blue background. The degradation flattens the dynamic range making the shark blend into the background. 
-- *Linear Stretching*: expands the blue intensity range, slightly improves the visibility of the shark's silhouette.   
+**Oceanografic**
+The shark is in low contrast against a strong blue background. The degradation flattens the dynamic range making the shark blend into the background. 
+- *Linear Stretching*: expands the blue intensity range, slightly improves the visibility of the shark's silhouette. 
 - *Histogram Equalizations (CIELab and HSV)* reveal the shark's silhouette clearly, but CIELab produces a luminous, noisy image, while HSV clearly divides the colors.
 - *Bilateral + Stretch* produces a clean image without noise but it is darker than the original one. 
 
@@ -86,7 +89,8 @@ The degradation flattens the contrast hiding the details of the fence and of the
 | Oceanografic.jpeg | Histogram Equalization HSV     | 2260.4016|14.59|
 | Oceanografic.jpeg | Bilateral + Stretch            | 1913.0543|15.31   |
 
-**Barcelona**: The extreme dynamic range (bright sky to dark foreground) is reduced by the degradation.
+**Barcelona**
+The extreme dynamic range (bright sky to dark foreground) is reduced by the degradation.
 - *Linear Stretching*: restore vibrancy and a natural look, though noise remains. 
 - *Histogram Equalizations (CIELab and HSV)* perform poorly lacking a dominant peak to redistribute, they compress mid-tones, resulting in a muddy foreground ans overexposed sky, visually comparable to the baseline. 
 - *Bilateral + Stretch* cleans the noise but zooming in reveals an over-smooth texture. 
@@ -102,7 +106,8 @@ The degradation flattens the contrast hiding the details of the fence and of the
 | Barcelona.jpeg | Bilateral + Stretch            | 437.5177|21.72|
 
 
-**Champions**: The metallic trophy is characterized by bright highlights and deep shadows, against a dark background with light projections. 
+**Champions**
+The metallic trophy is characterized by bright highlights and deep shadows, against a dark background with light projections. 
 - *Linear stretching*: improves the visibility of the trophy's inscriptions and the details of the reflections.
 - *Histogram Equalizations (CIELab and HSV)* amplifies the noise and the HSV Histogram Equalization slightly alters the deep blue tones. 
 - *Bilateral + Stretch* achieves the best result by removing background noise, though the the smoothing slightly flattens the trphy's inscriptions. 

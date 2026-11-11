@@ -5,6 +5,7 @@ This project implements a classical image processing pipeline to enhance degrade
 The project is structured as it follows:
 - `HW1_ImageEnhancement/` is the main folder that contains all the project and into that you can find
 	- `data/` that has the original and the degraded images divided properly in two folders
+    - `report/` that contain the MD and the PDF report
 	- `results/` contains a side-by-side visual comparisons of the images and the `metrics.csv` file with PSNR and MSE values
 	- `src/` is the folder with all the Python files divided in:
 		- `degrade.py` that has the job to degrade versions of the original image

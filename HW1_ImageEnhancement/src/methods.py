@@ -36,7 +36,8 @@ def histogram_equalization_cielab(image):
     return result
 
 '''
-    The channel V is the max(R, G, B) and it is equalized returning an innatural image because the saturation is unbound
+    The channel V (Value) is the max(R, G, B) and it is equalized returning an innatural image because the saturation is unbound.
+    In fact Value change and it will be equalized, but Hue and Saturation doesn't change
 '''
 def histogram_equalization_hsv(image):
     # Apply Histogram Equalization on the V channel
@@ -53,10 +54,12 @@ def histogram_equalization_hsv(image):
 '''
     Applying the bilateral filter reduce the noise and preserve the edges but in the middle you have a flat image
     Then you apply the linear stretching on the denoised image to see more details
+
+    sigmaColor filter sigma in the color space where very low values have no effect (approx 10) and very high values make the image like a cartoon (approx 150) 
 '''
 def bilateral_denoise_and_stretch(image):
     # d: diameter of each pixel neighborhood (larger -> risk of oversmoothing)
-    # sigmaColor: filter sigma in the color space (larger = mixes more distant colors, below 10 has no effect, above 150 is a cartoon)
+    # sigmaColor: filter sigma in the color space (larger = mixes more distant colors)
     # sigmaSpace: filter sigma in the coordinate space (larger = mixes more distant colors)
     denoised_img = cv2.bilateralFilter(image, d=7, sigmaColor=75, sigmaSpace=75) 
 
