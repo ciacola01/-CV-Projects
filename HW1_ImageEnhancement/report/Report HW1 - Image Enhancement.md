@@ -1,3 +1,8 @@
+---
+tags:
+  - ComputerVision
+---
+
 <center>
 	<b>Recchia Luca - VR563083</b> <br>
 	<a href="https://github.com/ciacola01/-CV-Projects.git">Repository GitHub</a>
@@ -24,7 +29,7 @@ The original images are the absolute references for the metric evaluation.
 ---
 
 # Methods and Parameters
-The pipeline implementes the baseline and four enhancement techniques. The initial degradation parameters are set in `degrade.py` as `ALPHA = 0.5`(50% contrast reduction), `BETA = 30` (brightness offset), `SIGMA = 10.0` (Gaussian noise) and `SEED = 42` is just a fixed seed for reproducibility. 
+The pipeline implementes the baseline and four enhancement techniques. The initial degradation parameters are set in `degrade.py` as `ALPHA=0.5` (50% contrast reduction), `BETA=30` (brightness offset), `SIGMA=10.0` (Gaussian noise) and `SEED=42` is just a fixed seed for reproducibility. 
 
 **Baseline**: the degraded image without further processing with these formulas:
 $$
