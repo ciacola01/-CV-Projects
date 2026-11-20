@@ -1,20 +1,9 @@
-data/
-__pycache__/
-*.py[cod]
-*.egg-info/
-.pytest_cache/
-
+# Ambiente virtuale e cache Python
 .venv/
-venv/
-env/
-
-results/*.pt
-results/*.pth
-results/*.ckpt
-
+__pycache__/
+*.pyc
 .DS_Store
-Thumbs.db
-*.log
-nohup.out
 
-.ipynb_checkoints/
+# Il dataset pesa ~800 MB e non va su git: il README spiega come scaricarlo.
+# (splits/ e results/ invece VANNO su git: sono richiesti dalla consegna.)
+data/

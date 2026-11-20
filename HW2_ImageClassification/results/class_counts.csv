@@ -1,0 +1,38 @@
+class_id,breed,train,val,test,total
+0,Abyssinian,80,20,98,198
+1,American Bulldog,80,20,100,200
+2,American Pit Bull Terrier,80,20,100,200
+3,Basset Hound,80,20,100,200
+4,Beagle,80,20,100,200
+5,Bengal,80,20,100,200
+6,Birman,80,20,100,200
+7,Bombay,77,19,88,184
+8,Boxer,80,20,99,199
+9,British Shorthair,80,20,100,200
+10,Chihuahua,80,20,100,200
+11,Egyptian Mau,74,19,97,190
+12,English Cocker Spaniel,77,19,100,196
+13,English Setter,80,20,100,200
+14,German Shorthaired,80,20,100,200
+15,Great Pyrenees,80,20,100,200
+16,Havanese,80,20,100,200
+17,Japanese Chin,80,20,100,200
+18,Keeshond,80,20,99,199
+19,Leonberger,80,20,100,200
+20,Maine Coon,80,20,100,200
+21,Miniature Pinscher,80,20,100,200
+22,Newfoundland,77,19,100,196
+23,Persian,80,20,100,200
+24,Pomeranian,80,20,100,200
+25,Pug,80,20,100,200
+26,Ragdoll,80,20,100,200
+27,Russian Blue,80,20,100,200
+28,Saint Bernard,80,20,100,200
+29,Samoyed,80,20,100,200
+30,Scottish Terrier,80,20,99,199
+31,Shiba Inu,80,20,100,200
+32,Siamese,79,20,100,199
+33,Sphynx,80,20,100,200
+34,Staffordshire Bull Terrier,80,20,89,189
+35,Wheaten Terrier,80,20,100,200
+36,Yorkshire Terrier,80,20,100,200
