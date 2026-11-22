@@ -1,0 +1,27 @@
+{
+  "run_name": "approach2_head",
+  "mode": "head",
+  "loss": "CrossEntropyLoss",
+  "optimizer": "AdamW",
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "batch_size": 32,
+  "epochs": 15,
+  "seed": 42,
+  "device": "cpu",
+  "selection_rule": "epoch with the highest validation macro-F1",
+  "best_epoch": 9,
+  "best_val_macro_f1": 0.8944832959991241,
+  "best_val_acc": 0.8940217391304348,
+  "trainable_parameters": 628773,
+  "total_parameters": 1555781,
+  "trainable_layers": [
+    "classifier.0.weight",
+    "classifier.0.bias",
+    "classifier.3.weight",
+    "classifier.3.bias"
+  ],
+  "train_time_sec": 1288.106959500059,
+  "total_time_sec": 1777.822416583018,
+  "checkpoint": "approach2_head.pt"
+}

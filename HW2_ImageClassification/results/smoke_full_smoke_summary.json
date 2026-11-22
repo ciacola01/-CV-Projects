@@ -1,0 +1,22 @@
+{
+  "run_name": "smoke_full_smoke",
+  "mode": "full",
+  "loss": "CrossEntropyLoss",
+  "optimizer": "AdamW",
+  "lr": 0.0001,
+  "weight_decay": 0.0001,
+  "batch_size": 32,
+  "epochs": 1,
+  "seed": 42,
+  "device": "cpu",
+  "selection_rule": "epoch with the highest validation macro-F1",
+  "best_epoch": 1,
+  "best_val_macro_f1": 0.005490196078431372,
+  "best_val_acc": 0.0125,
+  "trainable_parameters": 1555781,
+  "total_parameters": 1555781,
+  "trainable_layers": "all parameters",
+  "train_time_sec": 32.97561079199659,
+  "total_time_sec": 53.13141049997648,
+  "checkpoint": "smoke_full_smoke.pt"
+}

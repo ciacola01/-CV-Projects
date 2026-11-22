@@ -57,6 +57,14 @@ def count_trainable_params(model):
 def trainable_layer_names(model) -> list:
     return [name for name, p in model.named_parameters() if p.requires_grad]
 
+def build_feature_extractor():
+    base = mobilenet_v3_small(weights=MobileNet_V3_Small_Weights.DEFAULT)
+    extractor = nn.Sequential(base.features, base.avgpool, nn.Flatten())
+    for p in extractor.parameters():
+        p.requires_grad = False
+    extractor.eval()
+    return extractor
+
 # Test of building two models
 if __name__ == "__main__":
     for label, freeze in [("Approach 1 (full fine-tuning)", False), ("Approach 2 (only classifier)", True),]:

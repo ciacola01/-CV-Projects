@@ -1,0 +1,20 @@
+{
+  "best_classifier": "rf",
+  "selected": {
+    "logreg": {
+      "fit_time_sec": 0.08303300000261515,
+      "val_accuracy": 0.8573369565217391,
+      "val_macro_f1": 0.8580950276631198,
+      "n_parameters": 21349,
+      "tree_nodes": null
+    },
+    "rf": {
+      "fit_time_sec": 2.160957000014605,
+      "val_accuracy": 0.8586956521739131,
+      "val_macro_f1": 0.8584777570226454,
+      "n_parameters": null,
+      "tree_nodes": 432660
+    }
+  },
+  "feature_extraction_time_train_val_sec": 112.82513549999567
+}

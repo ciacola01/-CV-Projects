@@ -1,0 +1,3670 @@
+test_index,y_true,y_pred,true_breed,pred_breed,correct
+0,0,10,Abyssinian,Chihuahua,False
+1,0,0,Abyssinian,Abyssinian,True
+2,0,21,Abyssinian,Miniature Pinscher,False
+3,0,0,Abyssinian,Abyssinian,True
+4,0,7,Abyssinian,Bombay,False
+5,0,0,Abyssinian,Abyssinian,True
+6,0,0,Abyssinian,Abyssinian,True
+7,0,0,Abyssinian,Abyssinian,True
+8,0,0,Abyssinian,Abyssinian,True
+9,0,0,Abyssinian,Abyssinian,True
+10,0,5,Abyssinian,Bengal,False
+11,0,0,Abyssinian,Abyssinian,True
+12,0,0,Abyssinian,Abyssinian,True
+13,0,0,Abyssinian,Abyssinian,True
+14,0,20,Abyssinian,Maine Coon,False
+15,0,0,Abyssinian,Abyssinian,True
+16,0,0,Abyssinian,Abyssinian,True
+17,0,5,Abyssinian,Bengal,False
+18,0,0,Abyssinian,Abyssinian,True
+19,0,0,Abyssinian,Abyssinian,True
+20,0,33,Abyssinian,Sphynx,False
+21,0,0,Abyssinian,Abyssinian,True
+22,0,0,Abyssinian,Abyssinian,True
+23,0,0,Abyssinian,Abyssinian,True
+24,0,0,Abyssinian,Abyssinian,True
+25,0,0,Abyssinian,Abyssinian,True
+26,0,0,Abyssinian,Abyssinian,True
+27,0,26,Abyssinian,Ragdoll,False
+28,0,0,Abyssinian,Abyssinian,True
+29,0,0,Abyssinian,Abyssinian,True
+30,0,0,Abyssinian,Abyssinian,True
+31,0,0,Abyssinian,Abyssinian,True
+32,0,0,Abyssinian,Abyssinian,True
+33,0,0,Abyssinian,Abyssinian,True
+34,0,0,Abyssinian,Abyssinian,True
+35,0,0,Abyssinian,Abyssinian,True
+36,0,0,Abyssinian,Abyssinian,True
+37,0,0,Abyssinian,Abyssinian,True
+38,0,0,Abyssinian,Abyssinian,True
+39,0,0,Abyssinian,Abyssinian,True
+40,0,0,Abyssinian,Abyssinian,True
+41,0,0,Abyssinian,Abyssinian,True
+42,0,0,Abyssinian,Abyssinian,True
+43,0,26,Abyssinian,Ragdoll,False
+44,0,0,Abyssinian,Abyssinian,True
+45,0,0,Abyssinian,Abyssinian,True
+46,0,0,Abyssinian,Abyssinian,True
+47,0,33,Abyssinian,Sphynx,False
+48,0,0,Abyssinian,Abyssinian,True
+49,0,0,Abyssinian,Abyssinian,True
+50,0,26,Abyssinian,Ragdoll,False
+51,0,0,Abyssinian,Abyssinian,True
+52,0,0,Abyssinian,Abyssinian,True
+53,0,0,Abyssinian,Abyssinian,True
+54,0,0,Abyssinian,Abyssinian,True
+55,0,0,Abyssinian,Abyssinian,True
+56,0,0,Abyssinian,Abyssinian,True
+57,0,0,Abyssinian,Abyssinian,True
+58,0,0,Abyssinian,Abyssinian,True
+59,0,0,Abyssinian,Abyssinian,True
+60,0,0,Abyssinian,Abyssinian,True
+61,0,0,Abyssinian,Abyssinian,True
+62,0,0,Abyssinian,Abyssinian,True
+63,0,0,Abyssinian,Abyssinian,True
+64,0,0,Abyssinian,Abyssinian,True
+65,0,0,Abyssinian,Abyssinian,True
+66,0,26,Abyssinian,Ragdoll,False
+67,0,0,Abyssinian,Abyssinian,True
+68,0,0,Abyssinian,Abyssinian,True
+69,0,0,Abyssinian,Abyssinian,True
+70,0,0,Abyssinian,Abyssinian,True
+71,0,0,Abyssinian,Abyssinian,True
+72,0,0,Abyssinian,Abyssinian,True
+73,0,0,Abyssinian,Abyssinian,True
+74,0,0,Abyssinian,Abyssinian,True
+75,0,0,Abyssinian,Abyssinian,True
+76,0,0,Abyssinian,Abyssinian,True
+77,0,0,Abyssinian,Abyssinian,True
+78,0,0,Abyssinian,Abyssinian,True
+79,0,0,Abyssinian,Abyssinian,True
+80,0,0,Abyssinian,Abyssinian,True
+81,0,0,Abyssinian,Abyssinian,True
+82,0,0,Abyssinian,Abyssinian,True
+83,0,0,Abyssinian,Abyssinian,True
+84,0,0,Abyssinian,Abyssinian,True
+85,0,0,Abyssinian,Abyssinian,True
+86,0,27,Abyssinian,Russian Blue,False
+87,0,0,Abyssinian,Abyssinian,True
+88,0,0,Abyssinian,Abyssinian,True
+89,0,0,Abyssinian,Abyssinian,True
+90,0,0,Abyssinian,Abyssinian,True
+91,0,0,Abyssinian,Abyssinian,True
+92,0,20,Abyssinian,Maine Coon,False
+93,0,0,Abyssinian,Abyssinian,True
+94,0,0,Abyssinian,Abyssinian,True
+95,0,0,Abyssinian,Abyssinian,True
+96,0,0,Abyssinian,Abyssinian,True
+97,0,0,Abyssinian,Abyssinian,True
+98,1,1,American Bulldog,American Bulldog,True
+99,1,1,American Bulldog,American Bulldog,True
+100,1,1,American Bulldog,American Bulldog,True
+101,1,1,American Bulldog,American Bulldog,True
+102,1,1,American Bulldog,American Bulldog,True
+103,1,14,American Bulldog,German Shorthaired,False
+104,1,1,American Bulldog,American Bulldog,True
+105,1,1,American Bulldog,American Bulldog,True
+106,1,1,American Bulldog,American Bulldog,True
+107,1,1,American Bulldog,American Bulldog,True
+108,1,1,American Bulldog,American Bulldog,True
+109,1,1,American Bulldog,American Bulldog,True
+110,1,1,American Bulldog,American Bulldog,True
+111,1,1,American Bulldog,American Bulldog,True
+112,1,1,American Bulldog,American Bulldog,True
+113,1,1,American Bulldog,American Bulldog,True
+114,1,1,American Bulldog,American Bulldog,True
+115,1,34,American Bulldog,Staffordshire Bull Terrier,False
+116,1,1,American Bulldog,American Bulldog,True
+117,1,1,American Bulldog,American Bulldog,True
+118,1,1,American Bulldog,American Bulldog,True
+119,1,33,American Bulldog,Sphynx,False
+120,1,1,American Bulldog,American Bulldog,True
+121,1,1,American Bulldog,American Bulldog,True
+122,1,1,American Bulldog,American Bulldog,True
+123,1,1,American Bulldog,American Bulldog,True
+124,1,1,American Bulldog,American Bulldog,True
+125,1,1,American Bulldog,American Bulldog,True
+126,1,1,American Bulldog,American Bulldog,True
+127,1,1,American Bulldog,American Bulldog,True
+128,1,8,American Bulldog,Boxer,False
+129,1,1,American Bulldog,American Bulldog,True
+130,1,1,American Bulldog,American Bulldog,True
+131,1,1,American Bulldog,American Bulldog,True
+132,1,1,American Bulldog,American Bulldog,True
+133,1,1,American Bulldog,American Bulldog,True
+134,1,1,American Bulldog,American Bulldog,True
+135,1,1,American Bulldog,American Bulldog,True
+136,1,1,American Bulldog,American Bulldog,True
+137,1,14,American Bulldog,German Shorthaired,False
+138,1,1,American Bulldog,American Bulldog,True
+139,1,1,American Bulldog,American Bulldog,True
+140,1,1,American Bulldog,American Bulldog,True
+141,1,1,American Bulldog,American Bulldog,True
+142,1,1,American Bulldog,American Bulldog,True
+143,1,1,American Bulldog,American Bulldog,True
+144,1,1,American Bulldog,American Bulldog,True
+145,1,1,American Bulldog,American Bulldog,True
+146,1,1,American Bulldog,American Bulldog,True
+147,1,1,American Bulldog,American Bulldog,True
+148,1,8,American Bulldog,Boxer,False
+149,1,1,American Bulldog,American Bulldog,True
+150,1,1,American Bulldog,American Bulldog,True
+151,1,1,American Bulldog,American Bulldog,True
+152,1,1,American Bulldog,American Bulldog,True
+153,1,1,American Bulldog,American Bulldog,True
+154,1,1,American Bulldog,American Bulldog,True
+155,1,1,American Bulldog,American Bulldog,True
+156,1,1,American Bulldog,American Bulldog,True
+157,1,1,American Bulldog,American Bulldog,True
+158,1,1,American Bulldog,American Bulldog,True
+159,1,1,American Bulldog,American Bulldog,True
+160,1,28,American Bulldog,Saint Bernard,False
+161,1,1,American Bulldog,American Bulldog,True
+162,1,1,American Bulldog,American Bulldog,True
+163,1,28,American Bulldog,Saint Bernard,False
+164,1,28,American Bulldog,Saint Bernard,False
+165,1,1,American Bulldog,American Bulldog,True
+166,1,1,American Bulldog,American Bulldog,True
+167,1,1,American Bulldog,American Bulldog,True
+168,1,1,American Bulldog,American Bulldog,True
+169,1,1,American Bulldog,American Bulldog,True
+170,1,1,American Bulldog,American Bulldog,True
+171,1,1,American Bulldog,American Bulldog,True
+172,1,1,American Bulldog,American Bulldog,True
+173,1,1,American Bulldog,American Bulldog,True
+174,1,1,American Bulldog,American Bulldog,True
+175,1,1,American Bulldog,American Bulldog,True
+176,1,1,American Bulldog,American Bulldog,True
+177,1,1,American Bulldog,American Bulldog,True
+178,1,1,American Bulldog,American Bulldog,True
+179,1,1,American Bulldog,American Bulldog,True
+180,1,1,American Bulldog,American Bulldog,True
+181,1,1,American Bulldog,American Bulldog,True
+182,1,8,American Bulldog,Boxer,False
+183,1,1,American Bulldog,American Bulldog,True
+184,1,1,American Bulldog,American Bulldog,True
+185,1,1,American Bulldog,American Bulldog,True
+186,1,1,American Bulldog,American Bulldog,True
+187,1,1,American Bulldog,American Bulldog,True
+188,1,31,American Bulldog,Shiba Inu,False
+189,1,1,American Bulldog,American Bulldog,True
+190,1,1,American Bulldog,American Bulldog,True
+191,1,1,American Bulldog,American Bulldog,True
+192,1,8,American Bulldog,Boxer,False
+193,1,1,American Bulldog,American Bulldog,True
+194,1,1,American Bulldog,American Bulldog,True
+195,1,31,American Bulldog,Shiba Inu,False
+196,1,1,American Bulldog,American Bulldog,True
+197,1,1,American Bulldog,American Bulldog,True
+198,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+199,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+200,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+201,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+202,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+203,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+204,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+205,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+206,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+207,2,14,American Pit Bull Terrier,German Shorthaired,False
+208,2,14,American Pit Bull Terrier,German Shorthaired,False
+209,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+210,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+211,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+212,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+213,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+214,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+215,2,8,American Pit Bull Terrier,Boxer,False
+216,2,8,American Pit Bull Terrier,Boxer,False
+217,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+218,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+219,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+220,2,4,American Pit Bull Terrier,Beagle,False
+221,2,1,American Pit Bull Terrier,American Bulldog,False
+222,2,1,American Pit Bull Terrier,American Bulldog,False
+223,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+224,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+225,2,14,American Pit Bull Terrier,German Shorthaired,False
+226,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+227,2,8,American Pit Bull Terrier,Boxer,False
+228,2,1,American Pit Bull Terrier,American Bulldog,False
+229,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+230,2,14,American Pit Bull Terrier,German Shorthaired,False
+231,2,14,American Pit Bull Terrier,German Shorthaired,False
+232,2,1,American Pit Bull Terrier,American Bulldog,False
+233,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+234,2,1,American Pit Bull Terrier,American Bulldog,False
+235,2,8,American Pit Bull Terrier,Boxer,False
+236,2,1,American Pit Bull Terrier,American Bulldog,False
+237,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+238,2,8,American Pit Bull Terrier,Boxer,False
+239,2,14,American Pit Bull Terrier,German Shorthaired,False
+240,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+241,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+242,2,14,American Pit Bull Terrier,German Shorthaired,False
+243,2,8,American Pit Bull Terrier,Boxer,False
+244,2,14,American Pit Bull Terrier,German Shorthaired,False
+245,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+246,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+247,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+248,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+249,2,5,American Pit Bull Terrier,Bengal,False
+250,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+251,2,4,American Pit Bull Terrier,Beagle,False
+252,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+253,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+254,2,8,American Pit Bull Terrier,Boxer,False
+255,2,14,American Pit Bull Terrier,German Shorthaired,False
+256,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+257,2,1,American Pit Bull Terrier,American Bulldog,False
+258,2,1,American Pit Bull Terrier,American Bulldog,False
+259,2,1,American Pit Bull Terrier,American Bulldog,False
+260,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+261,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+262,2,1,American Pit Bull Terrier,American Bulldog,False
+263,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+264,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+265,2,4,American Pit Bull Terrier,Beagle,False
+266,2,8,American Pit Bull Terrier,Boxer,False
+267,2,31,American Pit Bull Terrier,Shiba Inu,False
+268,2,8,American Pit Bull Terrier,Boxer,False
+269,2,33,American Pit Bull Terrier,Sphynx,False
+270,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+271,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+272,2,31,American Pit Bull Terrier,Shiba Inu,False
+273,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+274,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+275,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+276,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+277,2,1,American Pit Bull Terrier,American Bulldog,False
+278,2,1,American Pit Bull Terrier,American Bulldog,False
+279,2,3,American Pit Bull Terrier,Basset Hound,False
+280,2,14,American Pit Bull Terrier,German Shorthaired,False
+281,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+282,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+283,2,1,American Pit Bull Terrier,American Bulldog,False
+284,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+285,2,14,American Pit Bull Terrier,German Shorthaired,False
+286,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+287,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+288,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+289,2,8,American Pit Bull Terrier,Boxer,False
+290,2,3,American Pit Bull Terrier,Basset Hound,False
+291,2,1,American Pit Bull Terrier,American Bulldog,False
+292,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+293,2,8,American Pit Bull Terrier,Boxer,False
+294,2,3,American Pit Bull Terrier,Basset Hound,False
+295,2,1,American Pit Bull Terrier,American Bulldog,False
+296,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+297,2,1,American Pit Bull Terrier,American Bulldog,False
+298,3,4,Basset Hound,Beagle,False
+299,3,3,Basset Hound,Basset Hound,True
+300,3,4,Basset Hound,Beagle,False
+301,3,3,Basset Hound,Basset Hound,True
+302,3,3,Basset Hound,Basset Hound,True
+303,3,14,Basset Hound,German Shorthaired,False
+304,3,33,Basset Hound,Sphynx,False
+305,3,3,Basset Hound,Basset Hound,True
+306,3,3,Basset Hound,Basset Hound,True
+307,3,3,Basset Hound,Basset Hound,True
+308,3,3,Basset Hound,Basset Hound,True
+309,3,4,Basset Hound,Beagle,False
+310,3,3,Basset Hound,Basset Hound,True
+311,3,3,Basset Hound,Basset Hound,True
+312,3,3,Basset Hound,Basset Hound,True
+313,3,3,Basset Hound,Basset Hound,True
+314,3,3,Basset Hound,Basset Hound,True
+315,3,28,Basset Hound,Saint Bernard,False
+316,3,3,Basset Hound,Basset Hound,True
+317,3,3,Basset Hound,Basset Hound,True
+318,3,3,Basset Hound,Basset Hound,True
+319,3,3,Basset Hound,Basset Hound,True
+320,3,3,Basset Hound,Basset Hound,True
+321,3,3,Basset Hound,Basset Hound,True
+322,3,3,Basset Hound,Basset Hound,True
+323,3,3,Basset Hound,Basset Hound,True
+324,3,3,Basset Hound,Basset Hound,True
+325,3,3,Basset Hound,Basset Hound,True
+326,3,3,Basset Hound,Basset Hound,True
+327,3,3,Basset Hound,Basset Hound,True
+328,3,3,Basset Hound,Basset Hound,True
+329,3,3,Basset Hound,Basset Hound,True
+330,3,3,Basset Hound,Basset Hound,True
+331,3,3,Basset Hound,Basset Hound,True
+332,3,3,Basset Hound,Basset Hound,True
+333,3,3,Basset Hound,Basset Hound,True
+334,3,3,Basset Hound,Basset Hound,True
+335,3,3,Basset Hound,Basset Hound,True
+336,3,28,Basset Hound,Saint Bernard,False
+337,3,3,Basset Hound,Basset Hound,True
+338,3,3,Basset Hound,Basset Hound,True
+339,3,3,Basset Hound,Basset Hound,True
+340,3,3,Basset Hound,Basset Hound,True
+341,3,3,Basset Hound,Basset Hound,True
+342,3,4,Basset Hound,Beagle,False
+343,3,3,Basset Hound,Basset Hound,True
+344,3,3,Basset Hound,Basset Hound,True
+345,3,3,Basset Hound,Basset Hound,True
+346,3,3,Basset Hound,Basset Hound,True
+347,3,3,Basset Hound,Basset Hound,True
+348,3,3,Basset Hound,Basset Hound,True
+349,3,3,Basset Hound,Basset Hound,True
+350,3,3,Basset Hound,Basset Hound,True
+351,3,3,Basset Hound,Basset Hound,True
+352,3,3,Basset Hound,Basset Hound,True
+353,3,3,Basset Hound,Basset Hound,True
+354,3,3,Basset Hound,Basset Hound,True
+355,3,3,Basset Hound,Basset Hound,True
+356,3,3,Basset Hound,Basset Hound,True
+357,3,3,Basset Hound,Basset Hound,True
+358,3,3,Basset Hound,Basset Hound,True
+359,3,3,Basset Hound,Basset Hound,True
+360,3,4,Basset Hound,Beagle,False
+361,3,3,Basset Hound,Basset Hound,True
+362,3,4,Basset Hound,Beagle,False
+363,3,3,Basset Hound,Basset Hound,True
+364,3,3,Basset Hound,Basset Hound,True
+365,3,3,Basset Hound,Basset Hound,True
+366,3,3,Basset Hound,Basset Hound,True
+367,3,4,Basset Hound,Beagle,False
+368,3,4,Basset Hound,Beagle,False
+369,3,3,Basset Hound,Basset Hound,True
+370,3,3,Basset Hound,Basset Hound,True
+371,3,3,Basset Hound,Basset Hound,True
+372,3,3,Basset Hound,Basset Hound,True
+373,3,3,Basset Hound,Basset Hound,True
+374,3,3,Basset Hound,Basset Hound,True
+375,3,3,Basset Hound,Basset Hound,True
+376,3,3,Basset Hound,Basset Hound,True
+377,3,3,Basset Hound,Basset Hound,True
+378,3,3,Basset Hound,Basset Hound,True
+379,3,3,Basset Hound,Basset Hound,True
+380,3,3,Basset Hound,Basset Hound,True
+381,3,3,Basset Hound,Basset Hound,True
+382,3,4,Basset Hound,Beagle,False
+383,3,3,Basset Hound,Basset Hound,True
+384,3,3,Basset Hound,Basset Hound,True
+385,3,3,Basset Hound,Basset Hound,True
+386,3,4,Basset Hound,Beagle,False
+387,3,3,Basset Hound,Basset Hound,True
+388,3,8,Basset Hound,Boxer,False
+389,3,3,Basset Hound,Basset Hound,True
+390,3,3,Basset Hound,Basset Hound,True
+391,3,3,Basset Hound,Basset Hound,True
+392,3,3,Basset Hound,Basset Hound,True
+393,3,3,Basset Hound,Basset Hound,True
+394,3,3,Basset Hound,Basset Hound,True
+395,3,3,Basset Hound,Basset Hound,True
+396,3,3,Basset Hound,Basset Hound,True
+397,3,3,Basset Hound,Basset Hound,True
+398,4,4,Beagle,Beagle,True
+399,4,4,Beagle,Beagle,True
+400,4,4,Beagle,Beagle,True
+401,4,14,Beagle,German Shorthaired,False
+402,4,4,Beagle,Beagle,True
+403,4,4,Beagle,Beagle,True
+404,4,4,Beagle,Beagle,True
+405,4,4,Beagle,Beagle,True
+406,4,4,Beagle,Beagle,True
+407,4,4,Beagle,Beagle,True
+408,4,4,Beagle,Beagle,True
+409,4,4,Beagle,Beagle,True
+410,4,4,Beagle,Beagle,True
+411,4,4,Beagle,Beagle,True
+412,4,4,Beagle,Beagle,True
+413,4,3,Beagle,Basset Hound,False
+414,4,4,Beagle,Beagle,True
+415,4,3,Beagle,Basset Hound,False
+416,4,4,Beagle,Beagle,True
+417,4,4,Beagle,Beagle,True
+418,4,4,Beagle,Beagle,True
+419,4,34,Beagle,Staffordshire Bull Terrier,False
+420,4,3,Beagle,Basset Hound,False
+421,4,21,Beagle,Miniature Pinscher,False
+422,4,4,Beagle,Beagle,True
+423,4,4,Beagle,Beagle,True
+424,4,1,Beagle,American Bulldog,False
+425,4,4,Beagle,Beagle,True
+426,4,4,Beagle,Beagle,True
+427,4,4,Beagle,Beagle,True
+428,4,3,Beagle,Basset Hound,False
+429,4,4,Beagle,Beagle,True
+430,4,4,Beagle,Beagle,True
+431,4,4,Beagle,Beagle,True
+432,4,4,Beagle,Beagle,True
+433,4,4,Beagle,Beagle,True
+434,4,4,Beagle,Beagle,True
+435,4,4,Beagle,Beagle,True
+436,4,4,Beagle,Beagle,True
+437,4,1,Beagle,American Bulldog,False
+438,4,4,Beagle,Beagle,True
+439,4,3,Beagle,Basset Hound,False
+440,4,28,Beagle,Saint Bernard,False
+441,4,3,Beagle,Basset Hound,False
+442,4,14,Beagle,German Shorthaired,False
+443,4,31,Beagle,Shiba Inu,False
+444,4,4,Beagle,Beagle,True
+445,4,4,Beagle,Beagle,True
+446,4,4,Beagle,Beagle,True
+447,4,4,Beagle,Beagle,True
+448,4,13,Beagle,English Setter,False
+449,4,4,Beagle,Beagle,True
+450,4,4,Beagle,Beagle,True
+451,4,4,Beagle,Beagle,True
+452,4,4,Beagle,Beagle,True
+453,4,4,Beagle,Beagle,True
+454,4,4,Beagle,Beagle,True
+455,4,4,Beagle,Beagle,True
+456,4,4,Beagle,Beagle,True
+457,4,4,Beagle,Beagle,True
+458,4,14,Beagle,German Shorthaired,False
+459,4,4,Beagle,Beagle,True
+460,4,4,Beagle,Beagle,True
+461,4,3,Beagle,Basset Hound,False
+462,4,4,Beagle,Beagle,True
+463,4,3,Beagle,Basset Hound,False
+464,4,4,Beagle,Beagle,True
+465,4,4,Beagle,Beagle,True
+466,4,4,Beagle,Beagle,True
+467,4,4,Beagle,Beagle,True
+468,4,4,Beagle,Beagle,True
+469,4,4,Beagle,Beagle,True
+470,4,4,Beagle,Beagle,True
+471,4,4,Beagle,Beagle,True
+472,4,4,Beagle,Beagle,True
+473,4,4,Beagle,Beagle,True
+474,4,4,Beagle,Beagle,True
+475,4,4,Beagle,Beagle,True
+476,4,4,Beagle,Beagle,True
+477,4,4,Beagle,Beagle,True
+478,4,4,Beagle,Beagle,True
+479,4,4,Beagle,Beagle,True
+480,4,4,Beagle,Beagle,True
+481,4,4,Beagle,Beagle,True
+482,4,4,Beagle,Beagle,True
+483,4,4,Beagle,Beagle,True
+484,4,4,Beagle,Beagle,True
+485,4,4,Beagle,Beagle,True
+486,4,4,Beagle,Beagle,True
+487,4,4,Beagle,Beagle,True
+488,4,4,Beagle,Beagle,True
+489,4,4,Beagle,Beagle,True
+490,4,4,Beagle,Beagle,True
+491,4,4,Beagle,Beagle,True
+492,4,4,Beagle,Beagle,True
+493,4,4,Beagle,Beagle,True
+494,4,4,Beagle,Beagle,True
+495,4,28,Beagle,Saint Bernard,False
+496,4,4,Beagle,Beagle,True
+497,4,4,Beagle,Beagle,True
+498,5,5,Bengal,Bengal,True
+499,5,5,Bengal,Bengal,True
+500,5,5,Bengal,Bengal,True
+501,5,5,Bengal,Bengal,True
+502,5,5,Bengal,Bengal,True
+503,5,5,Bengal,Bengal,True
+504,5,5,Bengal,Bengal,True
+505,5,5,Bengal,Bengal,True
+506,5,5,Bengal,Bengal,True
+507,5,5,Bengal,Bengal,True
+508,5,5,Bengal,Bengal,True
+509,5,5,Bengal,Bengal,True
+510,5,5,Bengal,Bengal,True
+511,5,5,Bengal,Bengal,True
+512,5,5,Bengal,Bengal,True
+513,5,5,Bengal,Bengal,True
+514,5,5,Bengal,Bengal,True
+515,5,5,Bengal,Bengal,True
+516,5,5,Bengal,Bengal,True
+517,5,20,Bengal,Maine Coon,False
+518,5,5,Bengal,Bengal,True
+519,5,5,Bengal,Bengal,True
+520,5,5,Bengal,Bengal,True
+521,5,5,Bengal,Bengal,True
+522,5,5,Bengal,Bengal,True
+523,5,5,Bengal,Bengal,True
+524,5,5,Bengal,Bengal,True
+525,5,5,Bengal,Bengal,True
+526,5,5,Bengal,Bengal,True
+527,5,5,Bengal,Bengal,True
+528,5,5,Bengal,Bengal,True
+529,5,5,Bengal,Bengal,True
+530,5,5,Bengal,Bengal,True
+531,5,5,Bengal,Bengal,True
+532,5,5,Bengal,Bengal,True
+533,5,5,Bengal,Bengal,True
+534,5,5,Bengal,Bengal,True
+535,5,5,Bengal,Bengal,True
+536,5,5,Bengal,Bengal,True
+537,5,5,Bengal,Bengal,True
+538,5,5,Bengal,Bengal,True
+539,5,5,Bengal,Bengal,True
+540,5,5,Bengal,Bengal,True
+541,5,5,Bengal,Bengal,True
+542,5,5,Bengal,Bengal,True
+543,5,5,Bengal,Bengal,True
+544,5,33,Bengal,Sphynx,False
+545,5,5,Bengal,Bengal,True
+546,5,5,Bengal,Bengal,True
+547,5,5,Bengal,Bengal,True
+548,5,5,Bengal,Bengal,True
+549,5,5,Bengal,Bengal,True
+550,5,5,Bengal,Bengal,True
+551,5,5,Bengal,Bengal,True
+552,5,5,Bengal,Bengal,True
+553,5,5,Bengal,Bengal,True
+554,5,5,Bengal,Bengal,True
+555,5,5,Bengal,Bengal,True
+556,5,5,Bengal,Bengal,True
+557,5,5,Bengal,Bengal,True
+558,5,5,Bengal,Bengal,True
+559,5,5,Bengal,Bengal,True
+560,5,5,Bengal,Bengal,True
+561,5,20,Bengal,Maine Coon,False
+562,5,20,Bengal,Maine Coon,False
+563,5,5,Bengal,Bengal,True
+564,5,5,Bengal,Bengal,True
+565,5,5,Bengal,Bengal,True
+566,5,5,Bengal,Bengal,True
+567,5,5,Bengal,Bengal,True
+568,5,5,Bengal,Bengal,True
+569,5,5,Bengal,Bengal,True
+570,5,20,Bengal,Maine Coon,False
+571,5,20,Bengal,Maine Coon,False
+572,5,5,Bengal,Bengal,True
+573,5,5,Bengal,Bengal,True
+574,5,5,Bengal,Bengal,True
+575,5,5,Bengal,Bengal,True
+576,5,5,Bengal,Bengal,True
+577,5,5,Bengal,Bengal,True
+578,5,11,Bengal,Egyptian Mau,False
+579,5,5,Bengal,Bengal,True
+580,5,20,Bengal,Maine Coon,False
+581,5,5,Bengal,Bengal,True
+582,5,5,Bengal,Bengal,True
+583,5,5,Bengal,Bengal,True
+584,5,5,Bengal,Bengal,True
+585,5,5,Bengal,Bengal,True
+586,5,0,Bengal,Abyssinian,False
+587,5,5,Bengal,Bengal,True
+588,5,5,Bengal,Bengal,True
+589,5,5,Bengal,Bengal,True
+590,5,5,Bengal,Bengal,True
+591,5,5,Bengal,Bengal,True
+592,5,5,Bengal,Bengal,True
+593,5,5,Bengal,Bengal,True
+594,5,5,Bengal,Bengal,True
+595,5,5,Bengal,Bengal,True
+596,5,5,Bengal,Bengal,True
+597,5,0,Bengal,Abyssinian,False
+598,6,6,Birman,Birman,True
+599,6,6,Birman,Birman,True
+600,6,6,Birman,Birman,True
+601,6,6,Birman,Birman,True
+602,6,6,Birman,Birman,True
+603,6,6,Birman,Birman,True
+604,6,6,Birman,Birman,True
+605,6,6,Birman,Birman,True
+606,6,6,Birman,Birman,True
+607,6,6,Birman,Birman,True
+608,6,6,Birman,Birman,True
+609,6,6,Birman,Birman,True
+610,6,26,Birman,Ragdoll,False
+611,6,6,Birman,Birman,True
+612,6,6,Birman,Birman,True
+613,6,6,Birman,Birman,True
+614,6,6,Birman,Birman,True
+615,6,6,Birman,Birman,True
+616,6,26,Birman,Ragdoll,False
+617,6,6,Birman,Birman,True
+618,6,6,Birman,Birman,True
+619,6,6,Birman,Birman,True
+620,6,6,Birman,Birman,True
+621,6,6,Birman,Birman,True
+622,6,6,Birman,Birman,True
+623,6,6,Birman,Birman,True
+624,6,6,Birman,Birman,True
+625,6,32,Birman,Siamese,False
+626,6,26,Birman,Ragdoll,False
+627,6,32,Birman,Siamese,False
+628,6,26,Birman,Ragdoll,False
+629,6,6,Birman,Birman,True
+630,6,26,Birman,Ragdoll,False
+631,6,26,Birman,Ragdoll,False
+632,6,6,Birman,Birman,True
+633,6,6,Birman,Birman,True
+634,6,6,Birman,Birman,True
+635,6,35,Birman,Wheaten Terrier,False
+636,6,6,Birman,Birman,True
+637,6,6,Birman,Birman,True
+638,6,6,Birman,Birman,True
+639,6,6,Birman,Birman,True
+640,6,6,Birman,Birman,True
+641,6,6,Birman,Birman,True
+642,6,6,Birman,Birman,True
+643,6,32,Birman,Siamese,False
+644,6,6,Birman,Birman,True
+645,6,32,Birman,Siamese,False
+646,6,26,Birman,Ragdoll,False
+647,6,26,Birman,Ragdoll,False
+648,6,6,Birman,Birman,True
+649,6,6,Birman,Birman,True
+650,6,6,Birman,Birman,True
+651,6,6,Birman,Birman,True
+652,6,26,Birman,Ragdoll,False
+653,6,6,Birman,Birman,True
+654,6,6,Birman,Birman,True
+655,6,6,Birman,Birman,True
+656,6,6,Birman,Birman,True
+657,6,6,Birman,Birman,True
+658,6,6,Birman,Birman,True
+659,6,6,Birman,Birman,True
+660,6,6,Birman,Birman,True
+661,6,26,Birman,Ragdoll,False
+662,6,6,Birman,Birman,True
+663,6,6,Birman,Birman,True
+664,6,6,Birman,Birman,True
+665,6,6,Birman,Birman,True
+666,6,6,Birman,Birman,True
+667,6,6,Birman,Birman,True
+668,6,6,Birman,Birman,True
+669,6,6,Birman,Birman,True
+670,6,32,Birman,Siamese,False
+671,6,6,Birman,Birman,True
+672,6,6,Birman,Birman,True
+673,6,6,Birman,Birman,True
+674,6,26,Birman,Ragdoll,False
+675,6,6,Birman,Birman,True
+676,6,26,Birman,Ragdoll,False
+677,6,26,Birman,Ragdoll,False
+678,6,26,Birman,Ragdoll,False
+679,6,6,Birman,Birman,True
+680,6,26,Birman,Ragdoll,False
+681,6,26,Birman,Ragdoll,False
+682,6,6,Birman,Birman,True
+683,6,6,Birman,Birman,True
+684,6,6,Birman,Birman,True
+685,6,6,Birman,Birman,True
+686,6,6,Birman,Birman,True
+687,6,6,Birman,Birman,True
+688,6,6,Birman,Birman,True
+689,6,6,Birman,Birman,True
+690,6,6,Birman,Birman,True
+691,6,32,Birman,Siamese,False
+692,6,6,Birman,Birman,True
+693,6,6,Birman,Birman,True
+694,6,6,Birman,Birman,True
+695,6,17,Birman,Japanese Chin,False
+696,6,26,Birman,Ragdoll,False
+697,6,6,Birman,Birman,True
+698,7,7,Bombay,Bombay,True
+699,7,27,Bombay,Russian Blue,False
+700,7,7,Bombay,Bombay,True
+701,7,7,Bombay,Bombay,True
+702,7,7,Bombay,Bombay,True
+703,7,7,Bombay,Bombay,True
+704,7,7,Bombay,Bombay,True
+705,7,7,Bombay,Bombay,True
+706,7,7,Bombay,Bombay,True
+707,7,7,Bombay,Bombay,True
+708,7,7,Bombay,Bombay,True
+709,7,7,Bombay,Bombay,True
+710,7,7,Bombay,Bombay,True
+711,7,7,Bombay,Bombay,True
+712,7,7,Bombay,Bombay,True
+713,7,7,Bombay,Bombay,True
+714,7,9,Bombay,British Shorthair,False
+715,7,7,Bombay,Bombay,True
+716,7,7,Bombay,Bombay,True
+717,7,7,Bombay,Bombay,True
+718,7,7,Bombay,Bombay,True
+719,7,7,Bombay,Bombay,True
+720,7,7,Bombay,Bombay,True
+721,7,7,Bombay,Bombay,True
+722,7,7,Bombay,Bombay,True
+723,7,7,Bombay,Bombay,True
+724,7,7,Bombay,Bombay,True
+725,7,7,Bombay,Bombay,True
+726,7,7,Bombay,Bombay,True
+727,7,7,Bombay,Bombay,True
+728,7,7,Bombay,Bombay,True
+729,7,7,Bombay,Bombay,True
+730,7,7,Bombay,Bombay,True
+731,7,7,Bombay,Bombay,True
+732,7,7,Bombay,Bombay,True
+733,7,7,Bombay,Bombay,True
+734,7,7,Bombay,Bombay,True
+735,7,7,Bombay,Bombay,True
+736,7,7,Bombay,Bombay,True
+737,7,7,Bombay,Bombay,True
+738,7,7,Bombay,Bombay,True
+739,7,7,Bombay,Bombay,True
+740,7,7,Bombay,Bombay,True
+741,7,7,Bombay,Bombay,True
+742,7,7,Bombay,Bombay,True
+743,7,7,Bombay,Bombay,True
+744,7,7,Bombay,Bombay,True
+745,7,7,Bombay,Bombay,True
+746,7,7,Bombay,Bombay,True
+747,7,7,Bombay,Bombay,True
+748,7,7,Bombay,Bombay,True
+749,7,7,Bombay,Bombay,True
+750,7,7,Bombay,Bombay,True
+751,7,7,Bombay,Bombay,True
+752,7,7,Bombay,Bombay,True
+753,7,7,Bombay,Bombay,True
+754,7,7,Bombay,Bombay,True
+755,7,7,Bombay,Bombay,True
+756,7,7,Bombay,Bombay,True
+757,7,7,Bombay,Bombay,True
+758,7,7,Bombay,Bombay,True
+759,7,7,Bombay,Bombay,True
+760,7,7,Bombay,Bombay,True
+761,7,7,Bombay,Bombay,True
+762,7,7,Bombay,Bombay,True
+763,7,7,Bombay,Bombay,True
+764,7,7,Bombay,Bombay,True
+765,7,7,Bombay,Bombay,True
+766,7,7,Bombay,Bombay,True
+767,7,7,Bombay,Bombay,True
+768,7,5,Bombay,Bengal,False
+769,7,7,Bombay,Bombay,True
+770,7,7,Bombay,Bombay,True
+771,7,10,Bombay,Chihuahua,False
+772,7,7,Bombay,Bombay,True
+773,7,7,Bombay,Bombay,True
+774,7,7,Bombay,Bombay,True
+775,7,27,Bombay,Russian Blue,False
+776,7,7,Bombay,Bombay,True
+777,7,7,Bombay,Bombay,True
+778,7,7,Bombay,Bombay,True
+779,7,7,Bombay,Bombay,True
+780,7,7,Bombay,Bombay,True
+781,7,7,Bombay,Bombay,True
+782,7,7,Bombay,Bombay,True
+783,7,7,Bombay,Bombay,True
+784,7,7,Bombay,Bombay,True
+785,7,7,Bombay,Bombay,True
+786,8,8,Boxer,Boxer,True
+787,8,8,Boxer,Boxer,True
+788,8,8,Boxer,Boxer,True
+789,8,4,Boxer,Beagle,False
+790,8,8,Boxer,Boxer,True
+791,8,8,Boxer,Boxer,True
+792,8,8,Boxer,Boxer,True
+793,8,1,Boxer,American Bulldog,False
+794,8,8,Boxer,Boxer,True
+795,8,8,Boxer,Boxer,True
+796,8,8,Boxer,Boxer,True
+797,8,1,Boxer,American Bulldog,False
+798,8,8,Boxer,Boxer,True
+799,8,8,Boxer,Boxer,True
+800,8,8,Boxer,Boxer,True
+801,8,8,Boxer,Boxer,True
+802,8,8,Boxer,Boxer,True
+803,8,8,Boxer,Boxer,True
+804,8,8,Boxer,Boxer,True
+805,8,8,Boxer,Boxer,True
+806,8,8,Boxer,Boxer,True
+807,8,8,Boxer,Boxer,True
+808,8,1,Boxer,American Bulldog,False
+809,8,8,Boxer,Boxer,True
+810,8,8,Boxer,Boxer,True
+811,8,8,Boxer,Boxer,True
+812,8,8,Boxer,Boxer,True
+813,8,8,Boxer,Boxer,True
+814,8,8,Boxer,Boxer,True
+815,8,8,Boxer,Boxer,True
+816,8,8,Boxer,Boxer,True
+817,8,8,Boxer,Boxer,True
+818,8,34,Boxer,Staffordshire Bull Terrier,False
+819,8,8,Boxer,Boxer,True
+820,8,8,Boxer,Boxer,True
+821,8,8,Boxer,Boxer,True
+822,8,8,Boxer,Boxer,True
+823,8,8,Boxer,Boxer,True
+824,8,8,Boxer,Boxer,True
+825,8,8,Boxer,Boxer,True
+826,8,8,Boxer,Boxer,True
+827,8,8,Boxer,Boxer,True
+828,8,34,Boxer,Staffordshire Bull Terrier,False
+829,8,8,Boxer,Boxer,True
+830,8,34,Boxer,Staffordshire Bull Terrier,False
+831,8,8,Boxer,Boxer,True
+832,8,8,Boxer,Boxer,True
+833,8,8,Boxer,Boxer,True
+834,8,8,Boxer,Boxer,True
+835,8,4,Boxer,Beagle,False
+836,8,8,Boxer,Boxer,True
+837,8,8,Boxer,Boxer,True
+838,8,3,Boxer,Basset Hound,False
+839,8,8,Boxer,Boxer,True
+840,8,1,Boxer,American Bulldog,False
+841,8,8,Boxer,Boxer,True
+842,8,8,Boxer,Boxer,True
+843,8,8,Boxer,Boxer,True
+844,8,8,Boxer,Boxer,True
+845,8,8,Boxer,Boxer,True
+846,8,8,Boxer,Boxer,True
+847,8,14,Boxer,German Shorthaired,False
+848,8,8,Boxer,Boxer,True
+849,8,8,Boxer,Boxer,True
+850,8,8,Boxer,Boxer,True
+851,8,8,Boxer,Boxer,True
+852,8,8,Boxer,Boxer,True
+853,8,8,Boxer,Boxer,True
+854,8,8,Boxer,Boxer,True
+855,8,5,Boxer,Bengal,False
+856,8,8,Boxer,Boxer,True
+857,8,8,Boxer,Boxer,True
+858,8,8,Boxer,Boxer,True
+859,8,8,Boxer,Boxer,True
+860,8,8,Boxer,Boxer,True
+861,8,8,Boxer,Boxer,True
+862,8,8,Boxer,Boxer,True
+863,8,8,Boxer,Boxer,True
+864,8,8,Boxer,Boxer,True
+865,8,8,Boxer,Boxer,True
+866,8,8,Boxer,Boxer,True
+867,8,8,Boxer,Boxer,True
+868,8,1,Boxer,American Bulldog,False
+869,8,8,Boxer,Boxer,True
+870,8,8,Boxer,Boxer,True
+871,8,8,Boxer,Boxer,True
+872,8,8,Boxer,Boxer,True
+873,8,8,Boxer,Boxer,True
+874,8,8,Boxer,Boxer,True
+875,8,8,Boxer,Boxer,True
+876,8,8,Boxer,Boxer,True
+877,8,8,Boxer,Boxer,True
+878,8,8,Boxer,Boxer,True
+879,8,8,Boxer,Boxer,True
+880,8,8,Boxer,Boxer,True
+881,8,8,Boxer,Boxer,True
+882,8,8,Boxer,Boxer,True
+883,8,8,Boxer,Boxer,True
+884,8,8,Boxer,Boxer,True
+885,9,9,British Shorthair,British Shorthair,True
+886,9,9,British Shorthair,British Shorthair,True
+887,9,9,British Shorthair,British Shorthair,True
+888,9,26,British Shorthair,Ragdoll,False
+889,9,9,British Shorthair,British Shorthair,True
+890,9,7,British Shorthair,Bombay,False
+891,9,7,British Shorthair,Bombay,False
+892,9,11,British Shorthair,Egyptian Mau,False
+893,9,5,British Shorthair,Bengal,False
+894,9,27,British Shorthair,Russian Blue,False
+895,9,7,British Shorthair,Bombay,False
+896,9,9,British Shorthair,British Shorthair,True
+897,9,9,British Shorthair,British Shorthair,True
+898,9,5,British Shorthair,Bengal,False
+899,9,7,British Shorthair,Bombay,False
+900,9,27,British Shorthair,Russian Blue,False
+901,9,9,British Shorthair,British Shorthair,True
+902,9,27,British Shorthair,Russian Blue,False
+903,9,9,British Shorthair,British Shorthair,True
+904,9,27,British Shorthair,Russian Blue,False
+905,9,9,British Shorthair,British Shorthair,True
+906,9,9,British Shorthair,British Shorthair,True
+907,9,9,British Shorthair,British Shorthair,True
+908,9,9,British Shorthair,British Shorthair,True
+909,9,9,British Shorthair,British Shorthair,True
+910,9,9,British Shorthair,British Shorthair,True
+911,9,9,British Shorthair,British Shorthair,True
+912,9,9,British Shorthair,British Shorthair,True
+913,9,9,British Shorthair,British Shorthair,True
+914,9,9,British Shorthair,British Shorthair,True
+915,9,9,British Shorthair,British Shorthair,True
+916,9,9,British Shorthair,British Shorthair,True
+917,9,9,British Shorthair,British Shorthair,True
+918,9,27,British Shorthair,Russian Blue,False
+919,9,27,British Shorthair,Russian Blue,False
+920,9,9,British Shorthair,British Shorthair,True
+921,9,9,British Shorthair,British Shorthair,True
+922,9,9,British Shorthair,British Shorthair,True
+923,9,27,British Shorthair,Russian Blue,False
+924,9,9,British Shorthair,British Shorthair,True
+925,9,9,British Shorthair,British Shorthair,True
+926,9,0,British Shorthair,Abyssinian,False
+927,9,9,British Shorthair,British Shorthair,True
+928,9,0,British Shorthair,Abyssinian,False
+929,9,0,British Shorthair,Abyssinian,False
+930,9,27,British Shorthair,Russian Blue,False
+931,9,9,British Shorthair,British Shorthair,True
+932,9,9,British Shorthair,British Shorthair,True
+933,9,9,British Shorthair,British Shorthair,True
+934,9,26,British Shorthair,Ragdoll,False
+935,9,9,British Shorthair,British Shorthair,True
+936,9,27,British Shorthair,Russian Blue,False
+937,9,27,British Shorthair,Russian Blue,False
+938,9,9,British Shorthair,British Shorthair,True
+939,9,27,British Shorthair,Russian Blue,False
+940,9,0,British Shorthair,Abyssinian,False
+941,9,26,British Shorthair,Ragdoll,False
+942,9,9,British Shorthair,British Shorthair,True
+943,9,9,British Shorthair,British Shorthair,True
+944,9,9,British Shorthair,British Shorthair,True
+945,9,9,British Shorthair,British Shorthair,True
+946,9,9,British Shorthair,British Shorthair,True
+947,9,9,British Shorthair,British Shorthair,True
+948,9,0,British Shorthair,Abyssinian,False
+949,9,9,British Shorthair,British Shorthair,True
+950,9,27,British Shorthair,Russian Blue,False
+951,9,27,British Shorthair,Russian Blue,False
+952,9,9,British Shorthair,British Shorthair,True
+953,9,9,British Shorthair,British Shorthair,True
+954,9,9,British Shorthair,British Shorthair,True
+955,9,0,British Shorthair,Abyssinian,False
+956,9,9,British Shorthair,British Shorthair,True
+957,9,9,British Shorthair,British Shorthair,True
+958,9,9,British Shorthair,British Shorthair,True
+959,9,9,British Shorthair,British Shorthair,True
+960,9,0,British Shorthair,Abyssinian,False
+961,9,9,British Shorthair,British Shorthair,True
+962,9,9,British Shorthair,British Shorthair,True
+963,9,20,British Shorthair,Maine Coon,False
+964,9,20,British Shorthair,Maine Coon,False
+965,9,27,British Shorthair,Russian Blue,False
+966,9,9,British Shorthair,British Shorthair,True
+967,9,9,British Shorthair,British Shorthair,True
+968,9,9,British Shorthair,British Shorthair,True
+969,9,9,British Shorthair,British Shorthair,True
+970,9,26,British Shorthair,Ragdoll,False
+971,9,9,British Shorthair,British Shorthair,True
+972,9,9,British Shorthair,British Shorthair,True
+973,9,0,British Shorthair,Abyssinian,False
+974,9,9,British Shorthair,British Shorthair,True
+975,9,9,British Shorthair,British Shorthair,True
+976,9,27,British Shorthair,Russian Blue,False
+977,9,9,British Shorthair,British Shorthair,True
+978,9,9,British Shorthair,British Shorthair,True
+979,9,9,British Shorthair,British Shorthair,True
+980,9,27,British Shorthair,Russian Blue,False
+981,9,9,British Shorthair,British Shorthair,True
+982,9,9,British Shorthair,British Shorthair,True
+983,9,27,British Shorthair,Russian Blue,False
+984,9,0,British Shorthair,Abyssinian,False
+985,10,10,Chihuahua,Chihuahua,True
+986,10,10,Chihuahua,Chihuahua,True
+987,10,10,Chihuahua,Chihuahua,True
+988,10,10,Chihuahua,Chihuahua,True
+989,10,10,Chihuahua,Chihuahua,True
+990,10,24,Chihuahua,Pomeranian,False
+991,10,7,Chihuahua,Bombay,False
+992,10,10,Chihuahua,Chihuahua,True
+993,10,10,Chihuahua,Chihuahua,True
+994,10,32,Chihuahua,Siamese,False
+995,10,31,Chihuahua,Shiba Inu,False
+996,10,10,Chihuahua,Chihuahua,True
+997,10,10,Chihuahua,Chihuahua,True
+998,10,31,Chihuahua,Shiba Inu,False
+999,10,31,Chihuahua,Shiba Inu,False
+1000,10,31,Chihuahua,Shiba Inu,False
+1001,10,7,Chihuahua,Bombay,False
+1002,10,33,Chihuahua,Sphynx,False
+1003,10,33,Chihuahua,Sphynx,False
+1004,10,10,Chihuahua,Chihuahua,True
+1005,10,31,Chihuahua,Shiba Inu,False
+1006,10,32,Chihuahua,Siamese,False
+1007,10,31,Chihuahua,Shiba Inu,False
+1008,10,31,Chihuahua,Shiba Inu,False
+1009,10,21,Chihuahua,Miniature Pinscher,False
+1010,10,10,Chihuahua,Chihuahua,True
+1011,10,10,Chihuahua,Chihuahua,True
+1012,10,1,Chihuahua,American Bulldog,False
+1013,10,10,Chihuahua,Chihuahua,True
+1014,10,10,Chihuahua,Chihuahua,True
+1015,10,10,Chihuahua,Chihuahua,True
+1016,10,31,Chihuahua,Shiba Inu,False
+1017,10,10,Chihuahua,Chihuahua,True
+1018,10,31,Chihuahua,Shiba Inu,False
+1019,10,31,Chihuahua,Shiba Inu,False
+1020,10,10,Chihuahua,Chihuahua,True
+1021,10,1,Chihuahua,American Bulldog,False
+1022,10,10,Chihuahua,Chihuahua,True
+1023,10,32,Chihuahua,Siamese,False
+1024,10,10,Chihuahua,Chihuahua,True
+1025,10,10,Chihuahua,Chihuahua,True
+1026,10,10,Chihuahua,Chihuahua,True
+1027,10,10,Chihuahua,Chihuahua,True
+1028,10,10,Chihuahua,Chihuahua,True
+1029,10,31,Chihuahua,Shiba Inu,False
+1030,10,10,Chihuahua,Chihuahua,True
+1031,10,31,Chihuahua,Shiba Inu,False
+1032,10,10,Chihuahua,Chihuahua,True
+1033,10,10,Chihuahua,Chihuahua,True
+1034,10,24,Chihuahua,Pomeranian,False
+1035,10,21,Chihuahua,Miniature Pinscher,False
+1036,10,10,Chihuahua,Chihuahua,True
+1037,10,32,Chihuahua,Siamese,False
+1038,10,10,Chihuahua,Chihuahua,True
+1039,10,10,Chihuahua,Chihuahua,True
+1040,10,10,Chihuahua,Chihuahua,True
+1041,10,33,Chihuahua,Sphynx,False
+1042,10,32,Chihuahua,Siamese,False
+1043,10,10,Chihuahua,Chihuahua,True
+1044,10,33,Chihuahua,Sphynx,False
+1045,10,10,Chihuahua,Chihuahua,True
+1046,10,33,Chihuahua,Sphynx,False
+1047,10,10,Chihuahua,Chihuahua,True
+1048,10,10,Chihuahua,Chihuahua,True
+1049,10,10,Chihuahua,Chihuahua,True
+1050,10,10,Chihuahua,Chihuahua,True
+1051,10,33,Chihuahua,Sphynx,False
+1052,10,10,Chihuahua,Chihuahua,True
+1053,10,10,Chihuahua,Chihuahua,True
+1054,10,10,Chihuahua,Chihuahua,True
+1055,10,10,Chihuahua,Chihuahua,True
+1056,10,31,Chihuahua,Shiba Inu,False
+1057,10,32,Chihuahua,Siamese,False
+1058,10,10,Chihuahua,Chihuahua,True
+1059,10,31,Chihuahua,Shiba Inu,False
+1060,10,31,Chihuahua,Shiba Inu,False
+1061,10,10,Chihuahua,Chihuahua,True
+1062,10,29,Chihuahua,Samoyed,False
+1063,10,31,Chihuahua,Shiba Inu,False
+1064,10,27,Chihuahua,Russian Blue,False
+1065,10,31,Chihuahua,Shiba Inu,False
+1066,10,1,Chihuahua,American Bulldog,False
+1067,10,31,Chihuahua,Shiba Inu,False
+1068,10,34,Chihuahua,Staffordshire Bull Terrier,False
+1069,10,10,Chihuahua,Chihuahua,True
+1070,10,10,Chihuahua,Chihuahua,True
+1071,10,10,Chihuahua,Chihuahua,True
+1072,10,31,Chihuahua,Shiba Inu,False
+1073,10,10,Chihuahua,Chihuahua,True
+1074,10,33,Chihuahua,Sphynx,False
+1075,10,33,Chihuahua,Sphynx,False
+1076,10,10,Chihuahua,Chihuahua,True
+1077,10,33,Chihuahua,Sphynx,False
+1078,10,32,Chihuahua,Siamese,False
+1079,10,33,Chihuahua,Sphynx,False
+1080,10,27,Chihuahua,Russian Blue,False
+1081,10,10,Chihuahua,Chihuahua,True
+1082,10,33,Chihuahua,Sphynx,False
+1083,10,33,Chihuahua,Sphynx,False
+1084,10,10,Chihuahua,Chihuahua,True
+1085,11,11,Egyptian Mau,Egyptian Mau,True
+1086,11,5,Egyptian Mau,Bengal,False
+1087,11,11,Egyptian Mau,Egyptian Mau,True
+1088,11,11,Egyptian Mau,Egyptian Mau,True
+1089,11,11,Egyptian Mau,Egyptian Mau,True
+1090,11,11,Egyptian Mau,Egyptian Mau,True
+1091,11,11,Egyptian Mau,Egyptian Mau,True
+1092,11,0,Egyptian Mau,Abyssinian,False
+1093,11,11,Egyptian Mau,Egyptian Mau,True
+1094,11,11,Egyptian Mau,Egyptian Mau,True
+1095,11,11,Egyptian Mau,Egyptian Mau,True
+1096,11,11,Egyptian Mau,Egyptian Mau,True
+1097,11,5,Egyptian Mau,Bengal,False
+1098,11,5,Egyptian Mau,Bengal,False
+1099,11,11,Egyptian Mau,Egyptian Mau,True
+1100,11,11,Egyptian Mau,Egyptian Mau,True
+1101,11,11,Egyptian Mau,Egyptian Mau,True
+1102,11,11,Egyptian Mau,Egyptian Mau,True
+1103,11,11,Egyptian Mau,Egyptian Mau,True
+1104,11,11,Egyptian Mau,Egyptian Mau,True
+1105,11,11,Egyptian Mau,Egyptian Mau,True
+1106,11,11,Egyptian Mau,Egyptian Mau,True
+1107,11,11,Egyptian Mau,Egyptian Mau,True
+1108,11,11,Egyptian Mau,Egyptian Mau,True
+1109,11,9,Egyptian Mau,British Shorthair,False
+1110,11,11,Egyptian Mau,Egyptian Mau,True
+1111,11,11,Egyptian Mau,Egyptian Mau,True
+1112,11,20,Egyptian Mau,Maine Coon,False
+1113,11,5,Egyptian Mau,Bengal,False
+1114,11,11,Egyptian Mau,Egyptian Mau,True
+1115,11,11,Egyptian Mau,Egyptian Mau,True
+1116,11,11,Egyptian Mau,Egyptian Mau,True
+1117,11,11,Egyptian Mau,Egyptian Mau,True
+1118,11,11,Egyptian Mau,Egyptian Mau,True
+1119,11,5,Egyptian Mau,Bengal,False
+1120,11,11,Egyptian Mau,Egyptian Mau,True
+1121,11,11,Egyptian Mau,Egyptian Mau,True
+1122,11,11,Egyptian Mau,Egyptian Mau,True
+1123,11,5,Egyptian Mau,Bengal,False
+1124,11,11,Egyptian Mau,Egyptian Mau,True
+1125,11,11,Egyptian Mau,Egyptian Mau,True
+1126,11,11,Egyptian Mau,Egyptian Mau,True
+1127,11,11,Egyptian Mau,Egyptian Mau,True
+1128,11,11,Egyptian Mau,Egyptian Mau,True
+1129,11,11,Egyptian Mau,Egyptian Mau,True
+1130,11,5,Egyptian Mau,Bengal,False
+1131,11,11,Egyptian Mau,Egyptian Mau,True
+1132,11,11,Egyptian Mau,Egyptian Mau,True
+1133,11,11,Egyptian Mau,Egyptian Mau,True
+1134,11,9,Egyptian Mau,British Shorthair,False
+1135,11,11,Egyptian Mau,Egyptian Mau,True
+1136,11,11,Egyptian Mau,Egyptian Mau,True
+1137,11,11,Egyptian Mau,Egyptian Mau,True
+1138,11,11,Egyptian Mau,Egyptian Mau,True
+1139,11,11,Egyptian Mau,Egyptian Mau,True
+1140,11,11,Egyptian Mau,Egyptian Mau,True
+1141,11,11,Egyptian Mau,Egyptian Mau,True
+1142,11,11,Egyptian Mau,Egyptian Mau,True
+1143,11,11,Egyptian Mau,Egyptian Mau,True
+1144,11,11,Egyptian Mau,Egyptian Mau,True
+1145,11,11,Egyptian Mau,Egyptian Mau,True
+1146,11,5,Egyptian Mau,Bengal,False
+1147,11,0,Egyptian Mau,Abyssinian,False
+1148,11,11,Egyptian Mau,Egyptian Mau,True
+1149,11,0,Egyptian Mau,Abyssinian,False
+1150,11,11,Egyptian Mau,Egyptian Mau,True
+1151,11,11,Egyptian Mau,Egyptian Mau,True
+1152,11,11,Egyptian Mau,Egyptian Mau,True
+1153,11,20,Egyptian Mau,Maine Coon,False
+1154,11,11,Egyptian Mau,Egyptian Mau,True
+1155,11,11,Egyptian Mau,Egyptian Mau,True
+1156,11,11,Egyptian Mau,Egyptian Mau,True
+1157,11,11,Egyptian Mau,Egyptian Mau,True
+1158,11,26,Egyptian Mau,Ragdoll,False
+1159,11,11,Egyptian Mau,Egyptian Mau,True
+1160,11,11,Egyptian Mau,Egyptian Mau,True
+1161,11,11,Egyptian Mau,Egyptian Mau,True
+1162,11,11,Egyptian Mau,Egyptian Mau,True
+1163,11,11,Egyptian Mau,Egyptian Mau,True
+1164,11,5,Egyptian Mau,Bengal,False
+1165,11,11,Egyptian Mau,Egyptian Mau,True
+1166,11,11,Egyptian Mau,Egyptian Mau,True
+1167,11,11,Egyptian Mau,Egyptian Mau,True
+1168,11,11,Egyptian Mau,Egyptian Mau,True
+1169,11,11,Egyptian Mau,Egyptian Mau,True
+1170,11,11,Egyptian Mau,Egyptian Mau,True
+1171,11,11,Egyptian Mau,Egyptian Mau,True
+1172,11,11,Egyptian Mau,Egyptian Mau,True
+1173,11,11,Egyptian Mau,Egyptian Mau,True
+1174,11,11,Egyptian Mau,Egyptian Mau,True
+1175,11,11,Egyptian Mau,Egyptian Mau,True
+1176,11,11,Egyptian Mau,Egyptian Mau,True
+1177,11,11,Egyptian Mau,Egyptian Mau,True
+1178,11,11,Egyptian Mau,Egyptian Mau,True
+1179,11,11,Egyptian Mau,Egyptian Mau,True
+1180,11,11,Egyptian Mau,Egyptian Mau,True
+1181,11,11,Egyptian Mau,Egyptian Mau,True
+1182,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1183,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1184,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1185,12,16,English Cocker Spaniel,Havanese,False
+1186,12,16,English Cocker Spaniel,Havanese,False
+1187,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1188,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1189,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1190,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1191,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1192,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1193,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1194,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1195,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1196,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1197,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1198,12,35,English Cocker Spaniel,Wheaten Terrier,False
+1199,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1200,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1201,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1202,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1203,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1204,12,22,English Cocker Spaniel,Newfoundland,False
+1205,12,13,English Cocker Spaniel,English Setter,False
+1206,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1207,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1208,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1209,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1210,12,22,English Cocker Spaniel,Newfoundland,False
+1211,12,19,English Cocker Spaniel,Leonberger,False
+1212,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1213,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1214,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1215,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1216,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1217,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1218,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1219,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1220,12,13,English Cocker Spaniel,English Setter,False
+1221,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1222,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1223,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1224,12,13,English Cocker Spaniel,English Setter,False
+1225,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1226,12,22,English Cocker Spaniel,Newfoundland,False
+1227,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1228,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1229,12,13,English Cocker Spaniel,English Setter,False
+1230,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1231,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1232,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1233,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1234,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1235,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1236,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1237,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1238,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1239,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1240,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1241,12,13,English Cocker Spaniel,English Setter,False
+1242,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1243,12,13,English Cocker Spaniel,English Setter,False
+1244,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1245,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1246,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1247,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1248,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1249,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1250,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1251,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1252,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1253,12,16,English Cocker Spaniel,Havanese,False
+1254,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1255,12,13,English Cocker Spaniel,English Setter,False
+1256,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1257,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1258,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1259,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1260,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1261,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1262,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1263,12,13,English Cocker Spaniel,English Setter,False
+1264,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1265,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1266,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1267,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1268,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1269,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1270,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1271,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1272,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1273,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1274,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1275,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1276,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1277,12,13,English Cocker Spaniel,English Setter,False
+1278,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1279,12,12,English Cocker Spaniel,English Cocker Spaniel,True
+1280,12,13,English Cocker Spaniel,English Setter,False
+1281,12,30,English Cocker Spaniel,Scottish Terrier,False
+1282,13,13,English Setter,English Setter,True
+1283,13,13,English Setter,English Setter,True
+1284,13,13,English Setter,English Setter,True
+1285,13,28,English Setter,Saint Bernard,False
+1286,13,13,English Setter,English Setter,True
+1287,13,13,English Setter,English Setter,True
+1288,13,13,English Setter,English Setter,True
+1289,13,13,English Setter,English Setter,True
+1290,13,13,English Setter,English Setter,True
+1291,13,13,English Setter,English Setter,True
+1292,13,12,English Setter,English Cocker Spaniel,False
+1293,13,13,English Setter,English Setter,True
+1294,13,28,English Setter,Saint Bernard,False
+1295,13,13,English Setter,English Setter,True
+1296,13,13,English Setter,English Setter,True
+1297,13,13,English Setter,English Setter,True
+1298,13,13,English Setter,English Setter,True
+1299,13,13,English Setter,English Setter,True
+1300,13,13,English Setter,English Setter,True
+1301,13,13,English Setter,English Setter,True
+1302,13,28,English Setter,Saint Bernard,False
+1303,13,13,English Setter,English Setter,True
+1304,13,13,English Setter,English Setter,True
+1305,13,13,English Setter,English Setter,True
+1306,13,13,English Setter,English Setter,True
+1307,13,13,English Setter,English Setter,True
+1308,13,17,English Setter,Japanese Chin,False
+1309,13,13,English Setter,English Setter,True
+1310,13,13,English Setter,English Setter,True
+1311,13,13,English Setter,English Setter,True
+1312,13,16,English Setter,Havanese,False
+1313,13,13,English Setter,English Setter,True
+1314,13,13,English Setter,English Setter,True
+1315,13,13,English Setter,English Setter,True
+1316,13,13,English Setter,English Setter,True
+1317,13,13,English Setter,English Setter,True
+1318,13,13,English Setter,English Setter,True
+1319,13,13,English Setter,English Setter,True
+1320,13,13,English Setter,English Setter,True
+1321,13,13,English Setter,English Setter,True
+1322,13,13,English Setter,English Setter,True
+1323,13,13,English Setter,English Setter,True
+1324,13,13,English Setter,English Setter,True
+1325,13,13,English Setter,English Setter,True
+1326,13,14,English Setter,German Shorthaired,False
+1327,13,13,English Setter,English Setter,True
+1328,13,13,English Setter,English Setter,True
+1329,13,13,English Setter,English Setter,True
+1330,13,13,English Setter,English Setter,True
+1331,13,13,English Setter,English Setter,True
+1332,13,13,English Setter,English Setter,True
+1333,13,13,English Setter,English Setter,True
+1334,13,13,English Setter,English Setter,True
+1335,13,13,English Setter,English Setter,True
+1336,13,13,English Setter,English Setter,True
+1337,13,12,English Setter,English Cocker Spaniel,False
+1338,13,13,English Setter,English Setter,True
+1339,13,13,English Setter,English Setter,True
+1340,13,13,English Setter,English Setter,True
+1341,13,13,English Setter,English Setter,True
+1342,13,13,English Setter,English Setter,True
+1343,13,13,English Setter,English Setter,True
+1344,13,13,English Setter,English Setter,True
+1345,13,13,English Setter,English Setter,True
+1346,13,13,English Setter,English Setter,True
+1347,13,13,English Setter,English Setter,True
+1348,13,12,English Setter,English Cocker Spaniel,False
+1349,13,13,English Setter,English Setter,True
+1350,13,13,English Setter,English Setter,True
+1351,13,13,English Setter,English Setter,True
+1352,13,13,English Setter,English Setter,True
+1353,13,13,English Setter,English Setter,True
+1354,13,13,English Setter,English Setter,True
+1355,13,13,English Setter,English Setter,True
+1356,13,13,English Setter,English Setter,True
+1357,13,13,English Setter,English Setter,True
+1358,13,13,English Setter,English Setter,True
+1359,13,13,English Setter,English Setter,True
+1360,13,13,English Setter,English Setter,True
+1361,13,13,English Setter,English Setter,True
+1362,13,13,English Setter,English Setter,True
+1363,13,15,English Setter,Great Pyrenees,False
+1364,13,13,English Setter,English Setter,True
+1365,13,13,English Setter,English Setter,True
+1366,13,13,English Setter,English Setter,True
+1367,13,13,English Setter,English Setter,True
+1368,13,13,English Setter,English Setter,True
+1369,13,13,English Setter,English Setter,True
+1370,13,28,English Setter,Saint Bernard,False
+1371,13,13,English Setter,English Setter,True
+1372,13,13,English Setter,English Setter,True
+1373,13,13,English Setter,English Setter,True
+1374,13,13,English Setter,English Setter,True
+1375,13,13,English Setter,English Setter,True
+1376,13,13,English Setter,English Setter,True
+1377,13,13,English Setter,English Setter,True
+1378,13,13,English Setter,English Setter,True
+1379,13,13,English Setter,English Setter,True
+1380,13,19,English Setter,Leonberger,False
+1381,13,13,English Setter,English Setter,True
+1382,14,14,German Shorthaired,German Shorthaired,True
+1383,14,14,German Shorthaired,German Shorthaired,True
+1384,14,14,German Shorthaired,German Shorthaired,True
+1385,14,14,German Shorthaired,German Shorthaired,True
+1386,14,14,German Shorthaired,German Shorthaired,True
+1387,14,14,German Shorthaired,German Shorthaired,True
+1388,14,14,German Shorthaired,German Shorthaired,True
+1389,14,14,German Shorthaired,German Shorthaired,True
+1390,14,14,German Shorthaired,German Shorthaired,True
+1391,14,14,German Shorthaired,German Shorthaired,True
+1392,14,14,German Shorthaired,German Shorthaired,True
+1393,14,14,German Shorthaired,German Shorthaired,True
+1394,14,14,German Shorthaired,German Shorthaired,True
+1395,14,14,German Shorthaired,German Shorthaired,True
+1396,14,14,German Shorthaired,German Shorthaired,True
+1397,14,14,German Shorthaired,German Shorthaired,True
+1398,14,14,German Shorthaired,German Shorthaired,True
+1399,14,14,German Shorthaired,German Shorthaired,True
+1400,14,14,German Shorthaired,German Shorthaired,True
+1401,14,14,German Shorthaired,German Shorthaired,True
+1402,14,14,German Shorthaired,German Shorthaired,True
+1403,14,14,German Shorthaired,German Shorthaired,True
+1404,14,14,German Shorthaired,German Shorthaired,True
+1405,14,14,German Shorthaired,German Shorthaired,True
+1406,14,14,German Shorthaired,German Shorthaired,True
+1407,14,14,German Shorthaired,German Shorthaired,True
+1408,14,14,German Shorthaired,German Shorthaired,True
+1409,14,14,German Shorthaired,German Shorthaired,True
+1410,14,14,German Shorthaired,German Shorthaired,True
+1411,14,14,German Shorthaired,German Shorthaired,True
+1412,14,14,German Shorthaired,German Shorthaired,True
+1413,14,14,German Shorthaired,German Shorthaired,True
+1414,14,14,German Shorthaired,German Shorthaired,True
+1415,14,14,German Shorthaired,German Shorthaired,True
+1416,14,14,German Shorthaired,German Shorthaired,True
+1417,14,14,German Shorthaired,German Shorthaired,True
+1418,14,14,German Shorthaired,German Shorthaired,True
+1419,14,14,German Shorthaired,German Shorthaired,True
+1420,14,14,German Shorthaired,German Shorthaired,True
+1421,14,14,German Shorthaired,German Shorthaired,True
+1422,14,14,German Shorthaired,German Shorthaired,True
+1423,14,14,German Shorthaired,German Shorthaired,True
+1424,14,14,German Shorthaired,German Shorthaired,True
+1425,14,14,German Shorthaired,German Shorthaired,True
+1426,14,14,German Shorthaired,German Shorthaired,True
+1427,14,14,German Shorthaired,German Shorthaired,True
+1428,14,14,German Shorthaired,German Shorthaired,True
+1429,14,14,German Shorthaired,German Shorthaired,True
+1430,14,14,German Shorthaired,German Shorthaired,True
+1431,14,14,German Shorthaired,German Shorthaired,True
+1432,14,14,German Shorthaired,German Shorthaired,True
+1433,14,14,German Shorthaired,German Shorthaired,True
+1434,14,14,German Shorthaired,German Shorthaired,True
+1435,14,12,German Shorthaired,English Cocker Spaniel,False
+1436,14,14,German Shorthaired,German Shorthaired,True
+1437,14,14,German Shorthaired,German Shorthaired,True
+1438,14,14,German Shorthaired,German Shorthaired,True
+1439,14,14,German Shorthaired,German Shorthaired,True
+1440,14,14,German Shorthaired,German Shorthaired,True
+1441,14,14,German Shorthaired,German Shorthaired,True
+1442,14,14,German Shorthaired,German Shorthaired,True
+1443,14,14,German Shorthaired,German Shorthaired,True
+1444,14,14,German Shorthaired,German Shorthaired,True
+1445,14,14,German Shorthaired,German Shorthaired,True
+1446,14,14,German Shorthaired,German Shorthaired,True
+1447,14,14,German Shorthaired,German Shorthaired,True
+1448,14,14,German Shorthaired,German Shorthaired,True
+1449,14,14,German Shorthaired,German Shorthaired,True
+1450,14,14,German Shorthaired,German Shorthaired,True
+1451,14,14,German Shorthaired,German Shorthaired,True
+1452,14,14,German Shorthaired,German Shorthaired,True
+1453,14,14,German Shorthaired,German Shorthaired,True
+1454,14,14,German Shorthaired,German Shorthaired,True
+1455,14,14,German Shorthaired,German Shorthaired,True
+1456,14,14,German Shorthaired,German Shorthaired,True
+1457,14,14,German Shorthaired,German Shorthaired,True
+1458,14,14,German Shorthaired,German Shorthaired,True
+1459,14,14,German Shorthaired,German Shorthaired,True
+1460,14,14,German Shorthaired,German Shorthaired,True
+1461,14,14,German Shorthaired,German Shorthaired,True
+1462,14,14,German Shorthaired,German Shorthaired,True
+1463,14,14,German Shorthaired,German Shorthaired,True
+1464,14,14,German Shorthaired,German Shorthaired,True
+1465,14,14,German Shorthaired,German Shorthaired,True
+1466,14,14,German Shorthaired,German Shorthaired,True
+1467,14,14,German Shorthaired,German Shorthaired,True
+1468,14,14,German Shorthaired,German Shorthaired,True
+1469,14,14,German Shorthaired,German Shorthaired,True
+1470,14,14,German Shorthaired,German Shorthaired,True
+1471,14,14,German Shorthaired,German Shorthaired,True
+1472,14,14,German Shorthaired,German Shorthaired,True
+1473,14,14,German Shorthaired,German Shorthaired,True
+1474,14,14,German Shorthaired,German Shorthaired,True
+1475,14,14,German Shorthaired,German Shorthaired,True
+1476,14,14,German Shorthaired,German Shorthaired,True
+1477,14,14,German Shorthaired,German Shorthaired,True
+1478,14,14,German Shorthaired,German Shorthaired,True
+1479,14,14,German Shorthaired,German Shorthaired,True
+1480,14,14,German Shorthaired,German Shorthaired,True
+1481,14,14,German Shorthaired,German Shorthaired,True
+1482,15,15,Great Pyrenees,Great Pyrenees,True
+1483,15,15,Great Pyrenees,Great Pyrenees,True
+1484,15,15,Great Pyrenees,Great Pyrenees,True
+1485,15,19,Great Pyrenees,Leonberger,False
+1486,15,15,Great Pyrenees,Great Pyrenees,True
+1487,15,15,Great Pyrenees,Great Pyrenees,True
+1488,15,15,Great Pyrenees,Great Pyrenees,True
+1489,15,15,Great Pyrenees,Great Pyrenees,True
+1490,15,15,Great Pyrenees,Great Pyrenees,True
+1491,15,15,Great Pyrenees,Great Pyrenees,True
+1492,15,15,Great Pyrenees,Great Pyrenees,True
+1493,15,15,Great Pyrenees,Great Pyrenees,True
+1494,15,15,Great Pyrenees,Great Pyrenees,True
+1495,15,15,Great Pyrenees,Great Pyrenees,True
+1496,15,15,Great Pyrenees,Great Pyrenees,True
+1497,15,15,Great Pyrenees,Great Pyrenees,True
+1498,15,15,Great Pyrenees,Great Pyrenees,True
+1499,15,15,Great Pyrenees,Great Pyrenees,True
+1500,15,29,Great Pyrenees,Samoyed,False
+1501,15,15,Great Pyrenees,Great Pyrenees,True
+1502,15,15,Great Pyrenees,Great Pyrenees,True
+1503,15,15,Great Pyrenees,Great Pyrenees,True
+1504,15,15,Great Pyrenees,Great Pyrenees,True
+1505,15,15,Great Pyrenees,Great Pyrenees,True
+1506,15,15,Great Pyrenees,Great Pyrenees,True
+1507,15,15,Great Pyrenees,Great Pyrenees,True
+1508,15,15,Great Pyrenees,Great Pyrenees,True
+1509,15,15,Great Pyrenees,Great Pyrenees,True
+1510,15,15,Great Pyrenees,Great Pyrenees,True
+1511,15,15,Great Pyrenees,Great Pyrenees,True
+1512,15,15,Great Pyrenees,Great Pyrenees,True
+1513,15,15,Great Pyrenees,Great Pyrenees,True
+1514,15,15,Great Pyrenees,Great Pyrenees,True
+1515,15,15,Great Pyrenees,Great Pyrenees,True
+1516,15,15,Great Pyrenees,Great Pyrenees,True
+1517,15,15,Great Pyrenees,Great Pyrenees,True
+1518,15,15,Great Pyrenees,Great Pyrenees,True
+1519,15,35,Great Pyrenees,Wheaten Terrier,False
+1520,15,15,Great Pyrenees,Great Pyrenees,True
+1521,15,15,Great Pyrenees,Great Pyrenees,True
+1522,15,15,Great Pyrenees,Great Pyrenees,True
+1523,15,15,Great Pyrenees,Great Pyrenees,True
+1524,15,15,Great Pyrenees,Great Pyrenees,True
+1525,15,15,Great Pyrenees,Great Pyrenees,True
+1526,15,15,Great Pyrenees,Great Pyrenees,True
+1527,15,15,Great Pyrenees,Great Pyrenees,True
+1528,15,15,Great Pyrenees,Great Pyrenees,True
+1529,15,15,Great Pyrenees,Great Pyrenees,True
+1530,15,15,Great Pyrenees,Great Pyrenees,True
+1531,15,15,Great Pyrenees,Great Pyrenees,True
+1532,15,15,Great Pyrenees,Great Pyrenees,True
+1533,15,15,Great Pyrenees,Great Pyrenees,True
+1534,15,15,Great Pyrenees,Great Pyrenees,True
+1535,15,15,Great Pyrenees,Great Pyrenees,True
+1536,15,15,Great Pyrenees,Great Pyrenees,True
+1537,15,15,Great Pyrenees,Great Pyrenees,True
+1538,15,15,Great Pyrenees,Great Pyrenees,True
+1539,15,15,Great Pyrenees,Great Pyrenees,True
+1540,15,15,Great Pyrenees,Great Pyrenees,True
+1541,15,15,Great Pyrenees,Great Pyrenees,True
+1542,15,15,Great Pyrenees,Great Pyrenees,True
+1543,15,15,Great Pyrenees,Great Pyrenees,True
+1544,15,15,Great Pyrenees,Great Pyrenees,True
+1545,15,15,Great Pyrenees,Great Pyrenees,True
+1546,15,15,Great Pyrenees,Great Pyrenees,True
+1547,15,15,Great Pyrenees,Great Pyrenees,True
+1548,15,15,Great Pyrenees,Great Pyrenees,True
+1549,15,15,Great Pyrenees,Great Pyrenees,True
+1550,15,15,Great Pyrenees,Great Pyrenees,True
+1551,15,15,Great Pyrenees,Great Pyrenees,True
+1552,15,15,Great Pyrenees,Great Pyrenees,True
+1553,15,15,Great Pyrenees,Great Pyrenees,True
+1554,15,15,Great Pyrenees,Great Pyrenees,True
+1555,15,15,Great Pyrenees,Great Pyrenees,True
+1556,15,15,Great Pyrenees,Great Pyrenees,True
+1557,15,15,Great Pyrenees,Great Pyrenees,True
+1558,15,15,Great Pyrenees,Great Pyrenees,True
+1559,15,15,Great Pyrenees,Great Pyrenees,True
+1560,15,15,Great Pyrenees,Great Pyrenees,True
+1561,15,15,Great Pyrenees,Great Pyrenees,True
+1562,15,15,Great Pyrenees,Great Pyrenees,True
+1563,15,29,Great Pyrenees,Samoyed,False
+1564,15,15,Great Pyrenees,Great Pyrenees,True
+1565,15,17,Great Pyrenees,Japanese Chin,False
+1566,15,15,Great Pyrenees,Great Pyrenees,True
+1567,15,15,Great Pyrenees,Great Pyrenees,True
+1568,15,15,Great Pyrenees,Great Pyrenees,True
+1569,15,15,Great Pyrenees,Great Pyrenees,True
+1570,15,15,Great Pyrenees,Great Pyrenees,True
+1571,15,15,Great Pyrenees,Great Pyrenees,True
+1572,15,15,Great Pyrenees,Great Pyrenees,True
+1573,15,15,Great Pyrenees,Great Pyrenees,True
+1574,15,15,Great Pyrenees,Great Pyrenees,True
+1575,15,15,Great Pyrenees,Great Pyrenees,True
+1576,15,15,Great Pyrenees,Great Pyrenees,True
+1577,15,15,Great Pyrenees,Great Pyrenees,True
+1578,15,15,Great Pyrenees,Great Pyrenees,True
+1579,15,15,Great Pyrenees,Great Pyrenees,True
+1580,15,15,Great Pyrenees,Great Pyrenees,True
+1581,15,15,Great Pyrenees,Great Pyrenees,True
+1582,16,22,Havanese,Newfoundland,False
+1583,16,16,Havanese,Havanese,True
+1584,16,16,Havanese,Havanese,True
+1585,16,16,Havanese,Havanese,True
+1586,16,16,Havanese,Havanese,True
+1587,16,16,Havanese,Havanese,True
+1588,16,16,Havanese,Havanese,True
+1589,16,16,Havanese,Havanese,True
+1590,16,30,Havanese,Scottish Terrier,False
+1591,16,16,Havanese,Havanese,True
+1592,16,16,Havanese,Havanese,True
+1593,16,16,Havanese,Havanese,True
+1594,16,16,Havanese,Havanese,True
+1595,16,16,Havanese,Havanese,True
+1596,16,16,Havanese,Havanese,True
+1597,16,16,Havanese,Havanese,True
+1598,16,16,Havanese,Havanese,True
+1599,16,16,Havanese,Havanese,True
+1600,16,16,Havanese,Havanese,True
+1601,16,16,Havanese,Havanese,True
+1602,16,16,Havanese,Havanese,True
+1603,16,16,Havanese,Havanese,True
+1604,16,16,Havanese,Havanese,True
+1605,16,16,Havanese,Havanese,True
+1606,16,16,Havanese,Havanese,True
+1607,16,16,Havanese,Havanese,True
+1608,16,16,Havanese,Havanese,True
+1609,16,35,Havanese,Wheaten Terrier,False
+1610,16,16,Havanese,Havanese,True
+1611,16,15,Havanese,Great Pyrenees,False
+1612,16,16,Havanese,Havanese,True
+1613,16,16,Havanese,Havanese,True
+1614,16,16,Havanese,Havanese,True
+1615,16,16,Havanese,Havanese,True
+1616,16,16,Havanese,Havanese,True
+1617,16,35,Havanese,Wheaten Terrier,False
+1618,16,16,Havanese,Havanese,True
+1619,16,16,Havanese,Havanese,True
+1620,16,16,Havanese,Havanese,True
+1621,16,16,Havanese,Havanese,True
+1622,16,16,Havanese,Havanese,True
+1623,16,35,Havanese,Wheaten Terrier,False
+1624,16,36,Havanese,Yorkshire Terrier,False
+1625,16,16,Havanese,Havanese,True
+1626,16,35,Havanese,Wheaten Terrier,False
+1627,16,16,Havanese,Havanese,True
+1628,16,16,Havanese,Havanese,True
+1629,16,16,Havanese,Havanese,True
+1630,16,16,Havanese,Havanese,True
+1631,16,16,Havanese,Havanese,True
+1632,16,16,Havanese,Havanese,True
+1633,16,16,Havanese,Havanese,True
+1634,16,16,Havanese,Havanese,True
+1635,16,16,Havanese,Havanese,True
+1636,16,16,Havanese,Havanese,True
+1637,16,16,Havanese,Havanese,True
+1638,16,16,Havanese,Havanese,True
+1639,16,16,Havanese,Havanese,True
+1640,16,16,Havanese,Havanese,True
+1641,16,16,Havanese,Havanese,True
+1642,16,16,Havanese,Havanese,True
+1643,16,16,Havanese,Havanese,True
+1644,16,16,Havanese,Havanese,True
+1645,16,16,Havanese,Havanese,True
+1646,16,16,Havanese,Havanese,True
+1647,16,31,Havanese,Shiba Inu,False
+1648,16,16,Havanese,Havanese,True
+1649,16,17,Havanese,Japanese Chin,False
+1650,16,36,Havanese,Yorkshire Terrier,False
+1651,16,35,Havanese,Wheaten Terrier,False
+1652,16,16,Havanese,Havanese,True
+1653,16,16,Havanese,Havanese,True
+1654,16,16,Havanese,Havanese,True
+1655,16,16,Havanese,Havanese,True
+1656,16,16,Havanese,Havanese,True
+1657,16,16,Havanese,Havanese,True
+1658,16,16,Havanese,Havanese,True
+1659,16,16,Havanese,Havanese,True
+1660,16,19,Havanese,Leonberger,False
+1661,16,16,Havanese,Havanese,True
+1662,16,16,Havanese,Havanese,True
+1663,16,17,Havanese,Japanese Chin,False
+1664,16,16,Havanese,Havanese,True
+1665,16,16,Havanese,Havanese,True
+1666,16,16,Havanese,Havanese,True
+1667,16,16,Havanese,Havanese,True
+1668,16,16,Havanese,Havanese,True
+1669,16,16,Havanese,Havanese,True
+1670,16,16,Havanese,Havanese,True
+1671,16,17,Havanese,Japanese Chin,False
+1672,16,16,Havanese,Havanese,True
+1673,16,16,Havanese,Havanese,True
+1674,16,16,Havanese,Havanese,True
+1675,16,16,Havanese,Havanese,True
+1676,16,16,Havanese,Havanese,True
+1677,16,16,Havanese,Havanese,True
+1678,16,16,Havanese,Havanese,True
+1679,16,16,Havanese,Havanese,True
+1680,16,16,Havanese,Havanese,True
+1681,16,16,Havanese,Havanese,True
+1682,17,17,Japanese Chin,Japanese Chin,True
+1683,17,17,Japanese Chin,Japanese Chin,True
+1684,17,24,Japanese Chin,Pomeranian,False
+1685,17,28,Japanese Chin,Saint Bernard,False
+1686,17,17,Japanese Chin,Japanese Chin,True
+1687,17,17,Japanese Chin,Japanese Chin,True
+1688,17,17,Japanese Chin,Japanese Chin,True
+1689,17,17,Japanese Chin,Japanese Chin,True
+1690,17,17,Japanese Chin,Japanese Chin,True
+1691,17,17,Japanese Chin,Japanese Chin,True
+1692,17,17,Japanese Chin,Japanese Chin,True
+1693,17,17,Japanese Chin,Japanese Chin,True
+1694,17,17,Japanese Chin,Japanese Chin,True
+1695,17,17,Japanese Chin,Japanese Chin,True
+1696,17,17,Japanese Chin,Japanese Chin,True
+1697,17,17,Japanese Chin,Japanese Chin,True
+1698,17,17,Japanese Chin,Japanese Chin,True
+1699,17,17,Japanese Chin,Japanese Chin,True
+1700,17,17,Japanese Chin,Japanese Chin,True
+1701,17,17,Japanese Chin,Japanese Chin,True
+1702,17,17,Japanese Chin,Japanese Chin,True
+1703,17,17,Japanese Chin,Japanese Chin,True
+1704,17,17,Japanese Chin,Japanese Chin,True
+1705,17,17,Japanese Chin,Japanese Chin,True
+1706,17,17,Japanese Chin,Japanese Chin,True
+1707,17,17,Japanese Chin,Japanese Chin,True
+1708,17,17,Japanese Chin,Japanese Chin,True
+1709,17,17,Japanese Chin,Japanese Chin,True
+1710,17,17,Japanese Chin,Japanese Chin,True
+1711,17,17,Japanese Chin,Japanese Chin,True
+1712,17,17,Japanese Chin,Japanese Chin,True
+1713,17,17,Japanese Chin,Japanese Chin,True
+1714,17,17,Japanese Chin,Japanese Chin,True
+1715,17,17,Japanese Chin,Japanese Chin,True
+1716,17,17,Japanese Chin,Japanese Chin,True
+1717,17,17,Japanese Chin,Japanese Chin,True
+1718,17,17,Japanese Chin,Japanese Chin,True
+1719,17,17,Japanese Chin,Japanese Chin,True
+1720,17,17,Japanese Chin,Japanese Chin,True
+1721,17,17,Japanese Chin,Japanese Chin,True
+1722,17,17,Japanese Chin,Japanese Chin,True
+1723,17,17,Japanese Chin,Japanese Chin,True
+1724,17,17,Japanese Chin,Japanese Chin,True
+1725,17,17,Japanese Chin,Japanese Chin,True
+1726,17,17,Japanese Chin,Japanese Chin,True
+1727,17,17,Japanese Chin,Japanese Chin,True
+1728,17,17,Japanese Chin,Japanese Chin,True
+1729,17,17,Japanese Chin,Japanese Chin,True
+1730,17,17,Japanese Chin,Japanese Chin,True
+1731,17,17,Japanese Chin,Japanese Chin,True
+1732,17,17,Japanese Chin,Japanese Chin,True
+1733,17,17,Japanese Chin,Japanese Chin,True
+1734,17,17,Japanese Chin,Japanese Chin,True
+1735,17,17,Japanese Chin,Japanese Chin,True
+1736,17,17,Japanese Chin,Japanese Chin,True
+1737,17,17,Japanese Chin,Japanese Chin,True
+1738,17,17,Japanese Chin,Japanese Chin,True
+1739,17,17,Japanese Chin,Japanese Chin,True
+1740,17,17,Japanese Chin,Japanese Chin,True
+1741,17,17,Japanese Chin,Japanese Chin,True
+1742,17,17,Japanese Chin,Japanese Chin,True
+1743,17,17,Japanese Chin,Japanese Chin,True
+1744,17,17,Japanese Chin,Japanese Chin,True
+1745,17,17,Japanese Chin,Japanese Chin,True
+1746,17,17,Japanese Chin,Japanese Chin,True
+1747,17,17,Japanese Chin,Japanese Chin,True
+1748,17,17,Japanese Chin,Japanese Chin,True
+1749,17,17,Japanese Chin,Japanese Chin,True
+1750,17,17,Japanese Chin,Japanese Chin,True
+1751,17,17,Japanese Chin,Japanese Chin,True
+1752,17,17,Japanese Chin,Japanese Chin,True
+1753,17,17,Japanese Chin,Japanese Chin,True
+1754,17,17,Japanese Chin,Japanese Chin,True
+1755,17,17,Japanese Chin,Japanese Chin,True
+1756,17,17,Japanese Chin,Japanese Chin,True
+1757,17,17,Japanese Chin,Japanese Chin,True
+1758,17,28,Japanese Chin,Saint Bernard,False
+1759,17,17,Japanese Chin,Japanese Chin,True
+1760,17,13,Japanese Chin,English Setter,False
+1761,17,17,Japanese Chin,Japanese Chin,True
+1762,17,17,Japanese Chin,Japanese Chin,True
+1763,17,17,Japanese Chin,Japanese Chin,True
+1764,17,17,Japanese Chin,Japanese Chin,True
+1765,17,17,Japanese Chin,Japanese Chin,True
+1766,17,17,Japanese Chin,Japanese Chin,True
+1767,17,17,Japanese Chin,Japanese Chin,True
+1768,17,17,Japanese Chin,Japanese Chin,True
+1769,17,35,Japanese Chin,Wheaten Terrier,False
+1770,17,17,Japanese Chin,Japanese Chin,True
+1771,17,17,Japanese Chin,Japanese Chin,True
+1772,17,17,Japanese Chin,Japanese Chin,True
+1773,17,17,Japanese Chin,Japanese Chin,True
+1774,17,17,Japanese Chin,Japanese Chin,True
+1775,17,17,Japanese Chin,Japanese Chin,True
+1776,17,17,Japanese Chin,Japanese Chin,True
+1777,17,17,Japanese Chin,Japanese Chin,True
+1778,17,17,Japanese Chin,Japanese Chin,True
+1779,17,17,Japanese Chin,Japanese Chin,True
+1780,17,17,Japanese Chin,Japanese Chin,True
+1781,17,17,Japanese Chin,Japanese Chin,True
+1782,18,18,Keeshond,Keeshond,True
+1783,18,18,Keeshond,Keeshond,True
+1784,18,18,Keeshond,Keeshond,True
+1785,18,18,Keeshond,Keeshond,True
+1786,18,18,Keeshond,Keeshond,True
+1787,18,18,Keeshond,Keeshond,True
+1788,18,18,Keeshond,Keeshond,True
+1789,18,18,Keeshond,Keeshond,True
+1790,18,18,Keeshond,Keeshond,True
+1791,18,18,Keeshond,Keeshond,True
+1792,18,18,Keeshond,Keeshond,True
+1793,18,22,Keeshond,Newfoundland,False
+1794,18,18,Keeshond,Keeshond,True
+1795,18,18,Keeshond,Keeshond,True
+1796,18,18,Keeshond,Keeshond,True
+1797,18,18,Keeshond,Keeshond,True
+1798,18,18,Keeshond,Keeshond,True
+1799,18,30,Keeshond,Scottish Terrier,False
+1800,18,18,Keeshond,Keeshond,True
+1801,18,18,Keeshond,Keeshond,True
+1802,18,18,Keeshond,Keeshond,True
+1803,18,18,Keeshond,Keeshond,True
+1804,18,18,Keeshond,Keeshond,True
+1805,18,18,Keeshond,Keeshond,True
+1806,18,19,Keeshond,Leonberger,False
+1807,18,18,Keeshond,Keeshond,True
+1808,18,18,Keeshond,Keeshond,True
+1809,18,18,Keeshond,Keeshond,True
+1810,18,18,Keeshond,Keeshond,True
+1811,18,18,Keeshond,Keeshond,True
+1812,18,18,Keeshond,Keeshond,True
+1813,18,18,Keeshond,Keeshond,True
+1814,18,18,Keeshond,Keeshond,True
+1815,18,18,Keeshond,Keeshond,True
+1816,18,18,Keeshond,Keeshond,True
+1817,18,18,Keeshond,Keeshond,True
+1818,18,18,Keeshond,Keeshond,True
+1819,18,18,Keeshond,Keeshond,True
+1820,18,18,Keeshond,Keeshond,True
+1821,18,18,Keeshond,Keeshond,True
+1822,18,18,Keeshond,Keeshond,True
+1823,18,18,Keeshond,Keeshond,True
+1824,18,18,Keeshond,Keeshond,True
+1825,18,18,Keeshond,Keeshond,True
+1826,18,18,Keeshond,Keeshond,True
+1827,18,18,Keeshond,Keeshond,True
+1828,18,18,Keeshond,Keeshond,True
+1829,18,18,Keeshond,Keeshond,True
+1830,18,18,Keeshond,Keeshond,True
+1831,18,18,Keeshond,Keeshond,True
+1832,18,18,Keeshond,Keeshond,True
+1833,18,18,Keeshond,Keeshond,True
+1834,18,18,Keeshond,Keeshond,True
+1835,18,18,Keeshond,Keeshond,True
+1836,18,18,Keeshond,Keeshond,True
+1837,18,18,Keeshond,Keeshond,True
+1838,18,18,Keeshond,Keeshond,True
+1839,18,18,Keeshond,Keeshond,True
+1840,18,18,Keeshond,Keeshond,True
+1841,18,18,Keeshond,Keeshond,True
+1842,18,18,Keeshond,Keeshond,True
+1843,18,18,Keeshond,Keeshond,True
+1844,18,18,Keeshond,Keeshond,True
+1845,18,18,Keeshond,Keeshond,True
+1846,18,18,Keeshond,Keeshond,True
+1847,18,18,Keeshond,Keeshond,True
+1848,18,18,Keeshond,Keeshond,True
+1849,18,18,Keeshond,Keeshond,True
+1850,18,18,Keeshond,Keeshond,True
+1851,18,18,Keeshond,Keeshond,True
+1852,18,24,Keeshond,Pomeranian,False
+1853,18,15,Keeshond,Great Pyrenees,False
+1854,18,18,Keeshond,Keeshond,True
+1855,18,18,Keeshond,Keeshond,True
+1856,18,18,Keeshond,Keeshond,True
+1857,18,18,Keeshond,Keeshond,True
+1858,18,18,Keeshond,Keeshond,True
+1859,18,30,Keeshond,Scottish Terrier,False
+1860,18,18,Keeshond,Keeshond,True
+1861,18,18,Keeshond,Keeshond,True
+1862,18,18,Keeshond,Keeshond,True
+1863,18,18,Keeshond,Keeshond,True
+1864,18,18,Keeshond,Keeshond,True
+1865,18,18,Keeshond,Keeshond,True
+1866,18,18,Keeshond,Keeshond,True
+1867,18,18,Keeshond,Keeshond,True
+1868,18,18,Keeshond,Keeshond,True
+1869,18,18,Keeshond,Keeshond,True
+1870,18,18,Keeshond,Keeshond,True
+1871,18,18,Keeshond,Keeshond,True
+1872,18,18,Keeshond,Keeshond,True
+1873,18,18,Keeshond,Keeshond,True
+1874,18,18,Keeshond,Keeshond,True
+1875,18,18,Keeshond,Keeshond,True
+1876,18,18,Keeshond,Keeshond,True
+1877,18,18,Keeshond,Keeshond,True
+1878,18,18,Keeshond,Keeshond,True
+1879,18,18,Keeshond,Keeshond,True
+1880,18,18,Keeshond,Keeshond,True
+1881,19,19,Leonberger,Leonberger,True
+1882,19,19,Leonberger,Leonberger,True
+1883,19,19,Leonberger,Leonberger,True
+1884,19,19,Leonberger,Leonberger,True
+1885,19,19,Leonberger,Leonberger,True
+1886,19,19,Leonberger,Leonberger,True
+1887,19,19,Leonberger,Leonberger,True
+1888,19,19,Leonberger,Leonberger,True
+1889,19,19,Leonberger,Leonberger,True
+1890,19,19,Leonberger,Leonberger,True
+1891,19,19,Leonberger,Leonberger,True
+1892,19,19,Leonberger,Leonberger,True
+1893,19,19,Leonberger,Leonberger,True
+1894,19,19,Leonberger,Leonberger,True
+1895,19,19,Leonberger,Leonberger,True
+1896,19,19,Leonberger,Leonberger,True
+1897,19,19,Leonberger,Leonberger,True
+1898,19,19,Leonberger,Leonberger,True
+1899,19,19,Leonberger,Leonberger,True
+1900,19,19,Leonberger,Leonberger,True
+1901,19,19,Leonberger,Leonberger,True
+1902,19,19,Leonberger,Leonberger,True
+1903,19,19,Leonberger,Leonberger,True
+1904,19,35,Leonberger,Wheaten Terrier,False
+1905,19,19,Leonberger,Leonberger,True
+1906,19,19,Leonberger,Leonberger,True
+1907,19,19,Leonberger,Leonberger,True
+1908,19,19,Leonberger,Leonberger,True
+1909,19,19,Leonberger,Leonberger,True
+1910,19,19,Leonberger,Leonberger,True
+1911,19,19,Leonberger,Leonberger,True
+1912,19,19,Leonberger,Leonberger,True
+1913,19,19,Leonberger,Leonberger,True
+1914,19,19,Leonberger,Leonberger,True
+1915,19,19,Leonberger,Leonberger,True
+1916,19,19,Leonberger,Leonberger,True
+1917,19,19,Leonberger,Leonberger,True
+1918,19,19,Leonberger,Leonberger,True
+1919,19,19,Leonberger,Leonberger,True
+1920,19,19,Leonberger,Leonberger,True
+1921,19,19,Leonberger,Leonberger,True
+1922,19,16,Leonberger,Havanese,False
+1923,19,19,Leonberger,Leonberger,True
+1924,19,19,Leonberger,Leonberger,True
+1925,19,19,Leonberger,Leonberger,True
+1926,19,19,Leonberger,Leonberger,True
+1927,19,22,Leonberger,Newfoundland,False
+1928,19,19,Leonberger,Leonberger,True
+1929,19,19,Leonberger,Leonberger,True
+1930,19,19,Leonberger,Leonberger,True
+1931,19,19,Leonberger,Leonberger,True
+1932,19,19,Leonberger,Leonberger,True
+1933,19,19,Leonberger,Leonberger,True
+1934,19,19,Leonberger,Leonberger,True
+1935,19,19,Leonberger,Leonberger,True
+1936,19,19,Leonberger,Leonberger,True
+1937,19,19,Leonberger,Leonberger,True
+1938,19,19,Leonberger,Leonberger,True
+1939,19,19,Leonberger,Leonberger,True
+1940,19,19,Leonberger,Leonberger,True
+1941,19,19,Leonberger,Leonberger,True
+1942,19,19,Leonberger,Leonberger,True
+1943,19,19,Leonberger,Leonberger,True
+1944,19,19,Leonberger,Leonberger,True
+1945,19,19,Leonberger,Leonberger,True
+1946,19,19,Leonberger,Leonberger,True
+1947,19,19,Leonberger,Leonberger,True
+1948,19,19,Leonberger,Leonberger,True
+1949,19,19,Leonberger,Leonberger,True
+1950,19,19,Leonberger,Leonberger,True
+1951,19,30,Leonberger,Scottish Terrier,False
+1952,19,19,Leonberger,Leonberger,True
+1953,19,19,Leonberger,Leonberger,True
+1954,19,19,Leonberger,Leonberger,True
+1955,19,19,Leonberger,Leonberger,True
+1956,19,19,Leonberger,Leonberger,True
+1957,19,19,Leonberger,Leonberger,True
+1958,19,19,Leonberger,Leonberger,True
+1959,19,19,Leonberger,Leonberger,True
+1960,19,19,Leonberger,Leonberger,True
+1961,19,19,Leonberger,Leonberger,True
+1962,19,19,Leonberger,Leonberger,True
+1963,19,19,Leonberger,Leonberger,True
+1964,19,19,Leonberger,Leonberger,True
+1965,19,19,Leonberger,Leonberger,True
+1966,19,19,Leonberger,Leonberger,True
+1967,19,19,Leonberger,Leonberger,True
+1968,19,19,Leonberger,Leonberger,True
+1969,19,19,Leonberger,Leonberger,True
+1970,19,19,Leonberger,Leonberger,True
+1971,19,19,Leonberger,Leonberger,True
+1972,19,19,Leonberger,Leonberger,True
+1973,19,19,Leonberger,Leonberger,True
+1974,19,8,Leonberger,Boxer,False
+1975,19,19,Leonberger,Leonberger,True
+1976,19,19,Leonberger,Leonberger,True
+1977,19,19,Leonberger,Leonberger,True
+1978,19,19,Leonberger,Leonberger,True
+1979,19,19,Leonberger,Leonberger,True
+1980,19,19,Leonberger,Leonberger,True
+1981,20,20,Maine Coon,Maine Coon,True
+1982,20,20,Maine Coon,Maine Coon,True
+1983,20,20,Maine Coon,Maine Coon,True
+1984,20,20,Maine Coon,Maine Coon,True
+1985,20,7,Maine Coon,Bombay,False
+1986,20,5,Maine Coon,Bengal,False
+1987,20,20,Maine Coon,Maine Coon,True
+1988,20,20,Maine Coon,Maine Coon,True
+1989,20,5,Maine Coon,Bengal,False
+1990,20,26,Maine Coon,Ragdoll,False
+1991,20,20,Maine Coon,Maine Coon,True
+1992,20,9,Maine Coon,British Shorthair,False
+1993,20,20,Maine Coon,Maine Coon,True
+1994,20,7,Maine Coon,Bombay,False
+1995,20,20,Maine Coon,Maine Coon,True
+1996,20,20,Maine Coon,Maine Coon,True
+1997,20,5,Maine Coon,Bengal,False
+1998,20,20,Maine Coon,Maine Coon,True
+1999,20,26,Maine Coon,Ragdoll,False
+2000,20,20,Maine Coon,Maine Coon,True
+2001,20,20,Maine Coon,Maine Coon,True
+2002,20,20,Maine Coon,Maine Coon,True
+2003,20,26,Maine Coon,Ragdoll,False
+2004,20,0,Maine Coon,Abyssinian,False
+2005,20,23,Maine Coon,Persian,False
+2006,20,20,Maine Coon,Maine Coon,True
+2007,20,20,Maine Coon,Maine Coon,True
+2008,20,5,Maine Coon,Bengal,False
+2009,20,20,Maine Coon,Maine Coon,True
+2010,20,20,Maine Coon,Maine Coon,True
+2011,20,20,Maine Coon,Maine Coon,True
+2012,20,20,Maine Coon,Maine Coon,True
+2013,20,20,Maine Coon,Maine Coon,True
+2014,20,5,Maine Coon,Bengal,False
+2015,20,26,Maine Coon,Ragdoll,False
+2016,20,20,Maine Coon,Maine Coon,True
+2017,20,20,Maine Coon,Maine Coon,True
+2018,20,23,Maine Coon,Persian,False
+2019,20,20,Maine Coon,Maine Coon,True
+2020,20,20,Maine Coon,Maine Coon,True
+2021,20,20,Maine Coon,Maine Coon,True
+2022,20,20,Maine Coon,Maine Coon,True
+2023,20,20,Maine Coon,Maine Coon,True
+2024,20,20,Maine Coon,Maine Coon,True
+2025,20,5,Maine Coon,Bengal,False
+2026,20,20,Maine Coon,Maine Coon,True
+2027,20,20,Maine Coon,Maine Coon,True
+2028,20,20,Maine Coon,Maine Coon,True
+2029,20,20,Maine Coon,Maine Coon,True
+2030,20,20,Maine Coon,Maine Coon,True
+2031,20,26,Maine Coon,Ragdoll,False
+2032,20,20,Maine Coon,Maine Coon,True
+2033,20,23,Maine Coon,Persian,False
+2034,20,20,Maine Coon,Maine Coon,True
+2035,20,20,Maine Coon,Maine Coon,True
+2036,20,20,Maine Coon,Maine Coon,True
+2037,20,20,Maine Coon,Maine Coon,True
+2038,20,26,Maine Coon,Ragdoll,False
+2039,20,20,Maine Coon,Maine Coon,True
+2040,20,20,Maine Coon,Maine Coon,True
+2041,20,20,Maine Coon,Maine Coon,True
+2042,20,20,Maine Coon,Maine Coon,True
+2043,20,17,Maine Coon,Japanese Chin,False
+2044,20,20,Maine Coon,Maine Coon,True
+2045,20,20,Maine Coon,Maine Coon,True
+2046,20,20,Maine Coon,Maine Coon,True
+2047,20,20,Maine Coon,Maine Coon,True
+2048,20,20,Maine Coon,Maine Coon,True
+2049,20,20,Maine Coon,Maine Coon,True
+2050,20,20,Maine Coon,Maine Coon,True
+2051,20,5,Maine Coon,Bengal,False
+2052,20,5,Maine Coon,Bengal,False
+2053,20,20,Maine Coon,Maine Coon,True
+2054,20,20,Maine Coon,Maine Coon,True
+2055,20,20,Maine Coon,Maine Coon,True
+2056,20,20,Maine Coon,Maine Coon,True
+2057,20,20,Maine Coon,Maine Coon,True
+2058,20,20,Maine Coon,Maine Coon,True
+2059,20,26,Maine Coon,Ragdoll,False
+2060,20,20,Maine Coon,Maine Coon,True
+2061,20,20,Maine Coon,Maine Coon,True
+2062,20,20,Maine Coon,Maine Coon,True
+2063,20,20,Maine Coon,Maine Coon,True
+2064,20,20,Maine Coon,Maine Coon,True
+2065,20,20,Maine Coon,Maine Coon,True
+2066,20,20,Maine Coon,Maine Coon,True
+2067,20,20,Maine Coon,Maine Coon,True
+2068,20,20,Maine Coon,Maine Coon,True
+2069,20,20,Maine Coon,Maine Coon,True
+2070,20,26,Maine Coon,Ragdoll,False
+2071,20,20,Maine Coon,Maine Coon,True
+2072,20,20,Maine Coon,Maine Coon,True
+2073,20,20,Maine Coon,Maine Coon,True
+2074,20,20,Maine Coon,Maine Coon,True
+2075,20,20,Maine Coon,Maine Coon,True
+2076,20,26,Maine Coon,Ragdoll,False
+2077,20,20,Maine Coon,Maine Coon,True
+2078,20,26,Maine Coon,Ragdoll,False
+2079,20,20,Maine Coon,Maine Coon,True
+2080,20,5,Maine Coon,Bengal,False
+2081,21,21,Miniature Pinscher,Miniature Pinscher,True
+2082,21,10,Miniature Pinscher,Chihuahua,False
+2083,21,21,Miniature Pinscher,Miniature Pinscher,True
+2084,21,21,Miniature Pinscher,Miniature Pinscher,True
+2085,21,21,Miniature Pinscher,Miniature Pinscher,True
+2086,21,21,Miniature Pinscher,Miniature Pinscher,True
+2087,21,21,Miniature Pinscher,Miniature Pinscher,True
+2088,21,2,Miniature Pinscher,American Pit Bull Terrier,False
+2089,21,21,Miniature Pinscher,Miniature Pinscher,True
+2090,21,34,Miniature Pinscher,Staffordshire Bull Terrier,False
+2091,21,21,Miniature Pinscher,Miniature Pinscher,True
+2092,21,21,Miniature Pinscher,Miniature Pinscher,True
+2093,21,21,Miniature Pinscher,Miniature Pinscher,True
+2094,21,21,Miniature Pinscher,Miniature Pinscher,True
+2095,21,21,Miniature Pinscher,Miniature Pinscher,True
+2096,21,21,Miniature Pinscher,Miniature Pinscher,True
+2097,21,21,Miniature Pinscher,Miniature Pinscher,True
+2098,21,21,Miniature Pinscher,Miniature Pinscher,True
+2099,21,21,Miniature Pinscher,Miniature Pinscher,True
+2100,21,21,Miniature Pinscher,Miniature Pinscher,True
+2101,21,21,Miniature Pinscher,Miniature Pinscher,True
+2102,21,14,Miniature Pinscher,German Shorthaired,False
+2103,21,21,Miniature Pinscher,Miniature Pinscher,True
+2104,21,21,Miniature Pinscher,Miniature Pinscher,True
+2105,21,10,Miniature Pinscher,Chihuahua,False
+2106,21,21,Miniature Pinscher,Miniature Pinscher,True
+2107,21,21,Miniature Pinscher,Miniature Pinscher,True
+2108,21,21,Miniature Pinscher,Miniature Pinscher,True
+2109,21,21,Miniature Pinscher,Miniature Pinscher,True
+2110,21,21,Miniature Pinscher,Miniature Pinscher,True
+2111,21,21,Miniature Pinscher,Miniature Pinscher,True
+2112,21,34,Miniature Pinscher,Staffordshire Bull Terrier,False
+2113,21,0,Miniature Pinscher,Abyssinian,False
+2114,21,31,Miniature Pinscher,Shiba Inu,False
+2115,21,21,Miniature Pinscher,Miniature Pinscher,True
+2116,21,21,Miniature Pinscher,Miniature Pinscher,True
+2117,21,21,Miniature Pinscher,Miniature Pinscher,True
+2118,21,33,Miniature Pinscher,Sphynx,False
+2119,21,21,Miniature Pinscher,Miniature Pinscher,True
+2120,21,33,Miniature Pinscher,Sphynx,False
+2121,21,21,Miniature Pinscher,Miniature Pinscher,True
+2122,21,21,Miniature Pinscher,Miniature Pinscher,True
+2123,21,21,Miniature Pinscher,Miniature Pinscher,True
+2124,21,21,Miniature Pinscher,Miniature Pinscher,True
+2125,21,21,Miniature Pinscher,Miniature Pinscher,True
+2126,21,21,Miniature Pinscher,Miniature Pinscher,True
+2127,21,33,Miniature Pinscher,Sphynx,False
+2128,21,21,Miniature Pinscher,Miniature Pinscher,True
+2129,21,21,Miniature Pinscher,Miniature Pinscher,True
+2130,21,21,Miniature Pinscher,Miniature Pinscher,True
+2131,21,21,Miniature Pinscher,Miniature Pinscher,True
+2132,21,21,Miniature Pinscher,Miniature Pinscher,True
+2133,21,21,Miniature Pinscher,Miniature Pinscher,True
+2134,21,21,Miniature Pinscher,Miniature Pinscher,True
+2135,21,21,Miniature Pinscher,Miniature Pinscher,True
+2136,21,8,Miniature Pinscher,Boxer,False
+2137,21,21,Miniature Pinscher,Miniature Pinscher,True
+2138,21,21,Miniature Pinscher,Miniature Pinscher,True
+2139,21,21,Miniature Pinscher,Miniature Pinscher,True
+2140,21,21,Miniature Pinscher,Miniature Pinscher,True
+2141,21,21,Miniature Pinscher,Miniature Pinscher,True
+2142,21,21,Miniature Pinscher,Miniature Pinscher,True
+2143,21,21,Miniature Pinscher,Miniature Pinscher,True
+2144,21,21,Miniature Pinscher,Miniature Pinscher,True
+2145,21,21,Miniature Pinscher,Miniature Pinscher,True
+2146,21,7,Miniature Pinscher,Bombay,False
+2147,21,21,Miniature Pinscher,Miniature Pinscher,True
+2148,21,21,Miniature Pinscher,Miniature Pinscher,True
+2149,21,31,Miniature Pinscher,Shiba Inu,False
+2150,21,21,Miniature Pinscher,Miniature Pinscher,True
+2151,21,21,Miniature Pinscher,Miniature Pinscher,True
+2152,21,21,Miniature Pinscher,Miniature Pinscher,True
+2153,21,21,Miniature Pinscher,Miniature Pinscher,True
+2154,21,8,Miniature Pinscher,Boxer,False
+2155,21,21,Miniature Pinscher,Miniature Pinscher,True
+2156,21,21,Miniature Pinscher,Miniature Pinscher,True
+2157,21,33,Miniature Pinscher,Sphynx,False
+2158,21,27,Miniature Pinscher,Russian Blue,False
+2159,21,21,Miniature Pinscher,Miniature Pinscher,True
+2160,21,21,Miniature Pinscher,Miniature Pinscher,True
+2161,21,21,Miniature Pinscher,Miniature Pinscher,True
+2162,21,21,Miniature Pinscher,Miniature Pinscher,True
+2163,21,21,Miniature Pinscher,Miniature Pinscher,True
+2164,21,31,Miniature Pinscher,Shiba Inu,False
+2165,21,31,Miniature Pinscher,Shiba Inu,False
+2166,21,21,Miniature Pinscher,Miniature Pinscher,True
+2167,21,21,Miniature Pinscher,Miniature Pinscher,True
+2168,21,21,Miniature Pinscher,Miniature Pinscher,True
+2169,21,21,Miniature Pinscher,Miniature Pinscher,True
+2170,21,33,Miniature Pinscher,Sphynx,False
+2171,21,21,Miniature Pinscher,Miniature Pinscher,True
+2172,21,21,Miniature Pinscher,Miniature Pinscher,True
+2173,21,21,Miniature Pinscher,Miniature Pinscher,True
+2174,21,34,Miniature Pinscher,Staffordshire Bull Terrier,False
+2175,21,21,Miniature Pinscher,Miniature Pinscher,True
+2176,21,21,Miniature Pinscher,Miniature Pinscher,True
+2177,21,21,Miniature Pinscher,Miniature Pinscher,True
+2178,21,21,Miniature Pinscher,Miniature Pinscher,True
+2179,21,21,Miniature Pinscher,Miniature Pinscher,True
+2180,21,2,Miniature Pinscher,American Pit Bull Terrier,False
+2181,22,22,Newfoundland,Newfoundland,True
+2182,22,22,Newfoundland,Newfoundland,True
+2183,22,22,Newfoundland,Newfoundland,True
+2184,22,22,Newfoundland,Newfoundland,True
+2185,22,22,Newfoundland,Newfoundland,True
+2186,22,22,Newfoundland,Newfoundland,True
+2187,22,12,Newfoundland,English Cocker Spaniel,False
+2188,22,22,Newfoundland,Newfoundland,True
+2189,22,22,Newfoundland,Newfoundland,True
+2190,22,22,Newfoundland,Newfoundland,True
+2191,22,22,Newfoundland,Newfoundland,True
+2192,22,22,Newfoundland,Newfoundland,True
+2193,22,22,Newfoundland,Newfoundland,True
+2194,22,22,Newfoundland,Newfoundland,True
+2195,22,22,Newfoundland,Newfoundland,True
+2196,22,22,Newfoundland,Newfoundland,True
+2197,22,22,Newfoundland,Newfoundland,True
+2198,22,22,Newfoundland,Newfoundland,True
+2199,22,22,Newfoundland,Newfoundland,True
+2200,22,22,Newfoundland,Newfoundland,True
+2201,22,22,Newfoundland,Newfoundland,True
+2202,22,22,Newfoundland,Newfoundland,True
+2203,22,22,Newfoundland,Newfoundland,True
+2204,22,22,Newfoundland,Newfoundland,True
+2205,22,22,Newfoundland,Newfoundland,True
+2206,22,22,Newfoundland,Newfoundland,True
+2207,22,22,Newfoundland,Newfoundland,True
+2208,22,22,Newfoundland,Newfoundland,True
+2209,22,22,Newfoundland,Newfoundland,True
+2210,22,22,Newfoundland,Newfoundland,True
+2211,22,22,Newfoundland,Newfoundland,True
+2212,22,22,Newfoundland,Newfoundland,True
+2213,22,22,Newfoundland,Newfoundland,True
+2214,22,22,Newfoundland,Newfoundland,True
+2215,22,22,Newfoundland,Newfoundland,True
+2216,22,22,Newfoundland,Newfoundland,True
+2217,22,22,Newfoundland,Newfoundland,True
+2218,22,22,Newfoundland,Newfoundland,True
+2219,22,22,Newfoundland,Newfoundland,True
+2220,22,22,Newfoundland,Newfoundland,True
+2221,22,22,Newfoundland,Newfoundland,True
+2222,22,22,Newfoundland,Newfoundland,True
+2223,22,22,Newfoundland,Newfoundland,True
+2224,22,22,Newfoundland,Newfoundland,True
+2225,22,22,Newfoundland,Newfoundland,True
+2226,22,22,Newfoundland,Newfoundland,True
+2227,22,22,Newfoundland,Newfoundland,True
+2228,22,22,Newfoundland,Newfoundland,True
+2229,22,22,Newfoundland,Newfoundland,True
+2230,22,22,Newfoundland,Newfoundland,True
+2231,22,22,Newfoundland,Newfoundland,True
+2232,22,22,Newfoundland,Newfoundland,True
+2233,22,22,Newfoundland,Newfoundland,True
+2234,22,22,Newfoundland,Newfoundland,True
+2235,22,22,Newfoundland,Newfoundland,True
+2236,22,22,Newfoundland,Newfoundland,True
+2237,22,22,Newfoundland,Newfoundland,True
+2238,22,22,Newfoundland,Newfoundland,True
+2239,22,22,Newfoundland,Newfoundland,True
+2240,22,22,Newfoundland,Newfoundland,True
+2241,22,22,Newfoundland,Newfoundland,True
+2242,22,22,Newfoundland,Newfoundland,True
+2243,22,22,Newfoundland,Newfoundland,True
+2244,22,22,Newfoundland,Newfoundland,True
+2245,22,22,Newfoundland,Newfoundland,True
+2246,22,22,Newfoundland,Newfoundland,True
+2247,22,22,Newfoundland,Newfoundland,True
+2248,22,22,Newfoundland,Newfoundland,True
+2249,22,22,Newfoundland,Newfoundland,True
+2250,22,22,Newfoundland,Newfoundland,True
+2251,22,22,Newfoundland,Newfoundland,True
+2252,22,22,Newfoundland,Newfoundland,True
+2253,22,22,Newfoundland,Newfoundland,True
+2254,22,22,Newfoundland,Newfoundland,True
+2255,22,22,Newfoundland,Newfoundland,True
+2256,22,22,Newfoundland,Newfoundland,True
+2257,22,22,Newfoundland,Newfoundland,True
+2258,22,22,Newfoundland,Newfoundland,True
+2259,22,22,Newfoundland,Newfoundland,True
+2260,22,22,Newfoundland,Newfoundland,True
+2261,22,22,Newfoundland,Newfoundland,True
+2262,22,22,Newfoundland,Newfoundland,True
+2263,22,22,Newfoundland,Newfoundland,True
+2264,22,22,Newfoundland,Newfoundland,True
+2265,22,22,Newfoundland,Newfoundland,True
+2266,22,22,Newfoundland,Newfoundland,True
+2267,22,22,Newfoundland,Newfoundland,True
+2268,22,7,Newfoundland,Bombay,False
+2269,22,22,Newfoundland,Newfoundland,True
+2270,22,22,Newfoundland,Newfoundland,True
+2271,22,22,Newfoundland,Newfoundland,True
+2272,22,30,Newfoundland,Scottish Terrier,False
+2273,22,22,Newfoundland,Newfoundland,True
+2274,22,22,Newfoundland,Newfoundland,True
+2275,22,22,Newfoundland,Newfoundland,True
+2276,22,22,Newfoundland,Newfoundland,True
+2277,22,22,Newfoundland,Newfoundland,True
+2278,22,22,Newfoundland,Newfoundland,True
+2279,22,22,Newfoundland,Newfoundland,True
+2280,22,22,Newfoundland,Newfoundland,True
+2281,23,23,Persian,Persian,True
+2282,23,26,Persian,Ragdoll,False
+2283,23,5,Persian,Bengal,False
+2284,23,7,Persian,Bombay,False
+2285,23,23,Persian,Persian,True
+2286,23,24,Persian,Pomeranian,False
+2287,23,18,Persian,Keeshond,False
+2288,23,23,Persian,Persian,True
+2289,23,23,Persian,Persian,True
+2290,23,23,Persian,Persian,True
+2291,23,26,Persian,Ragdoll,False
+2292,23,23,Persian,Persian,True
+2293,23,23,Persian,Persian,True
+2294,23,23,Persian,Persian,True
+2295,23,23,Persian,Persian,True
+2296,23,26,Persian,Ragdoll,False
+2297,23,23,Persian,Persian,True
+2298,23,24,Persian,Pomeranian,False
+2299,23,23,Persian,Persian,True
+2300,23,29,Persian,Samoyed,False
+2301,23,23,Persian,Persian,True
+2302,23,23,Persian,Persian,True
+2303,23,20,Persian,Maine Coon,False
+2304,23,23,Persian,Persian,True
+2305,23,26,Persian,Ragdoll,False
+2306,23,26,Persian,Ragdoll,False
+2307,23,24,Persian,Pomeranian,False
+2308,23,23,Persian,Persian,True
+2309,23,26,Persian,Ragdoll,False
+2310,23,23,Persian,Persian,True
+2311,23,20,Persian,Maine Coon,False
+2312,23,23,Persian,Persian,True
+2313,23,23,Persian,Persian,True
+2314,23,23,Persian,Persian,True
+2315,23,23,Persian,Persian,True
+2316,23,23,Persian,Persian,True
+2317,23,23,Persian,Persian,True
+2318,23,23,Persian,Persian,True
+2319,23,20,Persian,Maine Coon,False
+2320,23,23,Persian,Persian,True
+2321,23,23,Persian,Persian,True
+2322,23,23,Persian,Persian,True
+2323,23,17,Persian,Japanese Chin,False
+2324,23,23,Persian,Persian,True
+2325,23,23,Persian,Persian,True
+2326,23,23,Persian,Persian,True
+2327,23,23,Persian,Persian,True
+2328,23,23,Persian,Persian,True
+2329,23,23,Persian,Persian,True
+2330,23,23,Persian,Persian,True
+2331,23,18,Persian,Keeshond,False
+2332,23,23,Persian,Persian,True
+2333,23,23,Persian,Persian,True
+2334,23,20,Persian,Maine Coon,False
+2335,23,23,Persian,Persian,True
+2336,23,23,Persian,Persian,True
+2337,23,23,Persian,Persian,True
+2338,23,23,Persian,Persian,True
+2339,23,23,Persian,Persian,True
+2340,23,23,Persian,Persian,True
+2341,23,23,Persian,Persian,True
+2342,23,23,Persian,Persian,True
+2343,23,23,Persian,Persian,True
+2344,23,23,Persian,Persian,True
+2345,23,23,Persian,Persian,True
+2346,23,23,Persian,Persian,True
+2347,23,23,Persian,Persian,True
+2348,23,20,Persian,Maine Coon,False
+2349,23,20,Persian,Maine Coon,False
+2350,23,23,Persian,Persian,True
+2351,23,23,Persian,Persian,True
+2352,23,23,Persian,Persian,True
+2353,23,20,Persian,Maine Coon,False
+2354,23,23,Persian,Persian,True
+2355,23,23,Persian,Persian,True
+2356,23,23,Persian,Persian,True
+2357,23,23,Persian,Persian,True
+2358,23,23,Persian,Persian,True
+2359,23,17,Persian,Japanese Chin,False
+2360,23,23,Persian,Persian,True
+2361,23,23,Persian,Persian,True
+2362,23,23,Persian,Persian,True
+2363,23,20,Persian,Maine Coon,False
+2364,23,23,Persian,Persian,True
+2365,23,23,Persian,Persian,True
+2366,23,23,Persian,Persian,True
+2367,23,23,Persian,Persian,True
+2368,23,23,Persian,Persian,True
+2369,23,23,Persian,Persian,True
+2370,23,23,Persian,Persian,True
+2371,23,6,Persian,Birman,False
+2372,23,23,Persian,Persian,True
+2373,23,23,Persian,Persian,True
+2374,23,26,Persian,Ragdoll,False
+2375,23,23,Persian,Persian,True
+2376,23,23,Persian,Persian,True
+2377,23,23,Persian,Persian,True
+2378,23,23,Persian,Persian,True
+2379,23,23,Persian,Persian,True
+2380,23,26,Persian,Ragdoll,False
+2381,24,24,Pomeranian,Pomeranian,True
+2382,24,24,Pomeranian,Pomeranian,True
+2383,24,24,Pomeranian,Pomeranian,True
+2384,24,24,Pomeranian,Pomeranian,True
+2385,24,24,Pomeranian,Pomeranian,True
+2386,24,24,Pomeranian,Pomeranian,True
+2387,24,29,Pomeranian,Samoyed,False
+2388,24,24,Pomeranian,Pomeranian,True
+2389,24,24,Pomeranian,Pomeranian,True
+2390,24,17,Pomeranian,Japanese Chin,False
+2391,24,24,Pomeranian,Pomeranian,True
+2392,24,29,Pomeranian,Samoyed,False
+2393,24,24,Pomeranian,Pomeranian,True
+2394,24,26,Pomeranian,Ragdoll,False
+2395,24,24,Pomeranian,Pomeranian,True
+2396,24,24,Pomeranian,Pomeranian,True
+2397,24,24,Pomeranian,Pomeranian,True
+2398,24,24,Pomeranian,Pomeranian,True
+2399,24,24,Pomeranian,Pomeranian,True
+2400,24,24,Pomeranian,Pomeranian,True
+2401,24,24,Pomeranian,Pomeranian,True
+2402,24,24,Pomeranian,Pomeranian,True
+2403,24,24,Pomeranian,Pomeranian,True
+2404,24,24,Pomeranian,Pomeranian,True
+2405,24,26,Pomeranian,Ragdoll,False
+2406,24,24,Pomeranian,Pomeranian,True
+2407,24,24,Pomeranian,Pomeranian,True
+2408,24,24,Pomeranian,Pomeranian,True
+2409,24,23,Pomeranian,Persian,False
+2410,24,31,Pomeranian,Shiba Inu,False
+2411,24,24,Pomeranian,Pomeranian,True
+2412,24,24,Pomeranian,Pomeranian,True
+2413,24,31,Pomeranian,Shiba Inu,False
+2414,24,24,Pomeranian,Pomeranian,True
+2415,24,6,Pomeranian,Birman,False
+2416,24,31,Pomeranian,Shiba Inu,False
+2417,24,24,Pomeranian,Pomeranian,True
+2418,24,29,Pomeranian,Samoyed,False
+2419,24,29,Pomeranian,Samoyed,False
+2420,24,29,Pomeranian,Samoyed,False
+2421,24,24,Pomeranian,Pomeranian,True
+2422,24,29,Pomeranian,Samoyed,False
+2423,24,24,Pomeranian,Pomeranian,True
+2424,24,24,Pomeranian,Pomeranian,True
+2425,24,29,Pomeranian,Samoyed,False
+2426,24,24,Pomeranian,Pomeranian,True
+2427,24,24,Pomeranian,Pomeranian,True
+2428,24,24,Pomeranian,Pomeranian,True
+2429,24,24,Pomeranian,Pomeranian,True
+2430,24,24,Pomeranian,Pomeranian,True
+2431,24,24,Pomeranian,Pomeranian,True
+2432,24,24,Pomeranian,Pomeranian,True
+2433,24,24,Pomeranian,Pomeranian,True
+2434,24,24,Pomeranian,Pomeranian,True
+2435,24,24,Pomeranian,Pomeranian,True
+2436,24,24,Pomeranian,Pomeranian,True
+2437,24,24,Pomeranian,Pomeranian,True
+2438,24,26,Pomeranian,Ragdoll,False
+2439,24,24,Pomeranian,Pomeranian,True
+2440,24,24,Pomeranian,Pomeranian,True
+2441,24,24,Pomeranian,Pomeranian,True
+2442,24,24,Pomeranian,Pomeranian,True
+2443,24,24,Pomeranian,Pomeranian,True
+2444,24,24,Pomeranian,Pomeranian,True
+2445,24,24,Pomeranian,Pomeranian,True
+2446,24,24,Pomeranian,Pomeranian,True
+2447,24,24,Pomeranian,Pomeranian,True
+2448,24,24,Pomeranian,Pomeranian,True
+2449,24,24,Pomeranian,Pomeranian,True
+2450,24,24,Pomeranian,Pomeranian,True
+2451,24,24,Pomeranian,Pomeranian,True
+2452,24,24,Pomeranian,Pomeranian,True
+2453,24,24,Pomeranian,Pomeranian,True
+2454,24,24,Pomeranian,Pomeranian,True
+2455,24,29,Pomeranian,Samoyed,False
+2456,24,24,Pomeranian,Pomeranian,True
+2457,24,26,Pomeranian,Ragdoll,False
+2458,24,24,Pomeranian,Pomeranian,True
+2459,24,29,Pomeranian,Samoyed,False
+2460,24,24,Pomeranian,Pomeranian,True
+2461,24,24,Pomeranian,Pomeranian,True
+2462,24,24,Pomeranian,Pomeranian,True
+2463,24,24,Pomeranian,Pomeranian,True
+2464,24,24,Pomeranian,Pomeranian,True
+2465,24,24,Pomeranian,Pomeranian,True
+2466,24,24,Pomeranian,Pomeranian,True
+2467,24,24,Pomeranian,Pomeranian,True
+2468,24,24,Pomeranian,Pomeranian,True
+2469,24,24,Pomeranian,Pomeranian,True
+2470,24,24,Pomeranian,Pomeranian,True
+2471,24,24,Pomeranian,Pomeranian,True
+2472,24,24,Pomeranian,Pomeranian,True
+2473,24,24,Pomeranian,Pomeranian,True
+2474,24,24,Pomeranian,Pomeranian,True
+2475,24,24,Pomeranian,Pomeranian,True
+2476,24,24,Pomeranian,Pomeranian,True
+2477,24,29,Pomeranian,Samoyed,False
+2478,24,24,Pomeranian,Pomeranian,True
+2479,24,24,Pomeranian,Pomeranian,True
+2480,24,24,Pomeranian,Pomeranian,True
+2481,25,25,Pug,Pug,True
+2482,25,25,Pug,Pug,True
+2483,25,25,Pug,Pug,True
+2484,25,25,Pug,Pug,True
+2485,25,25,Pug,Pug,True
+2486,25,25,Pug,Pug,True
+2487,25,25,Pug,Pug,True
+2488,25,25,Pug,Pug,True
+2489,25,25,Pug,Pug,True
+2490,25,25,Pug,Pug,True
+2491,25,25,Pug,Pug,True
+2492,25,25,Pug,Pug,True
+2493,25,25,Pug,Pug,True
+2494,25,25,Pug,Pug,True
+2495,25,25,Pug,Pug,True
+2496,25,8,Pug,Boxer,False
+2497,25,25,Pug,Pug,True
+2498,25,25,Pug,Pug,True
+2499,25,25,Pug,Pug,True
+2500,25,25,Pug,Pug,True
+2501,25,25,Pug,Pug,True
+2502,25,25,Pug,Pug,True
+2503,25,25,Pug,Pug,True
+2504,25,25,Pug,Pug,True
+2505,25,25,Pug,Pug,True
+2506,25,25,Pug,Pug,True
+2507,25,25,Pug,Pug,True
+2508,25,25,Pug,Pug,True
+2509,25,25,Pug,Pug,True
+2510,25,25,Pug,Pug,True
+2511,25,25,Pug,Pug,True
+2512,25,25,Pug,Pug,True
+2513,25,25,Pug,Pug,True
+2514,25,25,Pug,Pug,True
+2515,25,25,Pug,Pug,True
+2516,25,25,Pug,Pug,True
+2517,25,25,Pug,Pug,True
+2518,25,25,Pug,Pug,True
+2519,25,25,Pug,Pug,True
+2520,25,25,Pug,Pug,True
+2521,25,25,Pug,Pug,True
+2522,25,25,Pug,Pug,True
+2523,25,25,Pug,Pug,True
+2524,25,25,Pug,Pug,True
+2525,25,25,Pug,Pug,True
+2526,25,25,Pug,Pug,True
+2527,25,25,Pug,Pug,True
+2528,25,25,Pug,Pug,True
+2529,25,25,Pug,Pug,True
+2530,25,25,Pug,Pug,True
+2531,25,25,Pug,Pug,True
+2532,25,25,Pug,Pug,True
+2533,25,25,Pug,Pug,True
+2534,25,25,Pug,Pug,True
+2535,25,8,Pug,Boxer,False
+2536,25,25,Pug,Pug,True
+2537,25,25,Pug,Pug,True
+2538,25,25,Pug,Pug,True
+2539,25,25,Pug,Pug,True
+2540,25,25,Pug,Pug,True
+2541,25,25,Pug,Pug,True
+2542,25,25,Pug,Pug,True
+2543,25,25,Pug,Pug,True
+2544,25,25,Pug,Pug,True
+2545,25,25,Pug,Pug,True
+2546,25,25,Pug,Pug,True
+2547,25,25,Pug,Pug,True
+2548,25,25,Pug,Pug,True
+2549,25,25,Pug,Pug,True
+2550,25,25,Pug,Pug,True
+2551,25,25,Pug,Pug,True
+2552,25,25,Pug,Pug,True
+2553,25,21,Pug,Miniature Pinscher,False
+2554,25,25,Pug,Pug,True
+2555,25,1,Pug,American Bulldog,False
+2556,25,25,Pug,Pug,True
+2557,25,25,Pug,Pug,True
+2558,25,25,Pug,Pug,True
+2559,25,25,Pug,Pug,True
+2560,25,25,Pug,Pug,True
+2561,25,25,Pug,Pug,True
+2562,25,25,Pug,Pug,True
+2563,25,25,Pug,Pug,True
+2564,25,25,Pug,Pug,True
+2565,25,25,Pug,Pug,True
+2566,25,25,Pug,Pug,True
+2567,25,25,Pug,Pug,True
+2568,25,25,Pug,Pug,True
+2569,25,25,Pug,Pug,True
+2570,25,25,Pug,Pug,True
+2571,25,25,Pug,Pug,True
+2572,25,25,Pug,Pug,True
+2573,25,25,Pug,Pug,True
+2574,25,25,Pug,Pug,True
+2575,25,25,Pug,Pug,True
+2576,25,25,Pug,Pug,True
+2577,25,25,Pug,Pug,True
+2578,25,25,Pug,Pug,True
+2579,25,25,Pug,Pug,True
+2580,25,25,Pug,Pug,True
+2581,26,26,Ragdoll,Ragdoll,True
+2582,26,26,Ragdoll,Ragdoll,True
+2583,26,26,Ragdoll,Ragdoll,True
+2584,26,24,Ragdoll,Pomeranian,False
+2585,26,26,Ragdoll,Ragdoll,True
+2586,26,26,Ragdoll,Ragdoll,True
+2587,26,6,Ragdoll,Birman,False
+2588,26,26,Ragdoll,Ragdoll,True
+2589,26,26,Ragdoll,Ragdoll,True
+2590,26,6,Ragdoll,Birman,False
+2591,26,26,Ragdoll,Ragdoll,True
+2592,26,32,Ragdoll,Siamese,False
+2593,26,26,Ragdoll,Ragdoll,True
+2594,26,6,Ragdoll,Birman,False
+2595,26,20,Ragdoll,Maine Coon,False
+2596,26,6,Ragdoll,Birman,False
+2597,26,26,Ragdoll,Ragdoll,True
+2598,26,26,Ragdoll,Ragdoll,True
+2599,26,24,Ragdoll,Pomeranian,False
+2600,26,26,Ragdoll,Ragdoll,True
+2601,26,26,Ragdoll,Ragdoll,True
+2602,26,26,Ragdoll,Ragdoll,True
+2603,26,26,Ragdoll,Ragdoll,True
+2604,26,26,Ragdoll,Ragdoll,True
+2605,26,26,Ragdoll,Ragdoll,True
+2606,26,26,Ragdoll,Ragdoll,True
+2607,26,26,Ragdoll,Ragdoll,True
+2608,26,26,Ragdoll,Ragdoll,True
+2609,26,26,Ragdoll,Ragdoll,True
+2610,26,26,Ragdoll,Ragdoll,True
+2611,26,6,Ragdoll,Birman,False
+2612,26,26,Ragdoll,Ragdoll,True
+2613,26,6,Ragdoll,Birman,False
+2614,26,26,Ragdoll,Ragdoll,True
+2615,26,23,Ragdoll,Persian,False
+2616,26,26,Ragdoll,Ragdoll,True
+2617,26,26,Ragdoll,Ragdoll,True
+2618,26,6,Ragdoll,Birman,False
+2619,26,26,Ragdoll,Ragdoll,True
+2620,26,26,Ragdoll,Ragdoll,True
+2621,26,29,Ragdoll,Samoyed,False
+2622,26,26,Ragdoll,Ragdoll,True
+2623,26,26,Ragdoll,Ragdoll,True
+2624,26,26,Ragdoll,Ragdoll,True
+2625,26,26,Ragdoll,Ragdoll,True
+2626,26,26,Ragdoll,Ragdoll,True
+2627,26,26,Ragdoll,Ragdoll,True
+2628,26,26,Ragdoll,Ragdoll,True
+2629,26,26,Ragdoll,Ragdoll,True
+2630,26,6,Ragdoll,Birman,False
+2631,26,26,Ragdoll,Ragdoll,True
+2632,26,26,Ragdoll,Ragdoll,True
+2633,26,6,Ragdoll,Birman,False
+2634,26,6,Ragdoll,Birman,False
+2635,26,26,Ragdoll,Ragdoll,True
+2636,26,26,Ragdoll,Ragdoll,True
+2637,26,26,Ragdoll,Ragdoll,True
+2638,26,26,Ragdoll,Ragdoll,True
+2639,26,26,Ragdoll,Ragdoll,True
+2640,26,26,Ragdoll,Ragdoll,True
+2641,26,32,Ragdoll,Siamese,False
+2642,26,26,Ragdoll,Ragdoll,True
+2643,26,26,Ragdoll,Ragdoll,True
+2644,26,26,Ragdoll,Ragdoll,True
+2645,26,6,Ragdoll,Birman,False
+2646,26,26,Ragdoll,Ragdoll,True
+2647,26,26,Ragdoll,Ragdoll,True
+2648,26,26,Ragdoll,Ragdoll,True
+2649,26,26,Ragdoll,Ragdoll,True
+2650,26,26,Ragdoll,Ragdoll,True
+2651,26,26,Ragdoll,Ragdoll,True
+2652,26,26,Ragdoll,Ragdoll,True
+2653,26,26,Ragdoll,Ragdoll,True
+2654,26,26,Ragdoll,Ragdoll,True
+2655,26,6,Ragdoll,Birman,False
+2656,26,26,Ragdoll,Ragdoll,True
+2657,26,23,Ragdoll,Persian,False
+2658,26,23,Ragdoll,Persian,False
+2659,26,26,Ragdoll,Ragdoll,True
+2660,26,6,Ragdoll,Birman,False
+2661,26,6,Ragdoll,Birman,False
+2662,26,32,Ragdoll,Siamese,False
+2663,26,6,Ragdoll,Birman,False
+2664,26,26,Ragdoll,Ragdoll,True
+2665,26,26,Ragdoll,Ragdoll,True
+2666,26,26,Ragdoll,Ragdoll,True
+2667,26,26,Ragdoll,Ragdoll,True
+2668,26,26,Ragdoll,Ragdoll,True
+2669,26,6,Ragdoll,Birman,False
+2670,26,26,Ragdoll,Ragdoll,True
+2671,26,26,Ragdoll,Ragdoll,True
+2672,26,6,Ragdoll,Birman,False
+2673,26,0,Ragdoll,Abyssinian,False
+2674,26,26,Ragdoll,Ragdoll,True
+2675,26,26,Ragdoll,Ragdoll,True
+2676,26,26,Ragdoll,Ragdoll,True
+2677,26,26,Ragdoll,Ragdoll,True
+2678,26,26,Ragdoll,Ragdoll,True
+2679,26,26,Ragdoll,Ragdoll,True
+2680,26,26,Ragdoll,Ragdoll,True
+2681,27,9,Russian Blue,British Shorthair,False
+2682,27,27,Russian Blue,Russian Blue,True
+2683,27,27,Russian Blue,Russian Blue,True
+2684,27,27,Russian Blue,Russian Blue,True
+2685,27,27,Russian Blue,Russian Blue,True
+2686,27,27,Russian Blue,Russian Blue,True
+2687,27,27,Russian Blue,Russian Blue,True
+2688,27,27,Russian Blue,Russian Blue,True
+2689,27,9,Russian Blue,British Shorthair,False
+2690,27,9,Russian Blue,British Shorthair,False
+2691,27,27,Russian Blue,Russian Blue,True
+2692,27,27,Russian Blue,Russian Blue,True
+2693,27,0,Russian Blue,Abyssinian,False
+2694,27,10,Russian Blue,Chihuahua,False
+2695,27,27,Russian Blue,Russian Blue,True
+2696,27,7,Russian Blue,Bombay,False
+2697,27,7,Russian Blue,Bombay,False
+2698,27,7,Russian Blue,Bombay,False
+2699,27,7,Russian Blue,Bombay,False
+2700,27,27,Russian Blue,Russian Blue,True
+2701,27,9,Russian Blue,British Shorthair,False
+2702,27,27,Russian Blue,Russian Blue,True
+2703,27,7,Russian Blue,Bombay,False
+2704,27,7,Russian Blue,Bombay,False
+2705,27,27,Russian Blue,Russian Blue,True
+2706,27,7,Russian Blue,Bombay,False
+2707,27,10,Russian Blue,Chihuahua,False
+2708,27,27,Russian Blue,Russian Blue,True
+2709,27,0,Russian Blue,Abyssinian,False
+2710,27,27,Russian Blue,Russian Blue,True
+2711,27,27,Russian Blue,Russian Blue,True
+2712,27,27,Russian Blue,Russian Blue,True
+2713,27,27,Russian Blue,Russian Blue,True
+2714,27,27,Russian Blue,Russian Blue,True
+2715,27,27,Russian Blue,Russian Blue,True
+2716,27,9,Russian Blue,British Shorthair,False
+2717,27,27,Russian Blue,Russian Blue,True
+2718,27,27,Russian Blue,Russian Blue,True
+2719,27,27,Russian Blue,Russian Blue,True
+2720,27,9,Russian Blue,British Shorthair,False
+2721,27,27,Russian Blue,Russian Blue,True
+2722,27,27,Russian Blue,Russian Blue,True
+2723,27,27,Russian Blue,Russian Blue,True
+2724,27,27,Russian Blue,Russian Blue,True
+2725,27,27,Russian Blue,Russian Blue,True
+2726,27,27,Russian Blue,Russian Blue,True
+2727,27,27,Russian Blue,Russian Blue,True
+2728,27,27,Russian Blue,Russian Blue,True
+2729,27,27,Russian Blue,Russian Blue,True
+2730,27,9,Russian Blue,British Shorthair,False
+2731,27,27,Russian Blue,Russian Blue,True
+2732,27,7,Russian Blue,Bombay,False
+2733,27,27,Russian Blue,Russian Blue,True
+2734,27,27,Russian Blue,Russian Blue,True
+2735,27,27,Russian Blue,Russian Blue,True
+2736,27,27,Russian Blue,Russian Blue,True
+2737,27,27,Russian Blue,Russian Blue,True
+2738,27,27,Russian Blue,Russian Blue,True
+2739,27,27,Russian Blue,Russian Blue,True
+2740,27,27,Russian Blue,Russian Blue,True
+2741,27,27,Russian Blue,Russian Blue,True
+2742,27,27,Russian Blue,Russian Blue,True
+2743,27,27,Russian Blue,Russian Blue,True
+2744,27,27,Russian Blue,Russian Blue,True
+2745,27,27,Russian Blue,Russian Blue,True
+2746,27,9,Russian Blue,British Shorthair,False
+2747,27,27,Russian Blue,Russian Blue,True
+2748,27,27,Russian Blue,Russian Blue,True
+2749,27,27,Russian Blue,Russian Blue,True
+2750,27,27,Russian Blue,Russian Blue,True
+2751,27,9,Russian Blue,British Shorthair,False
+2752,27,27,Russian Blue,Russian Blue,True
+2753,27,9,Russian Blue,British Shorthair,False
+2754,27,27,Russian Blue,Russian Blue,True
+2755,27,27,Russian Blue,Russian Blue,True
+2756,27,27,Russian Blue,Russian Blue,True
+2757,27,27,Russian Blue,Russian Blue,True
+2758,27,27,Russian Blue,Russian Blue,True
+2759,27,9,Russian Blue,British Shorthair,False
+2760,27,27,Russian Blue,Russian Blue,True
+2761,27,9,Russian Blue,British Shorthair,False
+2762,27,27,Russian Blue,Russian Blue,True
+2763,27,9,Russian Blue,British Shorthair,False
+2764,27,27,Russian Blue,Russian Blue,True
+2765,27,27,Russian Blue,Russian Blue,True
+2766,27,27,Russian Blue,Russian Blue,True
+2767,27,27,Russian Blue,Russian Blue,True
+2768,27,0,Russian Blue,Abyssinian,False
+2769,27,0,Russian Blue,Abyssinian,False
+2770,27,27,Russian Blue,Russian Blue,True
+2771,27,27,Russian Blue,Russian Blue,True
+2772,27,27,Russian Blue,Russian Blue,True
+2773,27,27,Russian Blue,Russian Blue,True
+2774,27,27,Russian Blue,Russian Blue,True
+2775,27,9,Russian Blue,British Shorthair,False
+2776,27,27,Russian Blue,Russian Blue,True
+2777,27,9,Russian Blue,British Shorthair,False
+2778,27,27,Russian Blue,Russian Blue,True
+2779,27,27,Russian Blue,Russian Blue,True
+2780,27,0,Russian Blue,Abyssinian,False
+2781,28,28,Saint Bernard,Saint Bernard,True
+2782,28,1,Saint Bernard,American Bulldog,False
+2783,28,28,Saint Bernard,Saint Bernard,True
+2784,28,28,Saint Bernard,Saint Bernard,True
+2785,28,28,Saint Bernard,Saint Bernard,True
+2786,28,4,Saint Bernard,Beagle,False
+2787,28,28,Saint Bernard,Saint Bernard,True
+2788,28,28,Saint Bernard,Saint Bernard,True
+2789,28,28,Saint Bernard,Saint Bernard,True
+2790,28,28,Saint Bernard,Saint Bernard,True
+2791,28,28,Saint Bernard,Saint Bernard,True
+2792,28,3,Saint Bernard,Basset Hound,False
+2793,28,17,Saint Bernard,Japanese Chin,False
+2794,28,17,Saint Bernard,Japanese Chin,False
+2795,28,28,Saint Bernard,Saint Bernard,True
+2796,28,28,Saint Bernard,Saint Bernard,True
+2797,28,28,Saint Bernard,Saint Bernard,True
+2798,28,31,Saint Bernard,Shiba Inu,False
+2799,28,28,Saint Bernard,Saint Bernard,True
+2800,28,28,Saint Bernard,Saint Bernard,True
+2801,28,28,Saint Bernard,Saint Bernard,True
+2802,28,28,Saint Bernard,Saint Bernard,True
+2803,28,17,Saint Bernard,Japanese Chin,False
+2804,28,28,Saint Bernard,Saint Bernard,True
+2805,28,28,Saint Bernard,Saint Bernard,True
+2806,28,28,Saint Bernard,Saint Bernard,True
+2807,28,28,Saint Bernard,Saint Bernard,True
+2808,28,28,Saint Bernard,Saint Bernard,True
+2809,28,28,Saint Bernard,Saint Bernard,True
+2810,28,28,Saint Bernard,Saint Bernard,True
+2811,28,28,Saint Bernard,Saint Bernard,True
+2812,28,28,Saint Bernard,Saint Bernard,True
+2813,28,28,Saint Bernard,Saint Bernard,True
+2814,28,28,Saint Bernard,Saint Bernard,True
+2815,28,28,Saint Bernard,Saint Bernard,True
+2816,28,28,Saint Bernard,Saint Bernard,True
+2817,28,15,Saint Bernard,Great Pyrenees,False
+2818,28,28,Saint Bernard,Saint Bernard,True
+2819,28,28,Saint Bernard,Saint Bernard,True
+2820,28,28,Saint Bernard,Saint Bernard,True
+2821,28,28,Saint Bernard,Saint Bernard,True
+2822,28,28,Saint Bernard,Saint Bernard,True
+2823,28,28,Saint Bernard,Saint Bernard,True
+2824,28,28,Saint Bernard,Saint Bernard,True
+2825,28,28,Saint Bernard,Saint Bernard,True
+2826,28,28,Saint Bernard,Saint Bernard,True
+2827,28,28,Saint Bernard,Saint Bernard,True
+2828,28,28,Saint Bernard,Saint Bernard,True
+2829,28,28,Saint Bernard,Saint Bernard,True
+2830,28,28,Saint Bernard,Saint Bernard,True
+2831,28,28,Saint Bernard,Saint Bernard,True
+2832,28,28,Saint Bernard,Saint Bernard,True
+2833,28,28,Saint Bernard,Saint Bernard,True
+2834,28,28,Saint Bernard,Saint Bernard,True
+2835,28,28,Saint Bernard,Saint Bernard,True
+2836,28,28,Saint Bernard,Saint Bernard,True
+2837,28,28,Saint Bernard,Saint Bernard,True
+2838,28,28,Saint Bernard,Saint Bernard,True
+2839,28,28,Saint Bernard,Saint Bernard,True
+2840,28,28,Saint Bernard,Saint Bernard,True
+2841,28,28,Saint Bernard,Saint Bernard,True
+2842,28,28,Saint Bernard,Saint Bernard,True
+2843,28,4,Saint Bernard,Beagle,False
+2844,28,28,Saint Bernard,Saint Bernard,True
+2845,28,28,Saint Bernard,Saint Bernard,True
+2846,28,28,Saint Bernard,Saint Bernard,True
+2847,28,28,Saint Bernard,Saint Bernard,True
+2848,28,28,Saint Bernard,Saint Bernard,True
+2849,28,3,Saint Bernard,Basset Hound,False
+2850,28,28,Saint Bernard,Saint Bernard,True
+2851,28,28,Saint Bernard,Saint Bernard,True
+2852,28,28,Saint Bernard,Saint Bernard,True
+2853,28,28,Saint Bernard,Saint Bernard,True
+2854,28,28,Saint Bernard,Saint Bernard,True
+2855,28,28,Saint Bernard,Saint Bernard,True
+2856,28,28,Saint Bernard,Saint Bernard,True
+2857,28,28,Saint Bernard,Saint Bernard,True
+2858,28,28,Saint Bernard,Saint Bernard,True
+2859,28,28,Saint Bernard,Saint Bernard,True
+2860,28,28,Saint Bernard,Saint Bernard,True
+2861,28,28,Saint Bernard,Saint Bernard,True
+2862,28,28,Saint Bernard,Saint Bernard,True
+2863,28,28,Saint Bernard,Saint Bernard,True
+2864,28,28,Saint Bernard,Saint Bernard,True
+2865,28,28,Saint Bernard,Saint Bernard,True
+2866,28,28,Saint Bernard,Saint Bernard,True
+2867,28,28,Saint Bernard,Saint Bernard,True
+2868,28,28,Saint Bernard,Saint Bernard,True
+2869,28,28,Saint Bernard,Saint Bernard,True
+2870,28,28,Saint Bernard,Saint Bernard,True
+2871,28,28,Saint Bernard,Saint Bernard,True
+2872,28,28,Saint Bernard,Saint Bernard,True
+2873,28,28,Saint Bernard,Saint Bernard,True
+2874,28,28,Saint Bernard,Saint Bernard,True
+2875,28,31,Saint Bernard,Shiba Inu,False
+2876,28,28,Saint Bernard,Saint Bernard,True
+2877,28,28,Saint Bernard,Saint Bernard,True
+2878,28,28,Saint Bernard,Saint Bernard,True
+2879,28,28,Saint Bernard,Saint Bernard,True
+2880,28,28,Saint Bernard,Saint Bernard,True
+2881,29,18,Samoyed,Keeshond,False
+2882,29,29,Samoyed,Samoyed,True
+2883,29,29,Samoyed,Samoyed,True
+2884,29,29,Samoyed,Samoyed,True
+2885,29,29,Samoyed,Samoyed,True
+2886,29,29,Samoyed,Samoyed,True
+2887,29,29,Samoyed,Samoyed,True
+2888,29,29,Samoyed,Samoyed,True
+2889,29,29,Samoyed,Samoyed,True
+2890,29,29,Samoyed,Samoyed,True
+2891,29,29,Samoyed,Samoyed,True
+2892,29,29,Samoyed,Samoyed,True
+2893,29,29,Samoyed,Samoyed,True
+2894,29,29,Samoyed,Samoyed,True
+2895,29,29,Samoyed,Samoyed,True
+2896,29,29,Samoyed,Samoyed,True
+2897,29,29,Samoyed,Samoyed,True
+2898,29,29,Samoyed,Samoyed,True
+2899,29,29,Samoyed,Samoyed,True
+2900,29,29,Samoyed,Samoyed,True
+2901,29,29,Samoyed,Samoyed,True
+2902,29,29,Samoyed,Samoyed,True
+2903,29,29,Samoyed,Samoyed,True
+2904,29,29,Samoyed,Samoyed,True
+2905,29,29,Samoyed,Samoyed,True
+2906,29,29,Samoyed,Samoyed,True
+2907,29,29,Samoyed,Samoyed,True
+2908,29,15,Samoyed,Great Pyrenees,False
+2909,29,29,Samoyed,Samoyed,True
+2910,29,29,Samoyed,Samoyed,True
+2911,29,29,Samoyed,Samoyed,True
+2912,29,29,Samoyed,Samoyed,True
+2913,29,29,Samoyed,Samoyed,True
+2914,29,29,Samoyed,Samoyed,True
+2915,29,29,Samoyed,Samoyed,True
+2916,29,29,Samoyed,Samoyed,True
+2917,29,29,Samoyed,Samoyed,True
+2918,29,29,Samoyed,Samoyed,True
+2919,29,29,Samoyed,Samoyed,True
+2920,29,29,Samoyed,Samoyed,True
+2921,29,29,Samoyed,Samoyed,True
+2922,29,29,Samoyed,Samoyed,True
+2923,29,29,Samoyed,Samoyed,True
+2924,29,29,Samoyed,Samoyed,True
+2925,29,29,Samoyed,Samoyed,True
+2926,29,29,Samoyed,Samoyed,True
+2927,29,29,Samoyed,Samoyed,True
+2928,29,29,Samoyed,Samoyed,True
+2929,29,29,Samoyed,Samoyed,True
+2930,29,29,Samoyed,Samoyed,True
+2931,29,29,Samoyed,Samoyed,True
+2932,29,29,Samoyed,Samoyed,True
+2933,29,29,Samoyed,Samoyed,True
+2934,29,29,Samoyed,Samoyed,True
+2935,29,29,Samoyed,Samoyed,True
+2936,29,29,Samoyed,Samoyed,True
+2937,29,29,Samoyed,Samoyed,True
+2938,29,29,Samoyed,Samoyed,True
+2939,29,29,Samoyed,Samoyed,True
+2940,29,29,Samoyed,Samoyed,True
+2941,29,29,Samoyed,Samoyed,True
+2942,29,29,Samoyed,Samoyed,True
+2943,29,29,Samoyed,Samoyed,True
+2944,29,29,Samoyed,Samoyed,True
+2945,29,29,Samoyed,Samoyed,True
+2946,29,29,Samoyed,Samoyed,True
+2947,29,29,Samoyed,Samoyed,True
+2948,29,29,Samoyed,Samoyed,True
+2949,29,29,Samoyed,Samoyed,True
+2950,29,29,Samoyed,Samoyed,True
+2951,29,29,Samoyed,Samoyed,True
+2952,29,29,Samoyed,Samoyed,True
+2953,29,29,Samoyed,Samoyed,True
+2954,29,29,Samoyed,Samoyed,True
+2955,29,29,Samoyed,Samoyed,True
+2956,29,29,Samoyed,Samoyed,True
+2957,29,29,Samoyed,Samoyed,True
+2958,29,29,Samoyed,Samoyed,True
+2959,29,29,Samoyed,Samoyed,True
+2960,29,29,Samoyed,Samoyed,True
+2961,29,29,Samoyed,Samoyed,True
+2962,29,29,Samoyed,Samoyed,True
+2963,29,29,Samoyed,Samoyed,True
+2964,29,29,Samoyed,Samoyed,True
+2965,29,29,Samoyed,Samoyed,True
+2966,29,29,Samoyed,Samoyed,True
+2967,29,29,Samoyed,Samoyed,True
+2968,29,29,Samoyed,Samoyed,True
+2969,29,29,Samoyed,Samoyed,True
+2970,29,29,Samoyed,Samoyed,True
+2971,29,1,Samoyed,American Bulldog,False
+2972,29,29,Samoyed,Samoyed,True
+2973,29,29,Samoyed,Samoyed,True
+2974,29,29,Samoyed,Samoyed,True
+2975,29,29,Samoyed,Samoyed,True
+2976,29,29,Samoyed,Samoyed,True
+2977,29,29,Samoyed,Samoyed,True
+2978,29,29,Samoyed,Samoyed,True
+2979,29,29,Samoyed,Samoyed,True
+2980,29,29,Samoyed,Samoyed,True
+2981,30,30,Scottish Terrier,Scottish Terrier,True
+2982,30,30,Scottish Terrier,Scottish Terrier,True
+2983,30,30,Scottish Terrier,Scottish Terrier,True
+2984,30,30,Scottish Terrier,Scottish Terrier,True
+2985,30,30,Scottish Terrier,Scottish Terrier,True
+2986,30,30,Scottish Terrier,Scottish Terrier,True
+2987,30,30,Scottish Terrier,Scottish Terrier,True
+2988,30,30,Scottish Terrier,Scottish Terrier,True
+2989,30,30,Scottish Terrier,Scottish Terrier,True
+2990,30,30,Scottish Terrier,Scottish Terrier,True
+2991,30,30,Scottish Terrier,Scottish Terrier,True
+2992,30,30,Scottish Terrier,Scottish Terrier,True
+2993,30,30,Scottish Terrier,Scottish Terrier,True
+2994,30,30,Scottish Terrier,Scottish Terrier,True
+2995,30,30,Scottish Terrier,Scottish Terrier,True
+2996,30,30,Scottish Terrier,Scottish Terrier,True
+2997,30,30,Scottish Terrier,Scottish Terrier,True
+2998,30,30,Scottish Terrier,Scottish Terrier,True
+2999,30,30,Scottish Terrier,Scottish Terrier,True
+3000,30,30,Scottish Terrier,Scottish Terrier,True
+3001,30,30,Scottish Terrier,Scottish Terrier,True
+3002,30,30,Scottish Terrier,Scottish Terrier,True
+3003,30,30,Scottish Terrier,Scottish Terrier,True
+3004,30,16,Scottish Terrier,Havanese,False
+3005,30,30,Scottish Terrier,Scottish Terrier,True
+3006,30,30,Scottish Terrier,Scottish Terrier,True
+3007,30,30,Scottish Terrier,Scottish Terrier,True
+3008,30,30,Scottish Terrier,Scottish Terrier,True
+3009,30,30,Scottish Terrier,Scottish Terrier,True
+3010,30,30,Scottish Terrier,Scottish Terrier,True
+3011,30,30,Scottish Terrier,Scottish Terrier,True
+3012,30,30,Scottish Terrier,Scottish Terrier,True
+3013,30,30,Scottish Terrier,Scottish Terrier,True
+3014,30,30,Scottish Terrier,Scottish Terrier,True
+3015,30,30,Scottish Terrier,Scottish Terrier,True
+3016,30,30,Scottish Terrier,Scottish Terrier,True
+3017,30,30,Scottish Terrier,Scottish Terrier,True
+3018,30,30,Scottish Terrier,Scottish Terrier,True
+3019,30,30,Scottish Terrier,Scottish Terrier,True
+3020,30,30,Scottish Terrier,Scottish Terrier,True
+3021,30,30,Scottish Terrier,Scottish Terrier,True
+3022,30,30,Scottish Terrier,Scottish Terrier,True
+3023,30,30,Scottish Terrier,Scottish Terrier,True
+3024,30,30,Scottish Terrier,Scottish Terrier,True
+3025,30,30,Scottish Terrier,Scottish Terrier,True
+3026,30,30,Scottish Terrier,Scottish Terrier,True
+3027,30,30,Scottish Terrier,Scottish Terrier,True
+3028,30,30,Scottish Terrier,Scottish Terrier,True
+3029,30,30,Scottish Terrier,Scottish Terrier,True
+3030,30,30,Scottish Terrier,Scottish Terrier,True
+3031,30,30,Scottish Terrier,Scottish Terrier,True
+3032,30,30,Scottish Terrier,Scottish Terrier,True
+3033,30,30,Scottish Terrier,Scottish Terrier,True
+3034,30,30,Scottish Terrier,Scottish Terrier,True
+3035,30,30,Scottish Terrier,Scottish Terrier,True
+3036,30,30,Scottish Terrier,Scottish Terrier,True
+3037,30,30,Scottish Terrier,Scottish Terrier,True
+3038,30,30,Scottish Terrier,Scottish Terrier,True
+3039,30,30,Scottish Terrier,Scottish Terrier,True
+3040,30,22,Scottish Terrier,Newfoundland,False
+3041,30,30,Scottish Terrier,Scottish Terrier,True
+3042,30,30,Scottish Terrier,Scottish Terrier,True
+3043,30,30,Scottish Terrier,Scottish Terrier,True
+3044,30,30,Scottish Terrier,Scottish Terrier,True
+3045,30,30,Scottish Terrier,Scottish Terrier,True
+3046,30,35,Scottish Terrier,Wheaten Terrier,False
+3047,30,35,Scottish Terrier,Wheaten Terrier,False
+3048,30,30,Scottish Terrier,Scottish Terrier,True
+3049,30,30,Scottish Terrier,Scottish Terrier,True
+3050,30,30,Scottish Terrier,Scottish Terrier,True
+3051,30,30,Scottish Terrier,Scottish Terrier,True
+3052,30,31,Scottish Terrier,Shiba Inu,False
+3053,30,35,Scottish Terrier,Wheaten Terrier,False
+3054,30,30,Scottish Terrier,Scottish Terrier,True
+3055,30,30,Scottish Terrier,Scottish Terrier,True
+3056,30,30,Scottish Terrier,Scottish Terrier,True
+3057,30,30,Scottish Terrier,Scottish Terrier,True
+3058,30,30,Scottish Terrier,Scottish Terrier,True
+3059,30,30,Scottish Terrier,Scottish Terrier,True
+3060,30,30,Scottish Terrier,Scottish Terrier,True
+3061,30,30,Scottish Terrier,Scottish Terrier,True
+3062,30,30,Scottish Terrier,Scottish Terrier,True
+3063,30,30,Scottish Terrier,Scottish Terrier,True
+3064,30,30,Scottish Terrier,Scottish Terrier,True
+3065,30,30,Scottish Terrier,Scottish Terrier,True
+3066,30,30,Scottish Terrier,Scottish Terrier,True
+3067,30,30,Scottish Terrier,Scottish Terrier,True
+3068,30,30,Scottish Terrier,Scottish Terrier,True
+3069,30,30,Scottish Terrier,Scottish Terrier,True
+3070,30,30,Scottish Terrier,Scottish Terrier,True
+3071,30,35,Scottish Terrier,Wheaten Terrier,False
+3072,30,30,Scottish Terrier,Scottish Terrier,True
+3073,30,30,Scottish Terrier,Scottish Terrier,True
+3074,30,30,Scottish Terrier,Scottish Terrier,True
+3075,30,30,Scottish Terrier,Scottish Terrier,True
+3076,30,30,Scottish Terrier,Scottish Terrier,True
+3077,30,30,Scottish Terrier,Scottish Terrier,True
+3078,30,30,Scottish Terrier,Scottish Terrier,True
+3079,30,30,Scottish Terrier,Scottish Terrier,True
+3080,31,31,Shiba Inu,Shiba Inu,True
+3081,31,31,Shiba Inu,Shiba Inu,True
+3082,31,31,Shiba Inu,Shiba Inu,True
+3083,31,31,Shiba Inu,Shiba Inu,True
+3084,31,31,Shiba Inu,Shiba Inu,True
+3085,31,34,Shiba Inu,Staffordshire Bull Terrier,False
+3086,31,31,Shiba Inu,Shiba Inu,True
+3087,31,31,Shiba Inu,Shiba Inu,True
+3088,31,31,Shiba Inu,Shiba Inu,True
+3089,31,31,Shiba Inu,Shiba Inu,True
+3090,31,31,Shiba Inu,Shiba Inu,True
+3091,31,31,Shiba Inu,Shiba Inu,True
+3092,31,31,Shiba Inu,Shiba Inu,True
+3093,31,31,Shiba Inu,Shiba Inu,True
+3094,31,31,Shiba Inu,Shiba Inu,True
+3095,31,31,Shiba Inu,Shiba Inu,True
+3096,31,31,Shiba Inu,Shiba Inu,True
+3097,31,31,Shiba Inu,Shiba Inu,True
+3098,31,31,Shiba Inu,Shiba Inu,True
+3099,31,31,Shiba Inu,Shiba Inu,True
+3100,31,31,Shiba Inu,Shiba Inu,True
+3101,31,31,Shiba Inu,Shiba Inu,True
+3102,31,31,Shiba Inu,Shiba Inu,True
+3103,31,31,Shiba Inu,Shiba Inu,True
+3104,31,31,Shiba Inu,Shiba Inu,True
+3105,31,31,Shiba Inu,Shiba Inu,True
+3106,31,31,Shiba Inu,Shiba Inu,True
+3107,31,31,Shiba Inu,Shiba Inu,True
+3108,31,31,Shiba Inu,Shiba Inu,True
+3109,31,31,Shiba Inu,Shiba Inu,True
+3110,31,31,Shiba Inu,Shiba Inu,True
+3111,31,31,Shiba Inu,Shiba Inu,True
+3112,31,31,Shiba Inu,Shiba Inu,True
+3113,31,31,Shiba Inu,Shiba Inu,True
+3114,31,31,Shiba Inu,Shiba Inu,True
+3115,31,31,Shiba Inu,Shiba Inu,True
+3116,31,31,Shiba Inu,Shiba Inu,True
+3117,31,31,Shiba Inu,Shiba Inu,True
+3118,31,31,Shiba Inu,Shiba Inu,True
+3119,31,31,Shiba Inu,Shiba Inu,True
+3120,31,31,Shiba Inu,Shiba Inu,True
+3121,31,31,Shiba Inu,Shiba Inu,True
+3122,31,31,Shiba Inu,Shiba Inu,True
+3123,31,31,Shiba Inu,Shiba Inu,True
+3124,31,31,Shiba Inu,Shiba Inu,True
+3125,31,31,Shiba Inu,Shiba Inu,True
+3126,31,31,Shiba Inu,Shiba Inu,True
+3127,31,31,Shiba Inu,Shiba Inu,True
+3128,31,31,Shiba Inu,Shiba Inu,True
+3129,31,31,Shiba Inu,Shiba Inu,True
+3130,31,31,Shiba Inu,Shiba Inu,True
+3131,31,31,Shiba Inu,Shiba Inu,True
+3132,31,31,Shiba Inu,Shiba Inu,True
+3133,31,31,Shiba Inu,Shiba Inu,True
+3134,31,31,Shiba Inu,Shiba Inu,True
+3135,31,31,Shiba Inu,Shiba Inu,True
+3136,31,31,Shiba Inu,Shiba Inu,True
+3137,31,13,Shiba Inu,English Setter,False
+3138,31,5,Shiba Inu,Bengal,False
+3139,31,31,Shiba Inu,Shiba Inu,True
+3140,31,31,Shiba Inu,Shiba Inu,True
+3141,31,31,Shiba Inu,Shiba Inu,True
+3142,31,31,Shiba Inu,Shiba Inu,True
+3143,31,31,Shiba Inu,Shiba Inu,True
+3144,31,31,Shiba Inu,Shiba Inu,True
+3145,31,31,Shiba Inu,Shiba Inu,True
+3146,31,31,Shiba Inu,Shiba Inu,True
+3147,31,31,Shiba Inu,Shiba Inu,True
+3148,31,31,Shiba Inu,Shiba Inu,True
+3149,31,31,Shiba Inu,Shiba Inu,True
+3150,31,31,Shiba Inu,Shiba Inu,True
+3151,31,31,Shiba Inu,Shiba Inu,True
+3152,31,31,Shiba Inu,Shiba Inu,True
+3153,31,31,Shiba Inu,Shiba Inu,True
+3154,31,31,Shiba Inu,Shiba Inu,True
+3155,31,31,Shiba Inu,Shiba Inu,True
+3156,31,31,Shiba Inu,Shiba Inu,True
+3157,31,31,Shiba Inu,Shiba Inu,True
+3158,31,31,Shiba Inu,Shiba Inu,True
+3159,31,29,Shiba Inu,Samoyed,False
+3160,31,31,Shiba Inu,Shiba Inu,True
+3161,31,31,Shiba Inu,Shiba Inu,True
+3162,31,31,Shiba Inu,Shiba Inu,True
+3163,31,31,Shiba Inu,Shiba Inu,True
+3164,31,31,Shiba Inu,Shiba Inu,True
+3165,31,31,Shiba Inu,Shiba Inu,True
+3166,31,31,Shiba Inu,Shiba Inu,True
+3167,31,31,Shiba Inu,Shiba Inu,True
+3168,31,31,Shiba Inu,Shiba Inu,True
+3169,31,31,Shiba Inu,Shiba Inu,True
+3170,31,31,Shiba Inu,Shiba Inu,True
+3171,31,31,Shiba Inu,Shiba Inu,True
+3172,31,31,Shiba Inu,Shiba Inu,True
+3173,31,31,Shiba Inu,Shiba Inu,True
+3174,31,31,Shiba Inu,Shiba Inu,True
+3175,31,31,Shiba Inu,Shiba Inu,True
+3176,31,31,Shiba Inu,Shiba Inu,True
+3177,31,31,Shiba Inu,Shiba Inu,True
+3178,31,31,Shiba Inu,Shiba Inu,True
+3179,31,31,Shiba Inu,Shiba Inu,True
+3180,32,32,Siamese,Siamese,True
+3181,32,32,Siamese,Siamese,True
+3182,32,32,Siamese,Siamese,True
+3183,32,32,Siamese,Siamese,True
+3184,32,25,Siamese,Pug,False
+3185,32,32,Siamese,Siamese,True
+3186,32,6,Siamese,Birman,False
+3187,32,32,Siamese,Siamese,True
+3188,32,24,Siamese,Pomeranian,False
+3189,32,32,Siamese,Siamese,True
+3190,32,6,Siamese,Birman,False
+3191,32,32,Siamese,Siamese,True
+3192,32,6,Siamese,Birman,False
+3193,32,32,Siamese,Siamese,True
+3194,32,32,Siamese,Siamese,True
+3195,32,10,Siamese,Chihuahua,False
+3196,32,32,Siamese,Siamese,True
+3197,32,10,Siamese,Chihuahua,False
+3198,32,32,Siamese,Siamese,True
+3199,32,6,Siamese,Birman,False
+3200,32,32,Siamese,Siamese,True
+3201,32,32,Siamese,Siamese,True
+3202,32,32,Siamese,Siamese,True
+3203,32,10,Siamese,Chihuahua,False
+3204,32,10,Siamese,Chihuahua,False
+3205,32,6,Siamese,Birman,False
+3206,32,32,Siamese,Siamese,True
+3207,32,32,Siamese,Siamese,True
+3208,32,32,Siamese,Siamese,True
+3209,32,6,Siamese,Birman,False
+3210,32,32,Siamese,Siamese,True
+3211,32,32,Siamese,Siamese,True
+3212,32,32,Siamese,Siamese,True
+3213,32,32,Siamese,Siamese,True
+3214,32,32,Siamese,Siamese,True
+3215,32,32,Siamese,Siamese,True
+3216,32,32,Siamese,Siamese,True
+3217,32,32,Siamese,Siamese,True
+3218,32,32,Siamese,Siamese,True
+3219,32,32,Siamese,Siamese,True
+3220,32,32,Siamese,Siamese,True
+3221,32,32,Siamese,Siamese,True
+3222,32,32,Siamese,Siamese,True
+3223,32,32,Siamese,Siamese,True
+3224,32,32,Siamese,Siamese,True
+3225,32,32,Siamese,Siamese,True
+3226,32,32,Siamese,Siamese,True
+3227,32,32,Siamese,Siamese,True
+3228,32,32,Siamese,Siamese,True
+3229,32,32,Siamese,Siamese,True
+3230,32,32,Siamese,Siamese,True
+3231,32,6,Siamese,Birman,False
+3232,32,32,Siamese,Siamese,True
+3233,32,32,Siamese,Siamese,True
+3234,32,19,Siamese,Leonberger,False
+3235,32,6,Siamese,Birman,False
+3236,32,6,Siamese,Birman,False
+3237,32,32,Siamese,Siamese,True
+3238,32,32,Siamese,Siamese,True
+3239,32,2,Siamese,American Pit Bull Terrier,False
+3240,32,32,Siamese,Siamese,True
+3241,32,6,Siamese,Birman,False
+3242,32,32,Siamese,Siamese,True
+3243,32,32,Siamese,Siamese,True
+3244,32,32,Siamese,Siamese,True
+3245,32,32,Siamese,Siamese,True
+3246,32,32,Siamese,Siamese,True
+3247,32,32,Siamese,Siamese,True
+3248,32,10,Siamese,Chihuahua,False
+3249,32,32,Siamese,Siamese,True
+3250,32,32,Siamese,Siamese,True
+3251,32,32,Siamese,Siamese,True
+3252,32,32,Siamese,Siamese,True
+3253,32,32,Siamese,Siamese,True
+3254,32,32,Siamese,Siamese,True
+3255,32,32,Siamese,Siamese,True
+3256,32,32,Siamese,Siamese,True
+3257,32,32,Siamese,Siamese,True
+3258,32,32,Siamese,Siamese,True
+3259,32,32,Siamese,Siamese,True
+3260,32,32,Siamese,Siamese,True
+3261,32,6,Siamese,Birman,False
+3262,32,32,Siamese,Siamese,True
+3263,32,32,Siamese,Siamese,True
+3264,32,32,Siamese,Siamese,True
+3265,32,32,Siamese,Siamese,True
+3266,32,32,Siamese,Siamese,True
+3267,32,32,Siamese,Siamese,True
+3268,32,32,Siamese,Siamese,True
+3269,32,32,Siamese,Siamese,True
+3270,32,32,Siamese,Siamese,True
+3271,32,32,Siamese,Siamese,True
+3272,32,32,Siamese,Siamese,True
+3273,32,32,Siamese,Siamese,True
+3274,32,33,Siamese,Sphynx,False
+3275,32,32,Siamese,Siamese,True
+3276,32,32,Siamese,Siamese,True
+3277,32,32,Siamese,Siamese,True
+3278,32,32,Siamese,Siamese,True
+3279,32,33,Siamese,Sphynx,False
+3280,33,33,Sphynx,Sphynx,True
+3281,33,33,Sphynx,Sphynx,True
+3282,33,10,Sphynx,Chihuahua,False
+3283,33,10,Sphynx,Chihuahua,False
+3284,33,33,Sphynx,Sphynx,True
+3285,33,33,Sphynx,Sphynx,True
+3286,33,33,Sphynx,Sphynx,True
+3287,33,5,Sphynx,Bengal,False
+3288,33,33,Sphynx,Sphynx,True
+3289,33,33,Sphynx,Sphynx,True
+3290,33,33,Sphynx,Sphynx,True
+3291,33,33,Sphynx,Sphynx,True
+3292,33,33,Sphynx,Sphynx,True
+3293,33,33,Sphynx,Sphynx,True
+3294,33,33,Sphynx,Sphynx,True
+3295,33,33,Sphynx,Sphynx,True
+3296,33,10,Sphynx,Chihuahua,False
+3297,33,33,Sphynx,Sphynx,True
+3298,33,33,Sphynx,Sphynx,True
+3299,33,33,Sphynx,Sphynx,True
+3300,33,33,Sphynx,Sphynx,True
+3301,33,33,Sphynx,Sphynx,True
+3302,33,33,Sphynx,Sphynx,True
+3303,33,33,Sphynx,Sphynx,True
+3304,33,33,Sphynx,Sphynx,True
+3305,33,33,Sphynx,Sphynx,True
+3306,33,33,Sphynx,Sphynx,True
+3307,33,33,Sphynx,Sphynx,True
+3308,33,33,Sphynx,Sphynx,True
+3309,33,33,Sphynx,Sphynx,True
+3310,33,33,Sphynx,Sphynx,True
+3311,33,33,Sphynx,Sphynx,True
+3312,33,0,Sphynx,Abyssinian,False
+3313,33,33,Sphynx,Sphynx,True
+3314,33,33,Sphynx,Sphynx,True
+3315,33,33,Sphynx,Sphynx,True
+3316,33,33,Sphynx,Sphynx,True
+3317,33,33,Sphynx,Sphynx,True
+3318,33,10,Sphynx,Chihuahua,False
+3319,33,33,Sphynx,Sphynx,True
+3320,33,33,Sphynx,Sphynx,True
+3321,33,33,Sphynx,Sphynx,True
+3322,33,33,Sphynx,Sphynx,True
+3323,33,33,Sphynx,Sphynx,True
+3324,33,33,Sphynx,Sphynx,True
+3325,33,33,Sphynx,Sphynx,True
+3326,33,33,Sphynx,Sphynx,True
+3327,33,33,Sphynx,Sphynx,True
+3328,33,33,Sphynx,Sphynx,True
+3329,33,33,Sphynx,Sphynx,True
+3330,33,33,Sphynx,Sphynx,True
+3331,33,33,Sphynx,Sphynx,True
+3332,33,33,Sphynx,Sphynx,True
+3333,33,33,Sphynx,Sphynx,True
+3334,33,33,Sphynx,Sphynx,True
+3335,33,33,Sphynx,Sphynx,True
+3336,33,33,Sphynx,Sphynx,True
+3337,33,33,Sphynx,Sphynx,True
+3338,33,33,Sphynx,Sphynx,True
+3339,33,33,Sphynx,Sphynx,True
+3340,33,33,Sphynx,Sphynx,True
+3341,33,33,Sphynx,Sphynx,True
+3342,33,33,Sphynx,Sphynx,True
+3343,33,33,Sphynx,Sphynx,True
+3344,33,33,Sphynx,Sphynx,True
+3345,33,33,Sphynx,Sphynx,True
+3346,33,33,Sphynx,Sphynx,True
+3347,33,33,Sphynx,Sphynx,True
+3348,33,33,Sphynx,Sphynx,True
+3349,33,33,Sphynx,Sphynx,True
+3350,33,33,Sphynx,Sphynx,True
+3351,33,33,Sphynx,Sphynx,True
+3352,33,33,Sphynx,Sphynx,True
+3353,33,0,Sphynx,Abyssinian,False
+3354,33,33,Sphynx,Sphynx,True
+3355,33,33,Sphynx,Sphynx,True
+3356,33,33,Sphynx,Sphynx,True
+3357,33,33,Sphynx,Sphynx,True
+3358,33,33,Sphynx,Sphynx,True
+3359,33,33,Sphynx,Sphynx,True
+3360,33,33,Sphynx,Sphynx,True
+3361,33,33,Sphynx,Sphynx,True
+3362,33,33,Sphynx,Sphynx,True
+3363,33,33,Sphynx,Sphynx,True
+3364,33,33,Sphynx,Sphynx,True
+3365,33,33,Sphynx,Sphynx,True
+3366,33,33,Sphynx,Sphynx,True
+3367,33,33,Sphynx,Sphynx,True
+3368,33,33,Sphynx,Sphynx,True
+3369,33,33,Sphynx,Sphynx,True
+3370,33,33,Sphynx,Sphynx,True
+3371,33,33,Sphynx,Sphynx,True
+3372,33,33,Sphynx,Sphynx,True
+3373,33,33,Sphynx,Sphynx,True
+3374,33,33,Sphynx,Sphynx,True
+3375,33,33,Sphynx,Sphynx,True
+3376,33,33,Sphynx,Sphynx,True
+3377,33,33,Sphynx,Sphynx,True
+3378,33,33,Sphynx,Sphynx,True
+3379,33,33,Sphynx,Sphynx,True
+3380,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3381,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3382,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3383,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3384,34,8,Staffordshire Bull Terrier,Boxer,False
+3385,34,8,Staffordshire Bull Terrier,Boxer,False
+3386,34,14,Staffordshire Bull Terrier,German Shorthaired,False
+3387,34,8,Staffordshire Bull Terrier,Boxer,False
+3388,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3389,34,8,Staffordshire Bull Terrier,Boxer,False
+3390,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3391,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3392,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3393,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3394,34,4,Staffordshire Bull Terrier,Beagle,False
+3395,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3396,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3397,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3398,34,21,Staffordshire Bull Terrier,Miniature Pinscher,False
+3399,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3400,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3401,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3402,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3403,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3404,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3405,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3406,34,4,Staffordshire Bull Terrier,Beagle,False
+3407,34,4,Staffordshire Bull Terrier,Beagle,False
+3408,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3409,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3410,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3411,34,14,Staffordshire Bull Terrier,German Shorthaired,False
+3412,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3413,34,8,Staffordshire Bull Terrier,Boxer,False
+3414,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3415,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3416,34,8,Staffordshire Bull Terrier,Boxer,False
+3417,34,14,Staffordshire Bull Terrier,German Shorthaired,False
+3418,34,8,Staffordshire Bull Terrier,Boxer,False
+3419,34,14,Staffordshire Bull Terrier,German Shorthaired,False
+3420,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3421,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3422,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3423,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3424,34,8,Staffordshire Bull Terrier,Boxer,False
+3425,34,14,Staffordshire Bull Terrier,German Shorthaired,False
+3426,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3427,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3428,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3429,34,8,Staffordshire Bull Terrier,Boxer,False
+3430,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3431,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3432,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3433,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3434,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3435,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3436,34,8,Staffordshire Bull Terrier,Boxer,False
+3437,34,8,Staffordshire Bull Terrier,Boxer,False
+3438,34,4,Staffordshire Bull Terrier,Beagle,False
+3439,34,4,Staffordshire Bull Terrier,Beagle,False
+3440,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3441,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3442,34,4,Staffordshire Bull Terrier,Beagle,False
+3443,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3444,34,29,Staffordshire Bull Terrier,Samoyed,False
+3445,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3446,34,4,Staffordshire Bull Terrier,Beagle,False
+3447,34,31,Staffordshire Bull Terrier,Shiba Inu,False
+3448,34,31,Staffordshire Bull Terrier,Shiba Inu,False
+3449,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3450,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3451,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3452,34,8,Staffordshire Bull Terrier,Boxer,False
+3453,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3454,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3455,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3456,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3457,34,8,Staffordshire Bull Terrier,Boxer,False
+3458,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3459,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3460,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3461,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3462,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3463,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3464,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3465,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3466,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3467,34,4,Staffordshire Bull Terrier,Beagle,False
+3468,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3469,35,35,Wheaten Terrier,Wheaten Terrier,True
+3470,35,35,Wheaten Terrier,Wheaten Terrier,True
+3471,35,35,Wheaten Terrier,Wheaten Terrier,True
+3472,35,35,Wheaten Terrier,Wheaten Terrier,True
+3473,35,5,Wheaten Terrier,Bengal,False
+3474,35,35,Wheaten Terrier,Wheaten Terrier,True
+3475,35,35,Wheaten Terrier,Wheaten Terrier,True
+3476,35,35,Wheaten Terrier,Wheaten Terrier,True
+3477,35,35,Wheaten Terrier,Wheaten Terrier,True
+3478,35,35,Wheaten Terrier,Wheaten Terrier,True
+3479,35,35,Wheaten Terrier,Wheaten Terrier,True
+3480,35,35,Wheaten Terrier,Wheaten Terrier,True
+3481,35,35,Wheaten Terrier,Wheaten Terrier,True
+3482,35,35,Wheaten Terrier,Wheaten Terrier,True
+3483,35,35,Wheaten Terrier,Wheaten Terrier,True
+3484,35,35,Wheaten Terrier,Wheaten Terrier,True
+3485,35,35,Wheaten Terrier,Wheaten Terrier,True
+3486,35,35,Wheaten Terrier,Wheaten Terrier,True
+3487,35,19,Wheaten Terrier,Leonberger,False
+3488,35,35,Wheaten Terrier,Wheaten Terrier,True
+3489,35,35,Wheaten Terrier,Wheaten Terrier,True
+3490,35,35,Wheaten Terrier,Wheaten Terrier,True
+3491,35,35,Wheaten Terrier,Wheaten Terrier,True
+3492,35,35,Wheaten Terrier,Wheaten Terrier,True
+3493,35,29,Wheaten Terrier,Samoyed,False
+3494,35,35,Wheaten Terrier,Wheaten Terrier,True
+3495,35,35,Wheaten Terrier,Wheaten Terrier,True
+3496,35,24,Wheaten Terrier,Pomeranian,False
+3497,35,16,Wheaten Terrier,Havanese,False
+3498,35,35,Wheaten Terrier,Wheaten Terrier,True
+3499,35,35,Wheaten Terrier,Wheaten Terrier,True
+3500,35,13,Wheaten Terrier,English Setter,False
+3501,35,35,Wheaten Terrier,Wheaten Terrier,True
+3502,35,35,Wheaten Terrier,Wheaten Terrier,True
+3503,35,35,Wheaten Terrier,Wheaten Terrier,True
+3504,35,35,Wheaten Terrier,Wheaten Terrier,True
+3505,35,18,Wheaten Terrier,Keeshond,False
+3506,35,35,Wheaten Terrier,Wheaten Terrier,True
+3507,35,35,Wheaten Terrier,Wheaten Terrier,True
+3508,35,35,Wheaten Terrier,Wheaten Terrier,True
+3509,35,35,Wheaten Terrier,Wheaten Terrier,True
+3510,35,35,Wheaten Terrier,Wheaten Terrier,True
+3511,35,35,Wheaten Terrier,Wheaten Terrier,True
+3512,35,35,Wheaten Terrier,Wheaten Terrier,True
+3513,35,35,Wheaten Terrier,Wheaten Terrier,True
+3514,35,35,Wheaten Terrier,Wheaten Terrier,True
+3515,35,35,Wheaten Terrier,Wheaten Terrier,True
+3516,35,35,Wheaten Terrier,Wheaten Terrier,True
+3517,35,30,Wheaten Terrier,Scottish Terrier,False
+3518,35,35,Wheaten Terrier,Wheaten Terrier,True
+3519,35,35,Wheaten Terrier,Wheaten Terrier,True
+3520,35,35,Wheaten Terrier,Wheaten Terrier,True
+3521,35,35,Wheaten Terrier,Wheaten Terrier,True
+3522,35,35,Wheaten Terrier,Wheaten Terrier,True
+3523,35,35,Wheaten Terrier,Wheaten Terrier,True
+3524,35,35,Wheaten Terrier,Wheaten Terrier,True
+3525,35,35,Wheaten Terrier,Wheaten Terrier,True
+3526,35,35,Wheaten Terrier,Wheaten Terrier,True
+3527,35,35,Wheaten Terrier,Wheaten Terrier,True
+3528,35,35,Wheaten Terrier,Wheaten Terrier,True
+3529,35,35,Wheaten Terrier,Wheaten Terrier,True
+3530,35,35,Wheaten Terrier,Wheaten Terrier,True
+3531,35,35,Wheaten Terrier,Wheaten Terrier,True
+3532,35,35,Wheaten Terrier,Wheaten Terrier,True
+3533,35,35,Wheaten Terrier,Wheaten Terrier,True
+3534,35,0,Wheaten Terrier,Abyssinian,False
+3535,35,35,Wheaten Terrier,Wheaten Terrier,True
+3536,35,35,Wheaten Terrier,Wheaten Terrier,True
+3537,35,36,Wheaten Terrier,Yorkshire Terrier,False
+3538,35,35,Wheaten Terrier,Wheaten Terrier,True
+3539,35,35,Wheaten Terrier,Wheaten Terrier,True
+3540,35,35,Wheaten Terrier,Wheaten Terrier,True
+3541,35,31,Wheaten Terrier,Shiba Inu,False
+3542,35,35,Wheaten Terrier,Wheaten Terrier,True
+3543,35,35,Wheaten Terrier,Wheaten Terrier,True
+3544,35,35,Wheaten Terrier,Wheaten Terrier,True
+3545,35,35,Wheaten Terrier,Wheaten Terrier,True
+3546,35,35,Wheaten Terrier,Wheaten Terrier,True
+3547,35,35,Wheaten Terrier,Wheaten Terrier,True
+3548,35,35,Wheaten Terrier,Wheaten Terrier,True
+3549,35,35,Wheaten Terrier,Wheaten Terrier,True
+3550,35,35,Wheaten Terrier,Wheaten Terrier,True
+3551,35,35,Wheaten Terrier,Wheaten Terrier,True
+3552,35,16,Wheaten Terrier,Havanese,False
+3553,35,35,Wheaten Terrier,Wheaten Terrier,True
+3554,35,35,Wheaten Terrier,Wheaten Terrier,True
+3555,35,33,Wheaten Terrier,Sphynx,False
+3556,35,35,Wheaten Terrier,Wheaten Terrier,True
+3557,35,35,Wheaten Terrier,Wheaten Terrier,True
+3558,35,35,Wheaten Terrier,Wheaten Terrier,True
+3559,35,35,Wheaten Terrier,Wheaten Terrier,True
+3560,35,35,Wheaten Terrier,Wheaten Terrier,True
+3561,35,35,Wheaten Terrier,Wheaten Terrier,True
+3562,35,35,Wheaten Terrier,Wheaten Terrier,True
+3563,35,35,Wheaten Terrier,Wheaten Terrier,True
+3564,35,35,Wheaten Terrier,Wheaten Terrier,True
+3565,35,35,Wheaten Terrier,Wheaten Terrier,True
+3566,35,35,Wheaten Terrier,Wheaten Terrier,True
+3567,35,35,Wheaten Terrier,Wheaten Terrier,True
+3568,35,35,Wheaten Terrier,Wheaten Terrier,True
+3569,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3570,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3571,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3572,36,35,Yorkshire Terrier,Wheaten Terrier,False
+3573,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3574,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3575,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3576,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3577,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3578,36,35,Yorkshire Terrier,Wheaten Terrier,False
+3579,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3580,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3581,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3582,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3583,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3584,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3585,36,30,Yorkshire Terrier,Scottish Terrier,False
+3586,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3587,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3588,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3589,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3590,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3591,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3592,36,30,Yorkshire Terrier,Scottish Terrier,False
+3593,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3594,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3595,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3596,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3597,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3598,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3599,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3600,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3601,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3602,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3603,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3604,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3605,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3606,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3607,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3608,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3609,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3610,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3611,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3612,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3613,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3614,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3615,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3616,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3617,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3618,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3619,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3620,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3621,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3622,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3623,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3624,36,30,Yorkshire Terrier,Scottish Terrier,False
+3625,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3626,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3627,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3628,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3629,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3630,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3631,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3632,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3633,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3634,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3635,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3636,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3637,36,18,Yorkshire Terrier,Keeshond,False
+3638,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3639,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3640,36,35,Yorkshire Terrier,Wheaten Terrier,False
+3641,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3642,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3643,36,30,Yorkshire Terrier,Scottish Terrier,False
+3644,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3645,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3646,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3647,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3648,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3649,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3650,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3651,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3652,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3653,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3654,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3655,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3656,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3657,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3658,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3659,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3660,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3661,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3662,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3663,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3664,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3665,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3666,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3667,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3668,36,36,Yorkshire Terrier,Yorkshire Terrier,True

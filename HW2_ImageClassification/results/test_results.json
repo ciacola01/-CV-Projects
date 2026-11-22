@@ -1,0 +1,32 @@
+{
+  "approach2_head": {
+    "run_name": "approach2_head",
+    "best_epoch": 9,
+    "train_acc": 0.9867527173913043,
+    "train_macro_f1": 0.9868130391220055,
+    "val_acc": 0.8940217391304348,
+    "val_macro_f1": 0.8944832959991241,
+    "test_acc": 0.8558190242572908,
+    "test_macro_f1": 0.8551188029451433
+  },
+  "approach3_logreg": {
+    "run_name": "approach3_logreg",
+    "selected_param": "classifier=logreg",
+    "train_acc": 1.0,
+    "train_macro_f1": 1.0,
+    "val_acc": 0.8573369565217391,
+    "val_macro_f1": 0.8580950276631198,
+    "test_acc": 0.8473698555464704,
+    "test_macro_f1": 0.8458072460559602
+  },
+  "approach3_rf": {
+    "run_name": "approach3_rf",
+    "selected_param": "classifier=rf",
+    "train_acc": 1.0,
+    "train_macro_f1": 1.0,
+    "val_acc": 0.8586956521739131,
+    "val_macro_f1": 0.8584777570226454,
+    "test_acc": 0.8274734260016353,
+    "test_macro_f1": 0.822742155990997
+  }
+}

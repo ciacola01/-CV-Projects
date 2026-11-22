@@ -34,9 +34,8 @@ def get_transforms():
     mean, std = transform_eval.mean, transform_eval.std # Mean and standard deviation from weights
 
     transform_train = transforms.Compose([
-        transforms.Resize(RESIZE_SIZE),
-        transforms.RandomCrop(IMAGE_SIZE),
-        transforms.RandomHorizontalFlip(p=0.5), # Reflex in 50% of cases
+        transforms.RandomResizedCrop(IMAGE_SIZE, scale=(0.7, 1.0)),
+        transforms.RandomHorizontalFlip(p=0.5),
         transforms.ColorJitter(brightness=0.2, contrast=0.2, saturation=0.2),
         transforms.ToTensor(),
         transforms.Normalize(mean=mean, std=std),

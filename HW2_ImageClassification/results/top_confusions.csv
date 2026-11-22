@@ -1,0 +1,31 @@
+approach,true_breed,predicted_breed,count
+approach1_full,American Pit Bull Terrier,American Bulldog,17
+approach1_full,American Pit Bull Terrier,Staffordshire Bull Terrier,16
+approach1_full,Ragdoll,Birman,16
+approach1_full,Russian Blue,British Shorthair,15
+approach1_full,Chihuahua,Shiba Inu,15
+approach1_full,American Pit Bull Terrier,German Shorthaired,14
+approach1_full,Staffordshire Bull Terrier,Boxer,14
+approach1_full,Staffordshire Bull Terrier,American Bulldog,12
+approach1_full,Siamese,Birman,11
+approach1_full,Bengal,Egyptian Mau,10
+approach2_head,American Pit Bull Terrier,Staffordshire Bull Terrier,25
+approach2_head,Siamese,Birman,15
+approach2_head,Ragdoll,Birman,15
+approach2_head,Maine Coon,Ragdoll,13
+approach2_head,Basset Hound,Beagle,12
+approach2_head,British Shorthair,Russian Blue,12
+approach2_head,Maine Coon,Bengal,10
+approach2_head,Chihuahua,Shiba Inu,10
+approach2_head,Egyptian Mau,Bengal,9
+approach2_head,Russian Blue,British Shorthair,9
+approach3_rf,Chihuahua,Shiba Inu,19
+approach3_rf,British Shorthair,Russian Blue,17
+approach3_rf,Birman,Ragdoll,17
+approach3_rf,Ragdoll,Birman,17
+approach3_rf,American Pit Bull Terrier,American Bulldog,16
+approach3_rf,American Pit Bull Terrier,Staffordshire Bull Terrier,16
+approach3_rf,Russian Blue,British Shorthair,15
+approach3_rf,Staffordshire Bull Terrier,American Bulldog,14
+approach3_rf,Staffordshire Bull Terrier,Boxer,13
+approach3_rf,Chihuahua,Sphynx,12

@@ -17,9 +17,18 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 SPLITS_DIR = ROOT / "splits" # train/val indexes
 RESULTS_DIR = ROOT / "results" # metrics, tables and figures
+FEATURES_DIR = ROOT / "features" # extracted features (third approach)
+CHECKPOINTS_DIR = ROOT / "checkpoints" # weights of the selected models
 
 # Loading images parameters
 RESIZE_SIZE = 256 # short side equals to 256
 IMAGE_SIZE = 224 # final cut 224x224, the expected dimension by MobileNetV3
 BATCH_SIZE = 32 # how many images the network sees with every step
 NUM_WORKERS = 2 # it is reasonable and a good compromise to avoid to do all in the main process
+
+# Train hyperparameters for the first and the second approach
+WEIGHT_DECAY = 1e-4
+TRAIN_DEFAULTS = {
+    "head": {"lr": 1e-3, "epochs": 15},
+    "full": {"lr": 1e-4, "epochs":10},
+}

@@ -1,0 +1,22 @@
+{
+  "run_name": "approach1_full",
+  "mode": "full",
+  "loss": "CrossEntropyLoss",
+  "optimizer": "AdamW",
+  "lr": 0.0001,
+  "weight_decay": 0.0001,
+  "batch_size": 32,
+  "epochs": 10,
+  "seed": 42,
+  "device": "cpu",
+  "selection_rule": "epoch with the highest validation macro-F1",
+  "best_epoch": 10,
+  "best_val_macro_f1": 0.8732198575679552,
+  "best_val_acc": 0.8722826086956522,
+  "trainable_parameters": 1555781,
+  "total_parameters": 1555781,
+  "trainable_layers": "all parameters",
+  "train_time_sec": 2404.3427462469554,
+  "total_time_sec": 2742.7565760830184,
+  "checkpoint": "approach1_full.pt"
+}
