@@ -30,6 +30,7 @@ Other dependencies: pandas, matplotlib, joblib.
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r HW2_ImageClassification/requirements.txt
+cd HW2_ImageClassification/src
 ```
 
 The code runs on CUDA, MPS or CPU (chosen automatically in `utils.get_device()`). 
@@ -62,7 +63,7 @@ results/        metrics (json/csv), tables and figures
 |`makeResults.py`|results table and all figures|
 
 ## How to reproduce
-From the `src/` folder, in this order:
+From the `HW2_ImageClassification/src/` folder, in this order:
 
 ```bash
 python checkEnvironment.py                 # versions -> results/environment.json
