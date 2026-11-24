@@ -1,13 +1,23 @@
 {
+  "approach1_full": {
+    "run_name": "approach1_full",
+    "best_epoch": 9,
+    "train_acc": 0.9741847826086957,
+    "train_macro_f1": 0.9741875568161473,
+    "val_acc": 0.8682065217391305,
+    "val_macro_f1": 0.8689355059896434,
+    "test_acc": 0.8212046879258653,
+    "test_macro_f1": 0.8195575098568891
+  },
   "approach2_head": {
     "run_name": "approach2_head",
-    "best_epoch": 9,
-    "train_acc": 0.9867527173913043,
-    "train_macro_f1": 0.9868130391220055,
-    "val_acc": 0.8940217391304348,
-    "val_macro_f1": 0.8944832959991241,
-    "test_acc": 0.8558190242572908,
-    "test_macro_f1": 0.8551188029451433
+    "best_epoch": 13,
+    "train_acc": 0.9894701086956522,
+    "train_macro_f1": 0.9894739468025462,
+    "val_acc": 0.8967391304347826,
+    "val_macro_f1": 0.8965933899167129,
+    "test_acc": 0.854183701281003,
+    "test_macro_f1": 0.851890978148344
   },
   "approach3_logreg": {
     "run_name": "approach3_logreg",
@@ -24,9 +34,9 @@
     "selected_param": "classifier=rf",
     "train_acc": 1.0,
     "train_macro_f1": 1.0,
-    "val_acc": 0.8586956521739131,
-    "val_macro_f1": 0.8584777570226454,
-    "test_acc": 0.8274734260016353,
-    "test_macro_f1": 0.822742155990997
+    "val_acc": 0.8614130434782609,
+    "val_macro_f1": 0.8611885306680893,
+    "test_acc": 0.8269283183428727,
+    "test_macro_f1": 0.8221622522610383
   }
 }

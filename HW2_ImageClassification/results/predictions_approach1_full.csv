@@ -2,9 +2,9 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 0,0,5,Abyssinian,Bengal,False
 1,0,0,Abyssinian,Abyssinian,True
 2,0,21,Abyssinian,Miniature Pinscher,False
-3,0,5,Abyssinian,Bengal,False
+3,0,0,Abyssinian,Abyssinian,True
 4,0,0,Abyssinian,Abyssinian,True
-5,0,21,Abyssinian,Miniature Pinscher,False
+5,0,0,Abyssinian,Abyssinian,True
 6,0,0,Abyssinian,Abyssinian,True
 7,0,0,Abyssinian,Abyssinian,True
 8,0,27,Abyssinian,Russian Blue,False
@@ -15,7 +15,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 13,0,0,Abyssinian,Abyssinian,True
 14,0,23,Abyssinian,Persian,False
 15,0,5,Abyssinian,Bengal,False
-16,0,5,Abyssinian,Bengal,False
+16,0,27,Abyssinian,Russian Blue,False
 17,0,0,Abyssinian,Abyssinian,True
 18,0,0,Abyssinian,Abyssinian,True
 19,0,0,Abyssinian,Abyssinian,True
@@ -34,7 +34,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 32,0,0,Abyssinian,Abyssinian,True
 33,0,0,Abyssinian,Abyssinian,True
 34,0,0,Abyssinian,Abyssinian,True
-35,0,0,Abyssinian,Abyssinian,True
+35,0,21,Abyssinian,Miniature Pinscher,False
 36,0,0,Abyssinian,Abyssinian,True
 37,0,0,Abyssinian,Abyssinian,True
 38,0,0,Abyssinian,Abyssinian,True
@@ -43,20 +43,20 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 41,0,0,Abyssinian,Abyssinian,True
 42,0,0,Abyssinian,Abyssinian,True
 43,0,26,Abyssinian,Ragdoll,False
-44,0,5,Abyssinian,Bengal,False
+44,0,0,Abyssinian,Abyssinian,True
 45,0,11,Abyssinian,Egyptian Mau,False
 46,0,0,Abyssinian,Abyssinian,True
-47,0,23,Abyssinian,Persian,False
+47,0,11,Abyssinian,Egyptian Mau,False
 48,0,0,Abyssinian,Abyssinian,True
 49,0,0,Abyssinian,Abyssinian,True
-50,0,26,Abyssinian,Ragdoll,False
+50,0,0,Abyssinian,Abyssinian,True
 51,0,0,Abyssinian,Abyssinian,True
 52,0,0,Abyssinian,Abyssinian,True
 53,0,31,Abyssinian,Shiba Inu,False
 54,0,0,Abyssinian,Abyssinian,True
 55,0,0,Abyssinian,Abyssinian,True
 56,0,5,Abyssinian,Bengal,False
-57,0,0,Abyssinian,Abyssinian,True
+57,0,31,Abyssinian,Shiba Inu,False
 58,0,0,Abyssinian,Abyssinian,True
 59,0,0,Abyssinian,Abyssinian,True
 60,0,0,Abyssinian,Abyssinian,True
@@ -65,7 +65,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 63,0,0,Abyssinian,Abyssinian,True
 64,0,0,Abyssinian,Abyssinian,True
 65,0,0,Abyssinian,Abyssinian,True
-66,0,11,Abyssinian,Egyptian Mau,False
+66,0,26,Abyssinian,Ragdoll,False
 67,0,0,Abyssinian,Abyssinian,True
 68,0,0,Abyssinian,Abyssinian,True
 69,0,0,Abyssinian,Abyssinian,True
@@ -120,14 +120,14 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 118,1,1,American Bulldog,American Bulldog,True
 119,1,1,American Bulldog,American Bulldog,True
 120,1,1,American Bulldog,American Bulldog,True
-121,1,34,American Bulldog,Staffordshire Bull Terrier,False
+121,1,1,American Bulldog,American Bulldog,True
 122,1,1,American Bulldog,American Bulldog,True
 123,1,1,American Bulldog,American Bulldog,True
 124,1,1,American Bulldog,American Bulldog,True
-125,1,14,American Bulldog,German Shorthaired,False
+125,1,1,American Bulldog,American Bulldog,True
 126,1,1,American Bulldog,American Bulldog,True
 127,1,1,American Bulldog,American Bulldog,True
-128,1,8,American Bulldog,Boxer,False
+128,1,1,American Bulldog,American Bulldog,True
 129,1,1,American Bulldog,American Bulldog,True
 130,1,1,American Bulldog,American Bulldog,True
 131,1,1,American Bulldog,American Bulldog,True
@@ -150,7 +150,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 148,1,8,American Bulldog,Boxer,False
 149,1,1,American Bulldog,American Bulldog,True
 150,1,1,American Bulldog,American Bulldog,True
-151,1,8,American Bulldog,Boxer,False
+151,1,1,American Bulldog,American Bulldog,True
 152,1,1,American Bulldog,American Bulldog,True
 153,1,1,American Bulldog,American Bulldog,True
 154,1,1,American Bulldog,American Bulldog,True
@@ -161,9 +161,9 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 159,1,1,American Bulldog,American Bulldog,True
 160,1,28,American Bulldog,Saint Bernard,False
 161,1,1,American Bulldog,American Bulldog,True
-162,1,4,American Bulldog,Beagle,False
-163,1,1,American Bulldog,American Bulldog,True
-164,1,8,American Bulldog,Boxer,False
+162,1,1,American Bulldog,American Bulldog,True
+163,1,28,American Bulldog,Saint Bernard,False
+164,1,28,American Bulldog,Saint Bernard,False
 165,1,1,American Bulldog,American Bulldog,True
 166,1,1,American Bulldog,American Bulldog,True
 167,1,1,American Bulldog,American Bulldog,True
@@ -181,7 +181,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 179,1,1,American Bulldog,American Bulldog,True
 180,1,1,American Bulldog,American Bulldog,True
 181,1,1,American Bulldog,American Bulldog,True
-182,1,8,American Bulldog,Boxer,False
+182,1,1,American Bulldog,American Bulldog,True
 183,1,1,American Bulldog,American Bulldog,True
 184,1,1,American Bulldog,American Bulldog,True
 185,1,1,American Bulldog,American Bulldog,True
@@ -191,7 +191,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 189,1,1,American Bulldog,American Bulldog,True
 190,1,1,American Bulldog,American Bulldog,True
 191,1,1,American Bulldog,American Bulldog,True
-192,1,8,American Bulldog,Boxer,False
+192,1,1,American Bulldog,American Bulldog,True
 193,1,1,American Bulldog,American Bulldog,True
 194,1,1,American Bulldog,American Bulldog,True
 195,1,1,American Bulldog,American Bulldog,True
@@ -207,26 +207,26 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 205,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 206,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 207,2,14,American Pit Bull Terrier,German Shorthaired,False
-208,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
-209,2,21,American Pit Bull Terrier,Miniature Pinscher,False
+208,2,14,American Pit Bull Terrier,German Shorthaired,False
+209,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 210,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 211,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 212,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 213,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
-214,2,14,American Pit Bull Terrier,German Shorthaired,False
+214,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 215,2,14,American Pit Bull Terrier,German Shorthaired,False
-216,2,8,American Pit Bull Terrier,Boxer,False
+216,2,4,American Pit Bull Terrier,Beagle,False
 217,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
-218,2,8,American Pit Bull Terrier,Boxer,False
-219,2,8,American Pit Bull Terrier,Boxer,False
+218,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+219,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 220,2,4,American Pit Bull Terrier,Beagle,False
-221,2,1,American Pit Bull Terrier,American Bulldog,False
+221,2,4,American Pit Bull Terrier,Beagle,False
 222,2,1,American Pit Bull Terrier,American Bulldog,False
 223,2,3,American Pit Bull Terrier,Basset Hound,False
 224,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
 225,2,14,American Pit Bull Terrier,German Shorthaired,False
 226,2,27,American Pit Bull Terrier,Russian Blue,False
-227,2,8,American Pit Bull Terrier,Boxer,False
+227,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
 228,2,1,American Pit Bull Terrier,American Bulldog,False
 229,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 230,2,14,American Pit Bull Terrier,German Shorthaired,False
@@ -236,63 +236,63 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 234,2,1,American Pit Bull Terrier,American Bulldog,False
 235,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 236,2,1,American Pit Bull Terrier,American Bulldog,False
-237,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+237,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 238,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
-239,2,14,American Pit Bull Terrier,German Shorthaired,False
+239,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 240,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
-241,2,14,American Pit Bull Terrier,German Shorthaired,False
+241,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 242,2,1,American Pit Bull Terrier,American Bulldog,False
-243,2,8,American Pit Bull Terrier,Boxer,False
+243,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 244,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
 245,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
-246,2,14,American Pit Bull Terrier,German Shorthaired,False
+246,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 247,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
-248,2,8,American Pit Bull Terrier,Boxer,False
+248,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
 249,2,5,American Pit Bull Terrier,Bengal,False
 250,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 251,2,4,American Pit Bull Terrier,Beagle,False
 252,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 253,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
-254,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+254,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 255,2,13,American Pit Bull Terrier,English Setter,False
 256,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 257,2,1,American Pit Bull Terrier,American Bulldog,False
 258,2,1,American Pit Bull Terrier,American Bulldog,False
 259,2,1,American Pit Bull Terrier,American Bulldog,False
 260,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
-261,2,1,American Pit Bull Terrier,American Bulldog,False
+261,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 262,2,1,American Pit Bull Terrier,American Bulldog,False
 263,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
-264,2,12,American Pit Bull Terrier,English Cocker Spaniel,False
+264,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 265,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
-266,2,8,American Pit Bull Terrier,Boxer,False
+266,2,4,American Pit Bull Terrier,Beagle,False
 267,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
-268,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+268,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 269,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
-270,2,31,American Pit Bull Terrier,Shiba Inu,False
+270,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 271,2,1,American Pit Bull Terrier,American Bulldog,False
-272,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+272,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 273,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 274,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 275,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
-276,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
-277,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
+276,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+277,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 278,2,1,American Pit Bull Terrier,American Bulldog,False
 279,2,4,American Pit Bull Terrier,Beagle,False
 280,2,14,American Pit Bull Terrier,German Shorthaired,False
 281,2,14,American Pit Bull Terrier,German Shorthaired,False
 282,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 283,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
-284,2,8,American Pit Bull Terrier,Boxer,False
+284,2,1,American Pit Bull Terrier,American Bulldog,False
 285,2,14,American Pit Bull Terrier,German Shorthaired,False
-286,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
-287,2,14,American Pit Bull Terrier,German Shorthaired,False
-288,2,8,American Pit Bull Terrier,Boxer,False
-289,2,8,American Pit Bull Terrier,Boxer,False
-290,2,14,American Pit Bull Terrier,German Shorthaired,False
+286,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+287,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+288,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+289,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
+290,2,4,American Pit Bull Terrier,Beagle,False
 291,2,1,American Pit Bull Terrier,American Bulldog,False
 292,2,1,American Pit Bull Terrier,American Bulldog,False
-293,2,14,American Pit Bull Terrier,German Shorthaired,False
+293,2,12,American Pit Bull Terrier,English Cocker Spaniel,False
 294,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
 295,2,34,American Pit Bull Terrier,Staffordshire Bull Terrier,False
 296,2,2,American Pit Bull Terrier,American Pit Bull Terrier,True
@@ -303,7 +303,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 301,3,13,Basset Hound,English Setter,False
 302,3,3,Basset Hound,Basset Hound,True
 303,3,14,Basset Hound,German Shorthaired,False
-304,3,4,Basset Hound,Beagle,False
+304,3,5,Basset Hound,Bengal,False
 305,3,3,Basset Hound,Basset Hound,True
 306,3,3,Basset Hound,Basset Hound,True
 307,3,3,Basset Hound,Basset Hound,True
@@ -315,9 +315,9 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 313,3,3,Basset Hound,Basset Hound,True
 314,3,3,Basset Hound,Basset Hound,True
 315,3,28,Basset Hound,Saint Bernard,False
-316,3,8,Basset Hound,Boxer,False
+316,3,3,Basset Hound,Basset Hound,True
 317,3,3,Basset Hound,Basset Hound,True
-318,3,28,Basset Hound,Saint Bernard,False
+318,3,1,Basset Hound,American Bulldog,False
 319,3,3,Basset Hound,Basset Hound,True
 320,3,3,Basset Hound,Basset Hound,True
 321,3,4,Basset Hound,Beagle,False
@@ -331,8 +331,8 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 329,3,3,Basset Hound,Basset Hound,True
 330,3,3,Basset Hound,Basset Hound,True
 331,3,3,Basset Hound,Basset Hound,True
-332,3,4,Basset Hound,Beagle,False
-333,3,14,Basset Hound,German Shorthaired,False
+332,3,3,Basset Hound,Basset Hound,True
+333,3,3,Basset Hound,Basset Hound,True
 334,3,3,Basset Hound,Basset Hound,True
 335,3,3,Basset Hound,Basset Hound,True
 336,3,3,Basset Hound,Basset Hound,True
@@ -341,9 +341,9 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 339,3,3,Basset Hound,Basset Hound,True
 340,3,3,Basset Hound,Basset Hound,True
 341,3,3,Basset Hound,Basset Hound,True
-342,3,3,Basset Hound,Basset Hound,True
+342,3,4,Basset Hound,Beagle,False
 343,3,8,Basset Hound,Boxer,False
-344,3,8,Basset Hound,Boxer,False
+344,3,3,Basset Hound,Basset Hound,True
 345,3,3,Basset Hound,Basset Hound,True
 346,3,3,Basset Hound,Basset Hound,True
 347,3,3,Basset Hound,Basset Hound,True
@@ -357,7 +357,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 355,3,3,Basset Hound,Basset Hound,True
 356,3,3,Basset Hound,Basset Hound,True
 357,3,3,Basset Hound,Basset Hound,True
-358,3,4,Basset Hound,Beagle,False
+358,3,3,Basset Hound,Basset Hound,True
 359,3,3,Basset Hound,Basset Hound,True
 360,3,3,Basset Hound,Basset Hound,True
 361,3,3,Basset Hound,Basset Hound,True
@@ -365,12 +365,12 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 363,3,3,Basset Hound,Basset Hound,True
 364,3,3,Basset Hound,Basset Hound,True
 365,3,3,Basset Hound,Basset Hound,True
-366,3,8,Basset Hound,Boxer,False
+366,3,3,Basset Hound,Basset Hound,True
 367,3,3,Basset Hound,Basset Hound,True
 368,3,4,Basset Hound,Beagle,False
 369,3,3,Basset Hound,Basset Hound,True
 370,3,3,Basset Hound,Basset Hound,True
-371,3,8,Basset Hound,Boxer,False
+371,3,3,Basset Hound,Basset Hound,True
 372,3,3,Basset Hound,Basset Hound,True
 373,3,3,Basset Hound,Basset Hound,True
 374,3,3,Basset Hound,Basset Hound,True
@@ -393,8 +393,8 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 391,3,3,Basset Hound,Basset Hound,True
 392,3,3,Basset Hound,Basset Hound,True
 393,3,4,Basset Hound,Beagle,False
-394,3,8,Basset Hound,Boxer,False
-395,3,8,Basset Hound,Boxer,False
+394,3,3,Basset Hound,Basset Hound,True
+395,3,3,Basset Hound,Basset Hound,True
 396,3,3,Basset Hound,Basset Hound,True
 397,3,3,Basset Hound,Basset Hound,True
 398,4,4,Beagle,Beagle,True
@@ -408,19 +408,19 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 406,4,4,Beagle,Beagle,True
 407,4,4,Beagle,Beagle,True
 408,4,4,Beagle,Beagle,True
-409,4,8,Beagle,Boxer,False
+409,4,3,Beagle,Basset Hound,False
 410,4,4,Beagle,Beagle,True
-411,4,4,Beagle,Beagle,True
+411,4,3,Beagle,Basset Hound,False
 412,4,4,Beagle,Beagle,True
 413,4,3,Beagle,Basset Hound,False
-414,4,4,Beagle,Beagle,True
+414,4,31,Beagle,Shiba Inu,False
 415,4,28,Beagle,Saint Bernard,False
 416,4,4,Beagle,Beagle,True
 417,4,4,Beagle,Beagle,True
 418,4,4,Beagle,Beagle,True
-419,4,14,Beagle,German Shorthaired,False
+419,4,4,Beagle,Beagle,True
 420,4,4,Beagle,Beagle,True
-421,4,8,Beagle,Boxer,False
+421,4,4,Beagle,Beagle,True
 422,4,4,Beagle,Beagle,True
 423,4,4,Beagle,Beagle,True
 424,4,4,Beagle,Beagle,True
@@ -428,15 +428,15 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 426,4,4,Beagle,Beagle,True
 427,4,4,Beagle,Beagle,True
 428,4,4,Beagle,Beagle,True
-429,4,8,Beagle,Boxer,False
+429,4,4,Beagle,Beagle,True
 430,4,4,Beagle,Beagle,True
 431,4,4,Beagle,Beagle,True
 432,4,4,Beagle,Beagle,True
 433,4,4,Beagle,Beagle,True
 434,4,4,Beagle,Beagle,True
-435,4,4,Beagle,Beagle,True
+435,4,3,Beagle,Basset Hound,False
 436,4,4,Beagle,Beagle,True
-437,4,8,Beagle,Boxer,False
+437,4,1,Beagle,American Bulldog,False
 438,4,4,Beagle,Beagle,True
 439,4,3,Beagle,Basset Hound,False
 440,4,28,Beagle,Saint Bernard,False
@@ -471,14 +471,14 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 469,4,4,Beagle,Beagle,True
 470,4,4,Beagle,Beagle,True
 471,4,4,Beagle,Beagle,True
-472,4,4,Beagle,Beagle,True
+472,4,3,Beagle,Basset Hound,False
 473,4,4,Beagle,Beagle,True
 474,4,4,Beagle,Beagle,True
 475,4,4,Beagle,Beagle,True
 476,4,4,Beagle,Beagle,True
 477,4,4,Beagle,Beagle,True
 478,4,4,Beagle,Beagle,True
-479,4,4,Beagle,Beagle,True
+479,4,3,Beagle,Basset Hound,False
 480,4,4,Beagle,Beagle,True
 481,4,4,Beagle,Beagle,True
 482,4,4,Beagle,Beagle,True
@@ -487,7 +487,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 485,4,4,Beagle,Beagle,True
 486,4,4,Beagle,Beagle,True
 487,4,4,Beagle,Beagle,True
-488,4,4,Beagle,Beagle,True
+488,4,3,Beagle,Basset Hound,False
 489,4,3,Beagle,Basset Hound,False
 490,4,4,Beagle,Beagle,True
 491,4,1,Beagle,American Bulldog,False
@@ -498,12 +498,12 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 496,4,4,Beagle,Beagle,True
 497,4,4,Beagle,Beagle,True
 498,5,5,Bengal,Bengal,True
-499,5,5,Bengal,Bengal,True
+499,5,11,Bengal,Egyptian Mau,False
 500,5,5,Bengal,Bengal,True
 501,5,5,Bengal,Bengal,True
-502,5,5,Bengal,Bengal,True
-503,5,5,Bengal,Bengal,True
-504,5,5,Bengal,Bengal,True
+502,5,11,Bengal,Egyptian Mau,False
+503,5,11,Bengal,Egyptian Mau,False
+504,5,11,Bengal,Egyptian Mau,False
 505,5,5,Bengal,Bengal,True
 506,5,5,Bengal,Bengal,True
 507,5,11,Bengal,Egyptian Mau,False
@@ -516,7 +516,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 514,5,5,Bengal,Bengal,True
 515,5,5,Bengal,Bengal,True
 516,5,11,Bengal,Egyptian Mau,False
-517,5,5,Bengal,Bengal,True
+517,5,20,Bengal,Maine Coon,False
 518,5,11,Bengal,Egyptian Mau,False
 519,5,5,Bengal,Bengal,True
 520,5,11,Bengal,Egyptian Mau,False
@@ -541,7 +541,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 539,5,5,Bengal,Bengal,True
 540,5,5,Bengal,Bengal,True
 541,5,5,Bengal,Bengal,True
-542,5,5,Bengal,Bengal,True
+542,5,11,Bengal,Egyptian Mau,False
 543,5,5,Bengal,Bengal,True
 544,5,13,Bengal,English Setter,False
 545,5,5,Bengal,Bengal,True
@@ -560,8 +560,8 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 558,5,5,Bengal,Bengal,True
 559,5,5,Bengal,Bengal,True
 560,5,5,Bengal,Bengal,True
-561,5,20,Bengal,Maine Coon,False
-562,5,5,Bengal,Bengal,True
+561,5,11,Bengal,Egyptian Mau,False
+562,5,0,Bengal,Abyssinian,False
 563,5,11,Bengal,Egyptian Mau,False
 564,5,5,Bengal,Bengal,True
 565,5,5,Bengal,Bengal,True
@@ -574,15 +574,15 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 572,5,11,Bengal,Egyptian Mau,False
 573,5,5,Bengal,Bengal,True
 574,5,5,Bengal,Bengal,True
-575,5,5,Bengal,Bengal,True
-576,5,5,Bengal,Bengal,True
-577,5,5,Bengal,Bengal,True
+575,5,11,Bengal,Egyptian Mau,False
+576,5,11,Bengal,Egyptian Mau,False
+577,5,11,Bengal,Egyptian Mau,False
 578,5,5,Bengal,Bengal,True
 579,5,5,Bengal,Bengal,True
 580,5,5,Bengal,Bengal,True
 581,5,5,Bengal,Bengal,True
 582,5,5,Bengal,Bengal,True
-583,5,20,Bengal,Maine Coon,False
+583,5,11,Bengal,Egyptian Mau,False
 584,5,5,Bengal,Bengal,True
 585,5,5,Bengal,Bengal,True
 586,5,31,Bengal,Shiba Inu,False
@@ -592,11 +592,11 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 590,5,5,Bengal,Bengal,True
 591,5,5,Bengal,Bengal,True
 592,5,5,Bengal,Bengal,True
-593,5,5,Bengal,Bengal,True
+593,5,11,Bengal,Egyptian Mau,False
 594,5,5,Bengal,Bengal,True
 595,5,11,Bengal,Egyptian Mau,False
 596,5,5,Bengal,Bengal,True
-597,5,5,Bengal,Bengal,True
+597,5,0,Bengal,Abyssinian,False
 598,6,6,Birman,Birman,True
 599,6,26,Birman,Ragdoll,False
 600,6,6,Birman,Birman,True
@@ -609,8 +609,8 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 607,6,6,Birman,Birman,True
 608,6,6,Birman,Birman,True
 609,6,6,Birman,Birman,True
-610,6,6,Birman,Birman,True
-611,6,32,Birman,Siamese,False
+610,6,26,Birman,Ragdoll,False
+611,6,6,Birman,Birman,True
 612,6,6,Birman,Birman,True
 613,6,6,Birman,Birman,True
 614,6,6,Birman,Birman,True
@@ -625,16 +625,16 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 623,6,6,Birman,Birman,True
 624,6,6,Birman,Birman,True
 625,6,6,Birman,Birman,True
-626,6,6,Birman,Birman,True
+626,6,26,Birman,Ragdoll,False
 627,6,26,Birman,Ragdoll,False
 628,6,6,Birman,Birman,True
 629,6,26,Birman,Ragdoll,False
 630,6,6,Birman,Birman,True
-631,6,6,Birman,Birman,True
+631,6,26,Birman,Ragdoll,False
 632,6,6,Birman,Birman,True
 633,6,6,Birman,Birman,True
 634,6,6,Birman,Birman,True
-635,6,35,Birman,Wheaten Terrier,False
+635,6,15,Birman,Great Pyrenees,False
 636,6,6,Birman,Birman,True
 637,6,6,Birman,Birman,True
 638,6,26,Birman,Ragdoll,False
@@ -644,9 +644,9 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 642,6,6,Birman,Birman,True
 643,6,6,Birman,Birman,True
 644,6,6,Birman,Birman,True
-645,6,6,Birman,Birman,True
-646,6,6,Birman,Birman,True
-647,6,6,Birman,Birman,True
+645,6,32,Birman,Siamese,False
+646,6,26,Birman,Ragdoll,False
+647,6,26,Birman,Ragdoll,False
 648,6,6,Birman,Birman,True
 649,6,6,Birman,Birman,True
 650,6,6,Birman,Birman,True
@@ -673,11 +673,11 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 671,6,6,Birman,Birman,True
 672,6,6,Birman,Birman,True
 673,6,6,Birman,Birman,True
-674,6,23,Birman,Persian,False
+674,6,26,Birman,Ragdoll,False
 675,6,6,Birman,Birman,True
-676,6,6,Birman,Birman,True
+676,6,26,Birman,Ragdoll,False
 677,6,26,Birman,Ragdoll,False
-678,6,6,Birman,Birman,True
+678,6,26,Birman,Ragdoll,False
 679,6,6,Birman,Birman,True
 680,6,26,Birman,Ragdoll,False
 681,6,26,Birman,Ragdoll,False
@@ -695,12 +695,12 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 693,6,6,Birman,Birman,True
 694,6,6,Birman,Birman,True
 695,6,17,Birman,Japanese Chin,False
-696,6,6,Birman,Birman,True
+696,6,26,Birman,Ragdoll,False
 697,6,6,Birman,Birman,True
 698,7,7,Bombay,Bombay,True
 699,7,7,Bombay,Bombay,True
 700,7,36,Bombay,Yorkshire Terrier,False
-701,7,7,Bombay,Bombay,True
+701,7,25,Bombay,Pug,False
 702,7,7,Bombay,Bombay,True
 703,7,7,Bombay,Bombay,True
 704,7,7,Bombay,Bombay,True
@@ -713,14 +713,14 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 711,7,7,Bombay,Bombay,True
 712,7,7,Bombay,Bombay,True
 713,7,7,Bombay,Bombay,True
-714,7,7,Bombay,Bombay,True
+714,7,27,Bombay,Russian Blue,False
 715,7,22,Bombay,Newfoundland,False
 716,7,7,Bombay,Bombay,True
 717,7,7,Bombay,Bombay,True
 718,7,7,Bombay,Bombay,True
 719,7,7,Bombay,Bombay,True
 720,7,7,Bombay,Bombay,True
-721,7,8,Bombay,Boxer,False
+721,7,1,Bombay,American Bulldog,False
 722,7,7,Bombay,Bombay,True
 723,7,7,Bombay,Bombay,True
 724,7,7,Bombay,Bombay,True
@@ -752,7 +752,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 750,7,7,Bombay,Bombay,True
 751,7,7,Bombay,Bombay,True
 752,7,7,Bombay,Bombay,True
-753,7,23,Bombay,Persian,False
+753,7,7,Bombay,Bombay,True
 754,7,7,Bombay,Bombay,True
 755,7,7,Bombay,Bombay,True
 756,7,7,Bombay,Bombay,True
@@ -770,7 +770,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 768,7,7,Bombay,Bombay,True
 769,7,7,Bombay,Bombay,True
 770,7,7,Bombay,Bombay,True
-771,7,7,Bombay,Bombay,True
+771,7,5,Bombay,Bengal,False
 772,7,7,Bombay,Bombay,True
 773,7,7,Bombay,Bombay,True
 774,7,7,Bombay,Bombay,True
@@ -785,11 +785,11 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 783,7,7,Bombay,Bombay,True
 784,7,7,Bombay,Bombay,True
 785,7,7,Bombay,Bombay,True
-786,8,8,Boxer,Boxer,True
+786,8,3,Boxer,Basset Hound,False
 787,8,8,Boxer,Boxer,True
 788,8,8,Boxer,Boxer,True
 789,8,1,Boxer,American Bulldog,False
-790,8,8,Boxer,Boxer,True
+790,8,3,Boxer,Basset Hound,False
 791,8,8,Boxer,Boxer,True
 792,8,8,Boxer,Boxer,True
 793,8,1,Boxer,American Bulldog,False
@@ -800,7 +800,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 798,8,8,Boxer,Boxer,True
 799,8,8,Boxer,Boxer,True
 800,8,32,Boxer,Siamese,False
-801,8,8,Boxer,Boxer,True
+801,8,28,Boxer,Saint Bernard,False
 802,8,8,Boxer,Boxer,True
 803,8,8,Boxer,Boxer,True
 804,8,8,Boxer,Boxer,True
@@ -808,7 +808,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 806,8,8,Boxer,Boxer,True
 807,8,8,Boxer,Boxer,True
 808,8,1,Boxer,American Bulldog,False
-809,8,8,Boxer,Boxer,True
+809,8,2,Boxer,American Pit Bull Terrier,False
 810,8,8,Boxer,Boxer,True
 811,8,8,Boxer,Boxer,True
 812,8,8,Boxer,Boxer,True
@@ -817,7 +817,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 815,8,8,Boxer,Boxer,True
 816,8,8,Boxer,Boxer,True
 817,8,8,Boxer,Boxer,True
-818,8,8,Boxer,Boxer,True
+818,8,14,Boxer,German Shorthaired,False
 819,8,8,Boxer,Boxer,True
 820,8,8,Boxer,Boxer,True
 821,8,8,Boxer,Boxer,True
@@ -846,19 +846,19 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 844,8,8,Boxer,Boxer,True
 845,8,8,Boxer,Boxer,True
 846,8,8,Boxer,Boxer,True
-847,8,8,Boxer,Boxer,True
+847,8,14,Boxer,German Shorthaired,False
 848,8,8,Boxer,Boxer,True
 849,8,8,Boxer,Boxer,True
 850,8,8,Boxer,Boxer,True
 851,8,8,Boxer,Boxer,True
 852,8,8,Boxer,Boxer,True
 853,8,8,Boxer,Boxer,True
-854,8,8,Boxer,Boxer,True
-855,8,12,Boxer,English Cocker Spaniel,False
+854,8,31,Boxer,Shiba Inu,False
+855,8,13,Boxer,English Setter,False
 856,8,8,Boxer,Boxer,True
 857,8,8,Boxer,Boxer,True
 858,8,8,Boxer,Boxer,True
-859,8,8,Boxer,Boxer,True
+859,8,2,Boxer,American Pit Bull Terrier,False
 860,8,8,Boxer,Boxer,True
 861,8,8,Boxer,Boxer,True
 862,8,8,Boxer,Boxer,True
@@ -873,7 +873,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 871,8,8,Boxer,Boxer,True
 872,8,8,Boxer,Boxer,True
 873,8,8,Boxer,Boxer,True
-874,8,8,Boxer,Boxer,True
+874,8,1,Boxer,American Bulldog,False
 875,8,8,Boxer,Boxer,True
 876,8,8,Boxer,Boxer,True
 877,8,8,Boxer,Boxer,True
@@ -886,17 +886,17 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 884,8,8,Boxer,Boxer,True
 885,9,9,British Shorthair,British Shorthair,True
 886,9,9,British Shorthair,British Shorthair,True
-887,9,9,British Shorthair,British Shorthair,True
+887,9,27,British Shorthair,Russian Blue,False
 888,9,26,British Shorthair,Ragdoll,False
 889,9,9,British Shorthair,British Shorthair,True
-890,9,9,British Shorthair,British Shorthair,True
+890,9,7,British Shorthair,Bombay,False
 891,9,10,British Shorthair,Chihuahua,False
 892,9,11,British Shorthair,Egyptian Mau,False
 893,9,11,British Shorthair,Egyptian Mau,False
 894,9,27,British Shorthair,Russian Blue,False
 895,9,0,British Shorthair,Abyssinian,False
 896,9,9,British Shorthair,British Shorthair,True
-897,9,9,British Shorthair,British Shorthair,True
+897,9,7,British Shorthair,Bombay,False
 898,9,9,British Shorthair,British Shorthair,True
 899,9,25,British Shorthair,Pug,False
 900,9,9,British Shorthair,British Shorthair,True
@@ -915,12 +915,12 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 913,9,9,British Shorthair,British Shorthair,True
 914,9,9,British Shorthair,British Shorthair,True
 915,9,9,British Shorthair,British Shorthair,True
-916,9,7,British Shorthair,Bombay,False
+916,9,11,British Shorthair,Egyptian Mau,False
 917,9,9,British Shorthair,British Shorthair,True
 918,9,27,British Shorthair,Russian Blue,False
 919,9,9,British Shorthair,British Shorthair,True
 920,9,9,British Shorthair,British Shorthair,True
-921,9,9,British Shorthair,British Shorthair,True
+921,9,27,British Shorthair,Russian Blue,False
 922,9,9,British Shorthair,British Shorthair,True
 923,9,9,British Shorthair,British Shorthair,True
 924,9,9,British Shorthair,British Shorthair,True
@@ -934,15 +934,15 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 932,9,9,British Shorthair,British Shorthair,True
 933,9,9,British Shorthair,British Shorthair,True
 934,9,26,British Shorthair,Ragdoll,False
-935,9,23,British Shorthair,Persian,False
+935,9,26,British Shorthair,Ragdoll,False
 936,9,9,British Shorthair,British Shorthair,True
 937,9,9,British Shorthair,British Shorthair,True
 938,9,9,British Shorthair,British Shorthair,True
 939,9,9,British Shorthair,British Shorthair,True
-940,9,23,British Shorthair,Persian,False
-941,9,23,British Shorthair,Persian,False
+940,9,11,British Shorthair,Egyptian Mau,False
+941,9,26,British Shorthair,Ragdoll,False
 942,9,9,British Shorthair,British Shorthair,True
-943,9,9,British Shorthair,British Shorthair,True
+943,9,27,British Shorthair,Russian Blue,False
 944,9,9,British Shorthair,British Shorthair,True
 945,9,9,British Shorthair,British Shorthair,True
 946,9,9,British Shorthair,British Shorthair,True
@@ -974,7 +974,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 972,9,9,British Shorthair,British Shorthair,True
 973,9,7,British Shorthair,Bombay,False
 974,9,9,British Shorthair,British Shorthair,True
-975,9,23,British Shorthair,Persian,False
+975,9,9,British Shorthair,British Shorthair,True
 976,9,27,British Shorthair,Russian Blue,False
 977,9,9,British Shorthair,British Shorthair,True
 978,9,9,British Shorthair,British Shorthair,True
@@ -986,24 +986,24 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 984,9,0,British Shorthair,Abyssinian,False
 985,10,10,Chihuahua,Chihuahua,True
 986,10,10,Chihuahua,Chihuahua,True
-987,10,24,Chihuahua,Pomeranian,False
-988,10,21,Chihuahua,Miniature Pinscher,False
+987,10,10,Chihuahua,Chihuahua,True
+988,10,10,Chihuahua,Chihuahua,True
 989,10,10,Chihuahua,Chihuahua,True
 990,10,24,Chihuahua,Pomeranian,False
 991,10,10,Chihuahua,Chihuahua,True
 992,10,10,Chihuahua,Chihuahua,True
 993,10,10,Chihuahua,Chihuahua,True
-994,10,32,Chihuahua,Siamese,False
-995,10,34,Chihuahua,Staffordshire Bull Terrier,False
-996,10,21,Chihuahua,Miniature Pinscher,False
+994,10,10,Chihuahua,Chihuahua,True
+995,10,10,Chihuahua,Chihuahua,True
+996,10,10,Chihuahua,Chihuahua,True
 997,10,10,Chihuahua,Chihuahua,True
-998,10,25,Chihuahua,Pug,False
+998,10,31,Chihuahua,Shiba Inu,False
 999,10,31,Chihuahua,Shiba Inu,False
-1000,10,21,Chihuahua,Miniature Pinscher,False
+1000,10,10,Chihuahua,Chihuahua,True
 1001,10,34,Chihuahua,Staffordshire Bull Terrier,False
 1002,10,10,Chihuahua,Chihuahua,True
 1003,10,33,Chihuahua,Sphynx,False
-1004,10,31,Chihuahua,Shiba Inu,False
+1004,10,10,Chihuahua,Chihuahua,True
 1005,10,10,Chihuahua,Chihuahua,True
 1006,10,31,Chihuahua,Shiba Inu,False
 1007,10,1,Chihuahua,American Bulldog,False
@@ -1017,7 +1017,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1015,10,10,Chihuahua,Chihuahua,True
 1016,10,10,Chihuahua,Chihuahua,True
 1017,10,10,Chihuahua,Chihuahua,True
-1018,10,25,Chihuahua,Pug,False
+1018,10,10,Chihuahua,Chihuahua,True
 1019,10,31,Chihuahua,Shiba Inu,False
 1020,10,10,Chihuahua,Chihuahua,True
 1021,10,1,Chihuahua,American Bulldog,False
@@ -1033,7 +1033,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1031,10,31,Chihuahua,Shiba Inu,False
 1032,10,10,Chihuahua,Chihuahua,True
 1033,10,10,Chihuahua,Chihuahua,True
-1034,10,6,Chihuahua,Birman,False
+1034,10,26,Chihuahua,Ragdoll,False
 1035,10,21,Chihuahua,Miniature Pinscher,False
 1036,10,10,Chihuahua,Chihuahua,True
 1037,10,10,Chihuahua,Chihuahua,True
@@ -1059,24 +1059,24 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1057,10,10,Chihuahua,Chihuahua,True
 1058,10,10,Chihuahua,Chihuahua,True
 1059,10,31,Chihuahua,Shiba Inu,False
-1060,10,31,Chihuahua,Shiba Inu,False
+1060,10,10,Chihuahua,Chihuahua,True
 1061,10,10,Chihuahua,Chihuahua,True
-1062,10,1,Chihuahua,American Bulldog,False
-1063,10,33,Chihuahua,Sphynx,False
-1064,10,34,Chihuahua,Staffordshire Bull Terrier,False
+1062,10,29,Chihuahua,Samoyed,False
+1063,10,10,Chihuahua,Chihuahua,True
+1064,10,27,Chihuahua,Russian Blue,False
 1065,10,31,Chihuahua,Shiba Inu,False
 1066,10,10,Chihuahua,Chihuahua,True
 1067,10,31,Chihuahua,Shiba Inu,False
 1068,10,34,Chihuahua,Staffordshire Bull Terrier,False
-1069,10,0,Chihuahua,Abyssinian,False
-1070,10,8,Chihuahua,Boxer,False
+1069,10,10,Chihuahua,Chihuahua,True
+1070,10,4,Chihuahua,Beagle,False
 1071,10,10,Chihuahua,Chihuahua,True
-1072,10,21,Chihuahua,Miniature Pinscher,False
+1072,10,31,Chihuahua,Shiba Inu,False
 1073,10,10,Chihuahua,Chihuahua,True
 1074,10,10,Chihuahua,Chihuahua,True
 1075,10,5,Chihuahua,Bengal,False
 1076,10,10,Chihuahua,Chihuahua,True
-1077,10,10,Chihuahua,Chihuahua,True
+1077,10,31,Chihuahua,Shiba Inu,False
 1078,10,10,Chihuahua,Chihuahua,True
 1079,10,10,Chihuahua,Chihuahua,True
 1080,10,10,Chihuahua,Chihuahua,True
@@ -1095,7 +1095,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1093,11,11,Egyptian Mau,Egyptian Mau,True
 1094,11,11,Egyptian Mau,Egyptian Mau,True
 1095,11,11,Egyptian Mau,Egyptian Mau,True
-1096,11,5,Egyptian Mau,Bengal,False
+1096,11,11,Egyptian Mau,Egyptian Mau,True
 1097,11,5,Egyptian Mau,Bengal,False
 1098,11,5,Egyptian Mau,Bengal,False
 1099,11,11,Egyptian Mau,Egyptian Mau,True
@@ -1112,13 +1112,13 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1110,11,11,Egyptian Mau,Egyptian Mau,True
 1111,11,11,Egyptian Mau,Egyptian Mau,True
 1112,11,11,Egyptian Mau,Egyptian Mau,True
-1113,11,5,Egyptian Mau,Bengal,False
+1113,11,11,Egyptian Mau,Egyptian Mau,True
 1114,11,11,Egyptian Mau,Egyptian Mau,True
 1115,11,11,Egyptian Mau,Egyptian Mau,True
 1116,11,11,Egyptian Mau,Egyptian Mau,True
 1117,11,11,Egyptian Mau,Egyptian Mau,True
 1118,11,11,Egyptian Mau,Egyptian Mau,True
-1119,11,5,Egyptian Mau,Bengal,False
+1119,11,11,Egyptian Mau,Egyptian Mau,True
 1120,11,11,Egyptian Mau,Egyptian Mau,True
 1121,11,11,Egyptian Mau,Egyptian Mau,True
 1122,11,11,Egyptian Mau,Egyptian Mau,True
@@ -1131,7 +1131,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1129,11,11,Egyptian Mau,Egyptian Mau,True
 1130,11,11,Egyptian Mau,Egyptian Mau,True
 1131,11,11,Egyptian Mau,Egyptian Mau,True
-1132,11,5,Egyptian Mau,Bengal,False
+1132,11,11,Egyptian Mau,Egyptian Mau,True
 1133,11,11,Egyptian Mau,Egyptian Mau,True
 1134,11,11,Egyptian Mau,Egyptian Mau,True
 1135,11,11,Egyptian Mau,Egyptian Mau,True
@@ -1148,7 +1148,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1146,11,11,Egyptian Mau,Egyptian Mau,True
 1147,11,11,Egyptian Mau,Egyptian Mau,True
 1148,11,11,Egyptian Mau,Egyptian Mau,True
-1149,11,5,Egyptian Mau,Bengal,False
+1149,11,11,Egyptian Mau,Egyptian Mau,True
 1150,11,11,Egyptian Mau,Egyptian Mau,True
 1151,11,9,Egyptian Mau,British Shorthair,False
 1152,11,11,Egyptian Mau,Egyptian Mau,True
@@ -1184,7 +1184,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1182,12,12,English Cocker Spaniel,English Cocker Spaniel,True
 1183,12,12,English Cocker Spaniel,English Cocker Spaniel,True
 1184,12,12,English Cocker Spaniel,English Cocker Spaniel,True
-1185,12,16,English Cocker Spaniel,Havanese,False
+1185,12,12,English Cocker Spaniel,English Cocker Spaniel,True
 1186,12,16,English Cocker Spaniel,Havanese,False
 1187,12,12,English Cocker Spaniel,English Cocker Spaniel,True
 1188,12,12,English Cocker Spaniel,English Cocker Spaniel,True
@@ -1217,13 +1217,13 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1215,12,12,English Cocker Spaniel,English Cocker Spaniel,True
 1216,12,12,English Cocker Spaniel,English Cocker Spaniel,True
 1217,12,12,English Cocker Spaniel,English Cocker Spaniel,True
-1218,12,16,English Cocker Spaniel,Havanese,False
+1218,12,12,English Cocker Spaniel,English Cocker Spaniel,True
 1219,12,12,English Cocker Spaniel,English Cocker Spaniel,True
 1220,12,12,English Cocker Spaniel,English Cocker Spaniel,True
 1221,12,12,English Cocker Spaniel,English Cocker Spaniel,True
 1222,12,12,English Cocker Spaniel,English Cocker Spaniel,True
 1223,12,12,English Cocker Spaniel,English Cocker Spaniel,True
-1224,12,16,English Cocker Spaniel,Havanese,False
+1224,12,12,English Cocker Spaniel,English Cocker Spaniel,True
 1225,12,12,English Cocker Spaniel,English Cocker Spaniel,True
 1226,12,12,English Cocker Spaniel,English Cocker Spaniel,True
 1227,12,12,English Cocker Spaniel,English Cocker Spaniel,True
@@ -1284,9 +1284,9 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1282,13,13,English Setter,English Setter,True
 1283,13,13,English Setter,English Setter,True
 1284,13,13,English Setter,English Setter,True
-1285,13,8,English Setter,Boxer,False
+1285,13,28,English Setter,Saint Bernard,False
 1286,13,13,English Setter,English Setter,True
-1287,13,13,English Setter,English Setter,True
+1287,13,15,English Setter,Great Pyrenees,False
 1288,13,13,English Setter,English Setter,True
 1289,13,13,English Setter,English Setter,True
 1290,13,13,English Setter,English Setter,True
@@ -1301,7 +1301,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1299,13,13,English Setter,English Setter,True
 1300,13,13,English Setter,English Setter,True
 1301,13,13,English Setter,English Setter,True
-1302,13,13,English Setter,English Setter,True
+1302,13,28,English Setter,Saint Bernard,False
 1303,13,13,English Setter,English Setter,True
 1304,13,13,English Setter,English Setter,True
 1305,13,13,English Setter,English Setter,True
@@ -1314,7 +1314,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1312,13,12,English Setter,English Cocker Spaniel,False
 1313,13,13,English Setter,English Setter,True
 1314,13,13,English Setter,English Setter,True
-1315,13,13,English Setter,English Setter,True
+1315,13,17,English Setter,Japanese Chin,False
 1316,13,13,English Setter,English Setter,True
 1317,13,13,English Setter,English Setter,True
 1318,13,13,English Setter,English Setter,True
@@ -1329,29 +1329,29 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1327,13,13,English Setter,English Setter,True
 1328,13,13,English Setter,English Setter,True
 1329,13,13,English Setter,English Setter,True
-1330,13,13,English Setter,English Setter,True
+1330,13,12,English Setter,English Cocker Spaniel,False
 1331,13,13,English Setter,English Setter,True
-1332,13,12,English Setter,English Cocker Spaniel,False
+1332,13,13,English Setter,English Setter,True
 1333,13,13,English Setter,English Setter,True
 1334,13,13,English Setter,English Setter,True
 1335,13,13,English Setter,English Setter,True
 1336,13,13,English Setter,English Setter,True
 1337,13,12,English Setter,English Cocker Spaniel,False
 1338,13,13,English Setter,English Setter,True
-1339,13,8,English Setter,Boxer,False
+1339,13,1,English Setter,American Bulldog,False
 1340,13,13,English Setter,English Setter,True
-1341,13,16,English Setter,Havanese,False
+1341,13,12,English Setter,English Cocker Spaniel,False
 1342,13,15,English Setter,Great Pyrenees,False
 1343,13,13,English Setter,English Setter,True
 1344,13,13,English Setter,English Setter,True
 1345,13,13,English Setter,English Setter,True
 1346,13,13,English Setter,English Setter,True
 1347,13,13,English Setter,English Setter,True
-1348,13,35,English Setter,Wheaten Terrier,False
+1348,13,12,English Setter,English Cocker Spaniel,False
 1349,13,13,English Setter,English Setter,True
 1350,13,12,English Setter,English Cocker Spaniel,False
 1351,13,13,English Setter,English Setter,True
-1352,13,16,English Setter,Havanese,False
+1352,13,17,English Setter,Japanese Chin,False
 1353,13,13,English Setter,English Setter,True
 1354,13,13,English Setter,English Setter,True
 1355,13,13,English Setter,English Setter,True
@@ -1366,10 +1366,10 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1364,13,13,English Setter,English Setter,True
 1365,13,13,English Setter,English Setter,True
 1366,13,13,English Setter,English Setter,True
-1367,13,16,English Setter,Havanese,False
+1367,13,13,English Setter,English Setter,True
 1368,13,12,English Setter,English Cocker Spaniel,False
 1369,13,13,English Setter,English Setter,True
-1370,13,1,English Setter,American Bulldog,False
+1370,13,4,English Setter,Beagle,False
 1371,13,13,English Setter,English Setter,True
 1372,13,13,English Setter,English Setter,True
 1373,13,13,English Setter,English Setter,True
@@ -1377,9 +1377,9 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1375,13,13,English Setter,English Setter,True
 1376,13,13,English Setter,English Setter,True
 1377,13,13,English Setter,English Setter,True
-1378,13,13,English Setter,English Setter,True
+1378,13,12,English Setter,English Cocker Spaniel,False
 1379,13,13,English Setter,English Setter,True
-1380,13,13,English Setter,English Setter,True
+1380,13,19,English Setter,Leonberger,False
 1381,13,13,English Setter,English Setter,True
 1382,14,14,German Shorthaired,German Shorthaired,True
 1383,14,14,German Shorthaired,German Shorthaired,True
@@ -1403,7 +1403,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1401,14,14,German Shorthaired,German Shorthaired,True
 1402,14,14,German Shorthaired,German Shorthaired,True
 1403,14,14,German Shorthaired,German Shorthaired,True
-1404,14,8,German Shorthaired,Boxer,False
+1404,14,22,German Shorthaired,Newfoundland,False
 1405,14,14,German Shorthaired,German Shorthaired,True
 1406,14,14,German Shorthaired,German Shorthaired,True
 1407,14,14,German Shorthaired,German Shorthaired,True
@@ -1421,7 +1421,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1419,14,14,German Shorthaired,German Shorthaired,True
 1420,14,14,German Shorthaired,German Shorthaired,True
 1421,14,14,German Shorthaired,German Shorthaired,True
-1422,14,14,German Shorthaired,German Shorthaired,True
+1422,14,12,German Shorthaired,English Cocker Spaniel,False
 1423,14,14,German Shorthaired,German Shorthaired,True
 1424,14,11,German Shorthaired,Egyptian Mau,False
 1425,14,14,German Shorthaired,German Shorthaired,True
@@ -1447,7 +1447,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1445,14,14,German Shorthaired,German Shorthaired,True
 1446,14,14,German Shorthaired,German Shorthaired,True
 1447,14,14,German Shorthaired,German Shorthaired,True
-1448,14,14,German Shorthaired,German Shorthaired,True
+1448,14,30,German Shorthaired,Scottish Terrier,False
 1449,14,14,German Shorthaired,German Shorthaired,True
 1450,14,14,German Shorthaired,German Shorthaired,True
 1451,14,14,German Shorthaired,German Shorthaired,True
@@ -1469,7 +1469,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1467,14,14,German Shorthaired,German Shorthaired,True
 1468,14,14,German Shorthaired,German Shorthaired,True
 1469,14,14,German Shorthaired,German Shorthaired,True
-1470,14,14,German Shorthaired,German Shorthaired,True
+1470,14,2,German Shorthaired,American Pit Bull Terrier,False
 1471,14,14,German Shorthaired,German Shorthaired,True
 1472,14,14,German Shorthaired,German Shorthaired,True
 1473,14,14,German Shorthaired,German Shorthaired,True
@@ -1488,7 +1488,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1486,15,6,Great Pyrenees,Birman,False
 1487,15,15,Great Pyrenees,Great Pyrenees,True
 1488,15,15,Great Pyrenees,Great Pyrenees,True
-1489,15,15,Great Pyrenees,Great Pyrenees,True
+1489,15,29,Great Pyrenees,Samoyed,False
 1490,15,15,Great Pyrenees,Great Pyrenees,True
 1491,15,15,Great Pyrenees,Great Pyrenees,True
 1492,15,15,Great Pyrenees,Great Pyrenees,True
@@ -1503,7 +1503,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1501,15,15,Great Pyrenees,Great Pyrenees,True
 1502,15,15,Great Pyrenees,Great Pyrenees,True
 1503,15,15,Great Pyrenees,Great Pyrenees,True
-1504,15,28,Great Pyrenees,Saint Bernard,False
+1504,15,29,Great Pyrenees,Samoyed,False
 1505,15,15,Great Pyrenees,Great Pyrenees,True
 1506,15,15,Great Pyrenees,Great Pyrenees,True
 1507,15,15,Great Pyrenees,Great Pyrenees,True
@@ -1521,7 +1521,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1519,15,35,Great Pyrenees,Wheaten Terrier,False
 1520,15,15,Great Pyrenees,Great Pyrenees,True
 1521,15,15,Great Pyrenees,Great Pyrenees,True
-1522,15,15,Great Pyrenees,Great Pyrenees,True
+1522,15,29,Great Pyrenees,Samoyed,False
 1523,15,15,Great Pyrenees,Great Pyrenees,True
 1524,15,15,Great Pyrenees,Great Pyrenees,True
 1525,15,15,Great Pyrenees,Great Pyrenees,True
@@ -1529,7 +1529,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1527,15,15,Great Pyrenees,Great Pyrenees,True
 1528,15,15,Great Pyrenees,Great Pyrenees,True
 1529,15,15,Great Pyrenees,Great Pyrenees,True
-1530,15,29,Great Pyrenees,Samoyed,False
+1530,15,15,Great Pyrenees,Great Pyrenees,True
 1531,15,15,Great Pyrenees,Great Pyrenees,True
 1532,15,15,Great Pyrenees,Great Pyrenees,True
 1533,15,15,Great Pyrenees,Great Pyrenees,True
@@ -1555,14 +1555,14 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1553,15,15,Great Pyrenees,Great Pyrenees,True
 1554,15,15,Great Pyrenees,Great Pyrenees,True
 1555,15,15,Great Pyrenees,Great Pyrenees,True
-1556,15,15,Great Pyrenees,Great Pyrenees,True
+1556,15,29,Great Pyrenees,Samoyed,False
 1557,15,13,Great Pyrenees,English Setter,False
 1558,15,29,Great Pyrenees,Samoyed,False
-1559,15,16,Great Pyrenees,Havanese,False
+1559,15,15,Great Pyrenees,Great Pyrenees,True
 1560,15,15,Great Pyrenees,Great Pyrenees,True
 1561,15,15,Great Pyrenees,Great Pyrenees,True
 1562,15,15,Great Pyrenees,Great Pyrenees,True
-1563,15,15,Great Pyrenees,Great Pyrenees,True
+1563,15,28,Great Pyrenees,Saint Bernard,False
 1564,15,15,Great Pyrenees,Great Pyrenees,True
 1565,15,15,Great Pyrenees,Great Pyrenees,True
 1566,15,15,Great Pyrenees,Great Pyrenees,True
@@ -1581,39 +1581,39 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1579,15,15,Great Pyrenees,Great Pyrenees,True
 1580,15,15,Great Pyrenees,Great Pyrenees,True
 1581,15,15,Great Pyrenees,Great Pyrenees,True
-1582,16,16,Havanese,Havanese,True
+1582,16,22,Havanese,Newfoundland,False
 1583,16,16,Havanese,Havanese,True
 1584,16,16,Havanese,Havanese,True
 1585,16,16,Havanese,Havanese,True
-1586,16,16,Havanese,Havanese,True
+1586,16,12,Havanese,English Cocker Spaniel,False
 1587,16,16,Havanese,Havanese,True
 1588,16,16,Havanese,Havanese,True
 1589,16,16,Havanese,Havanese,True
-1590,16,16,Havanese,Havanese,True
+1590,16,30,Havanese,Scottish Terrier,False
 1591,16,16,Havanese,Havanese,True
 1592,16,16,Havanese,Havanese,True
 1593,16,16,Havanese,Havanese,True
 1594,16,16,Havanese,Havanese,True
 1595,16,16,Havanese,Havanese,True
 1596,16,16,Havanese,Havanese,True
-1597,16,16,Havanese,Havanese,True
+1597,16,36,Havanese,Yorkshire Terrier,False
 1598,16,16,Havanese,Havanese,True
 1599,16,16,Havanese,Havanese,True
 1600,16,16,Havanese,Havanese,True
 1601,16,16,Havanese,Havanese,True
-1602,16,16,Havanese,Havanese,True
+1602,16,22,Havanese,Newfoundland,False
 1603,16,16,Havanese,Havanese,True
 1604,16,35,Havanese,Wheaten Terrier,False
 1605,16,16,Havanese,Havanese,True
 1606,16,16,Havanese,Havanese,True
 1607,16,16,Havanese,Havanese,True
-1608,16,16,Havanese,Havanese,True
+1608,16,12,Havanese,English Cocker Spaniel,False
 1609,16,35,Havanese,Wheaten Terrier,False
 1610,16,16,Havanese,Havanese,True
 1611,16,15,Havanese,Great Pyrenees,False
 1612,16,16,Havanese,Havanese,True
 1613,16,16,Havanese,Havanese,True
-1614,16,16,Havanese,Havanese,True
+1614,16,12,Havanese,English Cocker Spaniel,False
 1615,16,16,Havanese,Havanese,True
 1616,16,16,Havanese,Havanese,True
 1617,16,16,Havanese,Havanese,True
@@ -1628,12 +1628,12 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1626,16,35,Havanese,Wheaten Terrier,False
 1627,16,16,Havanese,Havanese,True
 1628,16,16,Havanese,Havanese,True
-1629,16,16,Havanese,Havanese,True
+1629,16,30,Havanese,Scottish Terrier,False
 1630,16,16,Havanese,Havanese,True
 1631,16,16,Havanese,Havanese,True
 1632,16,16,Havanese,Havanese,True
 1633,16,16,Havanese,Havanese,True
-1634,16,16,Havanese,Havanese,True
+1634,16,22,Havanese,Newfoundland,False
 1635,16,15,Havanese,Great Pyrenees,False
 1636,16,16,Havanese,Havanese,True
 1637,16,16,Havanese,Havanese,True
@@ -1645,12 +1645,12 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1643,16,16,Havanese,Havanese,True
 1644,16,30,Havanese,Scottish Terrier,False
 1645,16,16,Havanese,Havanese,True
-1646,16,16,Havanese,Havanese,True
+1646,16,18,Havanese,Keeshond,False
 1647,16,31,Havanese,Shiba Inu,False
 1648,16,16,Havanese,Havanese,True
 1649,16,16,Havanese,Havanese,True
 1650,16,36,Havanese,Yorkshire Terrier,False
-1651,16,16,Havanese,Havanese,True
+1651,16,35,Havanese,Wheaten Terrier,False
 1652,16,16,Havanese,Havanese,True
 1653,16,16,Havanese,Havanese,True
 1654,16,16,Havanese,Havanese,True
@@ -1662,11 +1662,11 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1660,16,16,Havanese,Havanese,True
 1661,16,16,Havanese,Havanese,True
 1662,16,16,Havanese,Havanese,True
-1663,16,16,Havanese,Havanese,True
+1663,16,17,Havanese,Japanese Chin,False
 1664,16,16,Havanese,Havanese,True
 1665,16,16,Havanese,Havanese,True
 1666,16,16,Havanese,Havanese,True
-1667,16,16,Havanese,Havanese,True
+1667,16,35,Havanese,Wheaten Terrier,False
 1668,16,16,Havanese,Havanese,True
 1669,16,16,Havanese,Havanese,True
 1670,16,16,Havanese,Havanese,True
@@ -1674,7 +1674,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1672,16,16,Havanese,Havanese,True
 1673,16,16,Havanese,Havanese,True
 1674,16,16,Havanese,Havanese,True
-1675,16,16,Havanese,Havanese,True
+1675,16,17,Havanese,Japanese Chin,False
 1676,16,16,Havanese,Havanese,True
 1677,16,16,Havanese,Havanese,True
 1678,16,16,Havanese,Havanese,True
@@ -1698,7 +1698,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1696,17,17,Japanese Chin,Japanese Chin,True
 1697,17,17,Japanese Chin,Japanese Chin,True
 1698,17,17,Japanese Chin,Japanese Chin,True
-1699,17,17,Japanese Chin,Japanese Chin,True
+1699,17,26,Japanese Chin,Ragdoll,False
 1700,17,17,Japanese Chin,Japanese Chin,True
 1701,17,17,Japanese Chin,Japanese Chin,True
 1702,17,17,Japanese Chin,Japanese Chin,True
@@ -1708,7 +1708,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1706,17,17,Japanese Chin,Japanese Chin,True
 1707,17,17,Japanese Chin,Japanese Chin,True
 1708,17,17,Japanese Chin,Japanese Chin,True
-1709,17,17,Japanese Chin,Japanese Chin,True
+1709,17,28,Japanese Chin,Saint Bernard,False
 1710,17,17,Japanese Chin,Japanese Chin,True
 1711,17,17,Japanese Chin,Japanese Chin,True
 1712,17,17,Japanese Chin,Japanese Chin,True
@@ -1719,7 +1719,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1717,17,17,Japanese Chin,Japanese Chin,True
 1718,17,17,Japanese Chin,Japanese Chin,True
 1719,17,17,Japanese Chin,Japanese Chin,True
-1720,17,17,Japanese Chin,Japanese Chin,True
+1720,17,26,Japanese Chin,Ragdoll,False
 1721,17,17,Japanese Chin,Japanese Chin,True
 1722,17,17,Japanese Chin,Japanese Chin,True
 1723,17,17,Japanese Chin,Japanese Chin,True
@@ -1773,7 +1773,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1771,17,17,Japanese Chin,Japanese Chin,True
 1772,17,17,Japanese Chin,Japanese Chin,True
 1773,17,17,Japanese Chin,Japanese Chin,True
-1774,17,17,Japanese Chin,Japanese Chin,True
+1774,17,28,Japanese Chin,Saint Bernard,False
 1775,17,17,Japanese Chin,Japanese Chin,True
 1776,17,17,Japanese Chin,Japanese Chin,True
 1777,17,17,Japanese Chin,Japanese Chin,True
@@ -1805,8 +1805,8 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1803,18,18,Keeshond,Keeshond,True
 1804,18,18,Keeshond,Keeshond,True
 1805,18,18,Keeshond,Keeshond,True
-1806,18,18,Keeshond,Keeshond,True
-1807,18,24,Keeshond,Pomeranian,False
+1806,18,19,Keeshond,Leonberger,False
+1807,18,18,Keeshond,Keeshond,True
 1808,18,18,Keeshond,Keeshond,True
 1809,18,18,Keeshond,Keeshond,True
 1810,18,18,Keeshond,Keeshond,True
@@ -1858,14 +1858,14 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1856,18,24,Keeshond,Pomeranian,False
 1857,18,18,Keeshond,Keeshond,True
 1858,18,18,Keeshond,Keeshond,True
-1859,18,30,Keeshond,Scottish Terrier,False
+1859,18,18,Keeshond,Keeshond,True
 1860,18,18,Keeshond,Keeshond,True
 1861,18,18,Keeshond,Keeshond,True
 1862,18,18,Keeshond,Keeshond,True
 1863,18,18,Keeshond,Keeshond,True
 1864,18,18,Keeshond,Keeshond,True
 1865,18,18,Keeshond,Keeshond,True
-1866,18,18,Keeshond,Keeshond,True
+1866,18,7,Keeshond,Bombay,False
 1867,18,18,Keeshond,Keeshond,True
 1868,18,18,Keeshond,Keeshond,True
 1869,18,18,Keeshond,Keeshond,True
@@ -1921,7 +1921,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1919,19,19,Leonberger,Leonberger,True
 1920,19,19,Leonberger,Leonberger,True
 1921,19,19,Leonberger,Leonberger,True
-1922,19,35,Leonberger,Wheaten Terrier,False
+1922,19,12,Leonberger,English Cocker Spaniel,False
 1923,19,19,Leonberger,Leonberger,True
 1924,19,19,Leonberger,Leonberger,True
 1925,19,19,Leonberger,Leonberger,True
@@ -1937,7 +1937,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1935,19,19,Leonberger,Leonberger,True
 1936,19,19,Leonberger,Leonberger,True
 1937,19,19,Leonberger,Leonberger,True
-1938,19,19,Leonberger,Leonberger,True
+1938,19,22,Leonberger,Newfoundland,False
 1939,19,19,Leonberger,Leonberger,True
 1940,19,19,Leonberger,Leonberger,True
 1941,19,19,Leonberger,Leonberger,True
@@ -1945,12 +1945,12 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1943,19,19,Leonberger,Leonberger,True
 1944,19,19,Leonberger,Leonberger,True
 1945,19,19,Leonberger,Leonberger,True
-1946,19,19,Leonberger,Leonberger,True
+1946,19,22,Leonberger,Newfoundland,False
 1947,19,19,Leonberger,Leonberger,True
-1948,19,19,Leonberger,Leonberger,True
+1948,19,22,Leonberger,Newfoundland,False
 1949,19,19,Leonberger,Leonberger,True
 1950,19,19,Leonberger,Leonberger,True
-1951,19,35,Leonberger,Wheaten Terrier,False
+1951,19,19,Leonberger,Leonberger,True
 1952,19,19,Leonberger,Leonberger,True
 1953,19,19,Leonberger,Leonberger,True
 1954,19,19,Leonberger,Leonberger,True
@@ -1958,7 +1958,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1956,19,19,Leonberger,Leonberger,True
 1957,19,19,Leonberger,Leonberger,True
 1958,19,19,Leonberger,Leonberger,True
-1959,19,5,Leonberger,Bengal,False
+1959,19,19,Leonberger,Leonberger,True
 1960,19,19,Leonberger,Leonberger,True
 1961,19,19,Leonberger,Leonberger,True
 1962,19,19,Leonberger,Leonberger,True
@@ -1973,23 +1973,23 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1971,19,19,Leonberger,Leonberger,True
 1972,19,19,Leonberger,Leonberger,True
 1973,19,19,Leonberger,Leonberger,True
-1974,19,8,Leonberger,Boxer,False
+1974,19,3,Leonberger,Basset Hound,False
 1975,19,19,Leonberger,Leonberger,True
-1976,19,19,Leonberger,Leonberger,True
+1976,19,22,Leonberger,Newfoundland,False
 1977,19,19,Leonberger,Leonberger,True
 1978,19,19,Leonberger,Leonberger,True
-1979,19,35,Leonberger,Wheaten Terrier,False
+1979,19,19,Leonberger,Leonberger,True
 1980,19,19,Leonberger,Leonberger,True
 1981,20,20,Maine Coon,Maine Coon,True
 1982,20,20,Maine Coon,Maine Coon,True
 1983,20,20,Maine Coon,Maine Coon,True
 1984,20,20,Maine Coon,Maine Coon,True
-1985,20,7,Maine Coon,Bombay,False
+1985,20,10,Maine Coon,Chihuahua,False
 1986,20,20,Maine Coon,Maine Coon,True
 1987,20,20,Maine Coon,Maine Coon,True
 1988,20,20,Maine Coon,Maine Coon,True
 1989,20,5,Maine Coon,Bengal,False
-1990,20,20,Maine Coon,Maine Coon,True
+1990,20,26,Maine Coon,Ragdoll,False
 1991,20,20,Maine Coon,Maine Coon,True
 1992,20,20,Maine Coon,Maine Coon,True
 1993,20,20,Maine Coon,Maine Coon,True
@@ -1999,7 +1999,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1997,20,5,Maine Coon,Bengal,False
 1998,20,20,Maine Coon,Maine Coon,True
 1999,20,20,Maine Coon,Maine Coon,True
-2000,20,23,Maine Coon,Persian,False
+2000,20,20,Maine Coon,Maine Coon,True
 2001,20,20,Maine Coon,Maine Coon,True
 2002,20,20,Maine Coon,Maine Coon,True
 2003,20,20,Maine Coon,Maine Coon,True
@@ -2017,7 +2017,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2015,20,26,Maine Coon,Ragdoll,False
 2016,20,20,Maine Coon,Maine Coon,True
 2017,20,20,Maine Coon,Maine Coon,True
-2018,20,17,Maine Coon,Japanese Chin,False
+2018,20,19,Maine Coon,Leonberger,False
 2019,20,20,Maine Coon,Maine Coon,True
 2020,20,20,Maine Coon,Maine Coon,True
 2021,20,20,Maine Coon,Maine Coon,True
@@ -2030,7 +2030,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2028,20,20,Maine Coon,Maine Coon,True
 2029,20,20,Maine Coon,Maine Coon,True
 2030,20,26,Maine Coon,Ragdoll,False
-2031,20,20,Maine Coon,Maine Coon,True
+2031,20,26,Maine Coon,Ragdoll,False
 2032,20,20,Maine Coon,Maine Coon,True
 2033,20,20,Maine Coon,Maine Coon,True
 2034,20,20,Maine Coon,Maine Coon,True
@@ -2042,8 +2042,8 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2040,20,20,Maine Coon,Maine Coon,True
 2041,20,20,Maine Coon,Maine Coon,True
 2042,20,20,Maine Coon,Maine Coon,True
-2043,20,20,Maine Coon,Maine Coon,True
-2044,20,0,Maine Coon,Abyssinian,False
+2043,20,17,Maine Coon,Japanese Chin,False
+2044,20,20,Maine Coon,Maine Coon,True
 2045,20,20,Maine Coon,Maine Coon,True
 2046,20,20,Maine Coon,Maine Coon,True
 2047,20,20,Maine Coon,Maine Coon,True
@@ -2074,10 +2074,10 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2072,20,20,Maine Coon,Maine Coon,True
 2073,20,20,Maine Coon,Maine Coon,True
 2074,20,20,Maine Coon,Maine Coon,True
-2075,20,23,Maine Coon,Persian,False
+2075,20,20,Maine Coon,Maine Coon,True
 2076,20,23,Maine Coon,Persian,False
 2077,20,20,Maine Coon,Maine Coon,True
-2078,20,23,Maine Coon,Persian,False
+2078,20,26,Maine Coon,Ragdoll,False
 2079,20,20,Maine Coon,Maine Coon,True
 2080,20,20,Maine Coon,Maine Coon,True
 2081,21,21,Miniature Pinscher,Miniature Pinscher,True
@@ -2093,8 +2093,8 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2091,21,21,Miniature Pinscher,Miniature Pinscher,True
 2092,21,21,Miniature Pinscher,Miniature Pinscher,True
 2093,21,21,Miniature Pinscher,Miniature Pinscher,True
-2094,21,21,Miniature Pinscher,Miniature Pinscher,True
-2095,21,21,Miniature Pinscher,Miniature Pinscher,True
+2094,21,2,Miniature Pinscher,American Pit Bull Terrier,False
+2095,21,10,Miniature Pinscher,Chihuahua,False
 2096,21,21,Miniature Pinscher,Miniature Pinscher,True
 2097,21,8,Miniature Pinscher,Boxer,False
 2098,21,21,Miniature Pinscher,Miniature Pinscher,True
@@ -2113,11 +2113,11 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2111,21,8,Miniature Pinscher,Boxer,False
 2112,21,34,Miniature Pinscher,Staffordshire Bull Terrier,False
 2113,21,34,Miniature Pinscher,Staffordshire Bull Terrier,False
-2114,21,21,Miniature Pinscher,Miniature Pinscher,True
+2114,21,31,Miniature Pinscher,Shiba Inu,False
 2115,21,21,Miniature Pinscher,Miniature Pinscher,True
 2116,21,21,Miniature Pinscher,Miniature Pinscher,True
-2117,21,32,Miniature Pinscher,Siamese,False
-2118,21,0,Miniature Pinscher,Abyssinian,False
+2117,21,10,Miniature Pinscher,Chihuahua,False
+2118,21,33,Miniature Pinscher,Sphynx,False
 2119,21,21,Miniature Pinscher,Miniature Pinscher,True
 2120,21,33,Miniature Pinscher,Sphynx,False
 2121,21,21,Miniature Pinscher,Miniature Pinscher,True
@@ -2127,7 +2127,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2125,21,21,Miniature Pinscher,Miniature Pinscher,True
 2126,21,21,Miniature Pinscher,Miniature Pinscher,True
 2127,21,33,Miniature Pinscher,Sphynx,False
-2128,21,34,Miniature Pinscher,Staffordshire Bull Terrier,False
+2128,21,31,Miniature Pinscher,Shiba Inu,False
 2129,21,21,Miniature Pinscher,Miniature Pinscher,True
 2130,21,21,Miniature Pinscher,Miniature Pinscher,True
 2131,21,21,Miniature Pinscher,Miniature Pinscher,True
@@ -2139,7 +2139,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2137,21,21,Miniature Pinscher,Miniature Pinscher,True
 2138,21,21,Miniature Pinscher,Miniature Pinscher,True
 2139,21,21,Miniature Pinscher,Miniature Pinscher,True
-2140,21,8,Miniature Pinscher,Boxer,False
+2140,21,21,Miniature Pinscher,Miniature Pinscher,True
 2141,21,21,Miniature Pinscher,Miniature Pinscher,True
 2142,21,21,Miniature Pinscher,Miniature Pinscher,True
 2143,21,21,Miniature Pinscher,Miniature Pinscher,True
@@ -2150,35 +2150,35 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2148,21,21,Miniature Pinscher,Miniature Pinscher,True
 2149,21,34,Miniature Pinscher,Staffordshire Bull Terrier,False
 2150,21,21,Miniature Pinscher,Miniature Pinscher,True
-2151,21,8,Miniature Pinscher,Boxer,False
+2151,21,21,Miniature Pinscher,Miniature Pinscher,True
 2152,21,21,Miniature Pinscher,Miniature Pinscher,True
 2153,21,21,Miniature Pinscher,Miniature Pinscher,True
-2154,21,8,Miniature Pinscher,Boxer,False
+2154,21,31,Miniature Pinscher,Shiba Inu,False
 2155,21,21,Miniature Pinscher,Miniature Pinscher,True
-2156,21,21,Miniature Pinscher,Miniature Pinscher,True
+2156,21,10,Miniature Pinscher,Chihuahua,False
 2157,21,21,Miniature Pinscher,Miniature Pinscher,True
 2158,21,21,Miniature Pinscher,Miniature Pinscher,True
 2159,21,21,Miniature Pinscher,Miniature Pinscher,True
 2160,21,31,Miniature Pinscher,Shiba Inu,False
 2161,21,21,Miniature Pinscher,Miniature Pinscher,True
-2162,21,21,Miniature Pinscher,Miniature Pinscher,True
+2162,21,34,Miniature Pinscher,Staffordshire Bull Terrier,False
 2163,21,21,Miniature Pinscher,Miniature Pinscher,True
-2164,21,34,Miniature Pinscher,Staffordshire Bull Terrier,False
-2165,21,21,Miniature Pinscher,Miniature Pinscher,True
-2166,21,21,Miniature Pinscher,Miniature Pinscher,True
-2167,21,21,Miniature Pinscher,Miniature Pinscher,True
-2168,21,21,Miniature Pinscher,Miniature Pinscher,True
+2164,21,2,Miniature Pinscher,American Pit Bull Terrier,False
+2165,21,31,Miniature Pinscher,Shiba Inu,False
+2166,21,33,Miniature Pinscher,Sphynx,False
+2167,21,2,Miniature Pinscher,American Pit Bull Terrier,False
+2168,21,10,Miniature Pinscher,Chihuahua,False
 2169,21,21,Miniature Pinscher,Miniature Pinscher,True
 2170,21,10,Miniature Pinscher,Chihuahua,False
 2171,21,1,Miniature Pinscher,American Bulldog,False
 2172,21,21,Miniature Pinscher,Miniature Pinscher,True
-2173,21,21,Miniature Pinscher,Miniature Pinscher,True
+2173,21,33,Miniature Pinscher,Sphynx,False
 2174,21,34,Miniature Pinscher,Staffordshire Bull Terrier,False
 2175,21,2,Miniature Pinscher,American Pit Bull Terrier,False
 2176,21,21,Miniature Pinscher,Miniature Pinscher,True
 2177,21,21,Miniature Pinscher,Miniature Pinscher,True
 2178,21,21,Miniature Pinscher,Miniature Pinscher,True
-2179,21,21,Miniature Pinscher,Miniature Pinscher,True
+2179,21,10,Miniature Pinscher,Chihuahua,False
 2180,21,0,Miniature Pinscher,Abyssinian,False
 2181,22,22,Newfoundland,Newfoundland,True
 2182,22,22,Newfoundland,Newfoundland,True
@@ -2195,7 +2195,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2193,22,22,Newfoundland,Newfoundland,True
 2194,22,22,Newfoundland,Newfoundland,True
 2195,22,30,Newfoundland,Scottish Terrier,False
-2196,22,12,Newfoundland,English Cocker Spaniel,False
+2196,22,22,Newfoundland,Newfoundland,True
 2197,22,22,Newfoundland,Newfoundland,True
 2198,22,22,Newfoundland,Newfoundland,True
 2199,22,14,Newfoundland,German Shorthaired,False
@@ -2226,7 +2226,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2224,22,22,Newfoundland,Newfoundland,True
 2225,22,22,Newfoundland,Newfoundland,True
 2226,22,22,Newfoundland,Newfoundland,True
-2227,22,12,Newfoundland,English Cocker Spaniel,False
+2227,22,22,Newfoundland,Newfoundland,True
 2228,22,22,Newfoundland,Newfoundland,True
 2229,22,22,Newfoundland,Newfoundland,True
 2230,22,22,Newfoundland,Newfoundland,True
@@ -2238,13 +2238,13 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2236,22,22,Newfoundland,Newfoundland,True
 2237,22,19,Newfoundland,Leonberger,False
 2238,22,22,Newfoundland,Newfoundland,True
-2239,22,30,Newfoundland,Scottish Terrier,False
-2240,22,30,Newfoundland,Scottish Terrier,False
+2239,22,22,Newfoundland,Newfoundland,True
+2240,22,22,Newfoundland,Newfoundland,True
 2241,22,22,Newfoundland,Newfoundland,True
 2242,22,22,Newfoundland,Newfoundland,True
 2243,22,22,Newfoundland,Newfoundland,True
 2244,22,22,Newfoundland,Newfoundland,True
-2245,22,12,Newfoundland,English Cocker Spaniel,False
+2245,22,22,Newfoundland,Newfoundland,True
 2246,22,22,Newfoundland,Newfoundland,True
 2247,22,22,Newfoundland,Newfoundland,True
 2248,22,22,Newfoundland,Newfoundland,True
@@ -2263,7 +2263,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2261,22,22,Newfoundland,Newfoundland,True
 2262,22,22,Newfoundland,Newfoundland,True
 2263,22,22,Newfoundland,Newfoundland,True
-2264,22,16,Newfoundland,Havanese,False
+2264,22,22,Newfoundland,Newfoundland,True
 2265,22,22,Newfoundland,Newfoundland,True
 2266,22,22,Newfoundland,Newfoundland,True
 2267,22,22,Newfoundland,Newfoundland,True
@@ -2271,10 +2271,10 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2269,22,22,Newfoundland,Newfoundland,True
 2270,22,22,Newfoundland,Newfoundland,True
 2271,22,22,Newfoundland,Newfoundland,True
-2272,22,16,Newfoundland,Havanese,False
+2272,22,22,Newfoundland,Newfoundland,True
 2273,22,22,Newfoundland,Newfoundland,True
 2274,22,22,Newfoundland,Newfoundland,True
-2275,22,9,Newfoundland,British Shorthair,False
+2275,22,22,Newfoundland,Newfoundland,True
 2276,22,22,Newfoundland,Newfoundland,True
 2277,22,22,Newfoundland,Newfoundland,True
 2278,22,22,Newfoundland,Newfoundland,True
@@ -2293,11 +2293,11 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2291,23,24,Persian,Pomeranian,False
 2292,23,23,Persian,Persian,True
 2293,23,23,Persian,Persian,True
-2294,23,23,Persian,Persian,True
+2294,23,24,Persian,Pomeranian,False
 2295,23,29,Persian,Samoyed,False
 2296,23,23,Persian,Persian,True
 2297,23,23,Persian,Persian,True
-2298,23,23,Persian,Persian,True
+2298,23,26,Persian,Ragdoll,False
 2299,23,23,Persian,Persian,True
 2300,23,29,Persian,Samoyed,False
 2301,23,23,Persian,Persian,True
@@ -2310,7 +2310,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2308,23,23,Persian,Persian,True
 2309,23,26,Persian,Ragdoll,False
 2310,23,23,Persian,Persian,True
-2311,23,23,Persian,Persian,True
+2311,23,20,Persian,Maine Coon,False
 2312,23,23,Persian,Persian,True
 2313,23,23,Persian,Persian,True
 2314,23,23,Persian,Persian,True
@@ -2348,7 +2348,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2346,23,23,Persian,Persian,True
 2347,23,23,Persian,Persian,True
 2348,23,23,Persian,Persian,True
-2349,23,23,Persian,Persian,True
+2349,23,20,Persian,Maine Coon,False
 2350,23,23,Persian,Persian,True
 2351,23,23,Persian,Persian,True
 2352,23,23,Persian,Persian,True
@@ -2402,12 +2402,12 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2400,24,24,Pomeranian,Pomeranian,True
 2401,24,24,Pomeranian,Pomeranian,True
 2402,24,24,Pomeranian,Pomeranian,True
-2403,24,24,Pomeranian,Pomeranian,True
-2404,24,24,Pomeranian,Pomeranian,True
-2405,24,23,Pomeranian,Persian,False
+2403,24,29,Pomeranian,Samoyed,False
+2404,24,31,Pomeranian,Shiba Inu,False
+2405,24,29,Pomeranian,Samoyed,False
 2406,24,24,Pomeranian,Pomeranian,True
 2407,24,24,Pomeranian,Pomeranian,True
-2408,24,24,Pomeranian,Pomeranian,True
+2408,24,29,Pomeranian,Samoyed,False
 2409,24,23,Pomeranian,Persian,False
 2410,24,31,Pomeranian,Shiba Inu,False
 2411,24,31,Pomeranian,Shiba Inu,False
@@ -2415,10 +2415,10 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2413,24,31,Pomeranian,Shiba Inu,False
 2414,24,24,Pomeranian,Pomeranian,True
 2415,24,24,Pomeranian,Pomeranian,True
-2416,24,24,Pomeranian,Pomeranian,True
+2416,24,31,Pomeranian,Shiba Inu,False
 2417,24,31,Pomeranian,Shiba Inu,False
 2418,24,29,Pomeranian,Samoyed,False
-2419,24,24,Pomeranian,Pomeranian,True
+2419,24,29,Pomeranian,Samoyed,False
 2420,24,29,Pomeranian,Samoyed,False
 2421,24,24,Pomeranian,Pomeranian,True
 2422,24,29,Pomeranian,Samoyed,False
@@ -2428,22 +2428,22 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2426,24,24,Pomeranian,Pomeranian,True
 2427,24,24,Pomeranian,Pomeranian,True
 2428,24,24,Pomeranian,Pomeranian,True
-2429,24,23,Pomeranian,Persian,False
+2429,24,24,Pomeranian,Pomeranian,True
 2430,24,24,Pomeranian,Pomeranian,True
-2431,24,24,Pomeranian,Pomeranian,True
+2431,24,29,Pomeranian,Samoyed,False
 2432,24,24,Pomeranian,Pomeranian,True
 2433,24,24,Pomeranian,Pomeranian,True
 2434,24,24,Pomeranian,Pomeranian,True
 2435,24,24,Pomeranian,Pomeranian,True
 2436,24,24,Pomeranian,Pomeranian,True
-2437,24,23,Pomeranian,Persian,False
-2438,24,23,Pomeranian,Persian,False
+2437,24,24,Pomeranian,Pomeranian,True
+2438,24,26,Pomeranian,Ragdoll,False
 2439,24,24,Pomeranian,Pomeranian,True
 2440,24,24,Pomeranian,Pomeranian,True
 2441,24,24,Pomeranian,Pomeranian,True
 2442,24,24,Pomeranian,Pomeranian,True
 2443,24,24,Pomeranian,Pomeranian,True
-2444,24,24,Pomeranian,Pomeranian,True
+2444,24,31,Pomeranian,Shiba Inu,False
 2445,24,24,Pomeranian,Pomeranian,True
 2446,24,24,Pomeranian,Pomeranian,True
 2447,24,24,Pomeranian,Pomeranian,True
@@ -2473,7 +2473,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2471,24,24,Pomeranian,Pomeranian,True
 2472,24,24,Pomeranian,Pomeranian,True
 2473,24,24,Pomeranian,Pomeranian,True
-2474,24,24,Pomeranian,Pomeranian,True
+2474,24,26,Pomeranian,Ragdoll,False
 2475,24,24,Pomeranian,Pomeranian,True
 2476,24,24,Pomeranian,Pomeranian,True
 2477,24,29,Pomeranian,Samoyed,False
@@ -2500,10 +2500,10 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2498,25,25,Pug,Pug,True
 2499,25,25,Pug,Pug,True
 2500,25,25,Pug,Pug,True
-2501,25,25,Pug,Pug,True
+2501,25,1,Pug,American Bulldog,False
 2502,25,25,Pug,Pug,True
 2503,25,25,Pug,Pug,True
-2504,25,25,Pug,Pug,True
+2504,25,1,Pug,American Bulldog,False
 2505,25,25,Pug,Pug,True
 2506,25,25,Pug,Pug,True
 2507,25,25,Pug,Pug,True
@@ -2511,7 +2511,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2509,25,25,Pug,Pug,True
 2510,25,25,Pug,Pug,True
 2511,25,25,Pug,Pug,True
-2512,25,25,Pug,Pug,True
+2512,25,28,Pug,Saint Bernard,False
 2513,25,25,Pug,Pug,True
 2514,25,25,Pug,Pug,True
 2515,25,25,Pug,Pug,True
@@ -2526,7 +2526,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2524,25,25,Pug,Pug,True
 2525,25,25,Pug,Pug,True
 2526,25,25,Pug,Pug,True
-2527,25,25,Pug,Pug,True
+2527,25,1,Pug,American Bulldog,False
 2528,25,25,Pug,Pug,True
 2529,25,25,Pug,Pug,True
 2530,25,25,Pug,Pug,True
@@ -2554,7 +2554,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2552,25,25,Pug,Pug,True
 2553,25,4,Pug,Beagle,False
 2554,25,25,Pug,Pug,True
-2555,25,25,Pug,Pug,True
+2555,25,28,Pug,Saint Bernard,False
 2556,25,25,Pug,Pug,True
 2557,25,25,Pug,Pug,True
 2558,25,25,Pug,Pug,True
@@ -2567,11 +2567,11 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2565,25,25,Pug,Pug,True
 2566,25,25,Pug,Pug,True
 2567,25,25,Pug,Pug,True
-2568,25,25,Pug,Pug,True
+2568,25,1,Pug,American Bulldog,False
 2569,25,25,Pug,Pug,True
 2570,25,25,Pug,Pug,True
 2571,25,25,Pug,Pug,True
-2572,25,25,Pug,Pug,True
+2572,25,1,Pug,American Bulldog,False
 2573,25,25,Pug,Pug,True
 2574,25,25,Pug,Pug,True
 2575,25,25,Pug,Pug,True
@@ -2579,34 +2579,34 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2577,25,25,Pug,Pug,True
 2578,25,25,Pug,Pug,True
 2579,25,25,Pug,Pug,True
-2580,25,25,Pug,Pug,True
+2580,25,1,Pug,American Bulldog,False
 2581,26,26,Ragdoll,Ragdoll,True
 2582,26,23,Ragdoll,Persian,False
 2583,26,26,Ragdoll,Ragdoll,True
-2584,26,6,Ragdoll,Birman,False
-2585,26,23,Ragdoll,Persian,False
-2586,26,26,Ragdoll,Ragdoll,True
+2584,26,32,Ragdoll,Siamese,False
+2585,26,26,Ragdoll,Ragdoll,True
+2586,26,24,Ragdoll,Pomeranian,False
 2587,26,32,Ragdoll,Siamese,False
 2588,26,26,Ragdoll,Ragdoll,True
-2589,26,24,Ragdoll,Pomeranian,False
+2589,26,26,Ragdoll,Ragdoll,True
 2590,26,6,Ragdoll,Birman,False
 2591,26,26,Ragdoll,Ragdoll,True
 2592,26,32,Ragdoll,Siamese,False
-2593,26,7,Ragdoll,Bombay,False
+2593,26,6,Ragdoll,Birman,False
 2594,26,6,Ragdoll,Birman,False
 2595,26,20,Ragdoll,Maine Coon,False
 2596,26,6,Ragdoll,Birman,False
 2597,26,26,Ragdoll,Ragdoll,True
 2598,26,26,Ragdoll,Ragdoll,True
 2599,26,24,Ragdoll,Pomeranian,False
-2600,26,24,Ragdoll,Pomeranian,False
+2600,26,26,Ragdoll,Ragdoll,True
 2601,26,26,Ragdoll,Ragdoll,True
 2602,26,26,Ragdoll,Ragdoll,True
 2603,26,26,Ragdoll,Ragdoll,True
 2604,26,26,Ragdoll,Ragdoll,True
 2605,26,26,Ragdoll,Ragdoll,True
 2606,26,26,Ragdoll,Ragdoll,True
-2607,26,24,Ragdoll,Pomeranian,False
+2607,26,26,Ragdoll,Ragdoll,True
 2608,26,26,Ragdoll,Ragdoll,True
 2609,26,23,Ragdoll,Persian,False
 2610,26,26,Ragdoll,Ragdoll,True
@@ -2624,10 +2624,10 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2622,26,26,Ragdoll,Ragdoll,True
 2623,26,26,Ragdoll,Ragdoll,True
 2624,26,26,Ragdoll,Ragdoll,True
-2625,26,23,Ragdoll,Persian,False
+2625,26,26,Ragdoll,Ragdoll,True
 2626,26,26,Ragdoll,Ragdoll,True
 2627,26,23,Ragdoll,Persian,False
-2628,26,23,Ragdoll,Persian,False
+2628,26,26,Ragdoll,Ragdoll,True
 2629,26,26,Ragdoll,Ragdoll,True
 2630,26,6,Ragdoll,Birman,False
 2631,26,26,Ragdoll,Ragdoll,True
@@ -2637,7 +2637,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2635,26,26,Ragdoll,Ragdoll,True
 2636,26,26,Ragdoll,Ragdoll,True
 2637,26,26,Ragdoll,Ragdoll,True
-2638,26,23,Ragdoll,Persian,False
+2638,26,26,Ragdoll,Ragdoll,True
 2639,26,26,Ragdoll,Ragdoll,True
 2640,26,26,Ragdoll,Ragdoll,True
 2641,26,26,Ragdoll,Ragdoll,True
@@ -2672,7 +2672,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2670,26,26,Ragdoll,Ragdoll,True
 2671,26,26,Ragdoll,Ragdoll,True
 2672,26,6,Ragdoll,Birman,False
-2673,26,35,Ragdoll,Wheaten Terrier,False
+2673,26,26,Ragdoll,Ragdoll,True
 2674,26,26,Ragdoll,Ragdoll,True
 2675,26,26,Ragdoll,Ragdoll,True
 2676,26,26,Ragdoll,Ragdoll,True
@@ -2692,8 +2692,8 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2690,27,9,Russian Blue,British Shorthair,False
 2691,27,27,Russian Blue,Russian Blue,True
 2692,27,27,Russian Blue,Russian Blue,True
-2693,27,0,Russian Blue,Abyssinian,False
-2694,27,5,Russian Blue,Bengal,False
+2693,27,27,Russian Blue,Russian Blue,True
+2694,27,10,Russian Blue,Chihuahua,False
 2695,27,27,Russian Blue,Russian Blue,True
 2696,27,7,Russian Blue,Bombay,False
 2697,27,7,Russian Blue,Bombay,False
@@ -2702,20 +2702,20 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2700,27,7,Russian Blue,Bombay,False
 2701,27,27,Russian Blue,Russian Blue,True
 2702,27,5,Russian Blue,Bengal,False
-2703,27,9,Russian Blue,British Shorthair,False
+2703,27,0,Russian Blue,Abyssinian,False
 2704,27,7,Russian Blue,Bombay,False
 2705,27,7,Russian Blue,Bombay,False
 2706,27,0,Russian Blue,Abyssinian,False
-2707,27,7,Russian Blue,Bombay,False
+2707,27,0,Russian Blue,Abyssinian,False
 2708,27,27,Russian Blue,Russian Blue,True
-2709,27,7,Russian Blue,Bombay,False
+2709,27,10,Russian Blue,Chihuahua,False
 2710,27,27,Russian Blue,Russian Blue,True
 2711,27,27,Russian Blue,Russian Blue,True
 2712,27,27,Russian Blue,Russian Blue,True
-2713,27,9,Russian Blue,British Shorthair,False
+2713,27,11,Russian Blue,Egyptian Mau,False
 2714,27,27,Russian Blue,Russian Blue,True
-2715,27,0,Russian Blue,Abyssinian,False
-2716,27,9,Russian Blue,British Shorthair,False
+2715,27,27,Russian Blue,Russian Blue,True
+2716,27,27,Russian Blue,Russian Blue,True
 2717,27,27,Russian Blue,Russian Blue,True
 2718,27,27,Russian Blue,Russian Blue,True
 2719,27,27,Russian Blue,Russian Blue,True
@@ -2724,24 +2724,24 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2722,27,27,Russian Blue,Russian Blue,True
 2723,27,27,Russian Blue,Russian Blue,True
 2724,27,27,Russian Blue,Russian Blue,True
-2725,27,9,Russian Blue,British Shorthair,False
+2725,27,27,Russian Blue,Russian Blue,True
 2726,27,27,Russian Blue,Russian Blue,True
 2727,27,27,Russian Blue,Russian Blue,True
 2728,27,27,Russian Blue,Russian Blue,True
 2729,27,27,Russian Blue,Russian Blue,True
-2730,27,9,Russian Blue,British Shorthair,False
+2730,27,27,Russian Blue,Russian Blue,True
 2731,27,27,Russian Blue,Russian Blue,True
-2732,27,33,Russian Blue,Sphynx,False
+2732,27,27,Russian Blue,Russian Blue,True
 2733,27,27,Russian Blue,Russian Blue,True
-2734,27,9,Russian Blue,British Shorthair,False
+2734,27,27,Russian Blue,Russian Blue,True
 2735,27,27,Russian Blue,Russian Blue,True
 2736,27,27,Russian Blue,Russian Blue,True
 2737,27,27,Russian Blue,Russian Blue,True
 2738,27,27,Russian Blue,Russian Blue,True
 2739,27,27,Russian Blue,Russian Blue,True
-2740,27,9,Russian Blue,British Shorthair,False
+2740,27,27,Russian Blue,Russian Blue,True
 2741,27,27,Russian Blue,Russian Blue,True
-2742,27,9,Russian Blue,British Shorthair,False
+2742,27,27,Russian Blue,Russian Blue,True
 2743,27,9,Russian Blue,British Shorthair,False
 2744,27,27,Russian Blue,Russian Blue,True
 2745,27,27,Russian Blue,Russian Blue,True
@@ -2759,7 +2759,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2757,27,27,Russian Blue,Russian Blue,True
 2758,27,27,Russian Blue,Russian Blue,True
 2759,27,27,Russian Blue,Russian Blue,True
-2760,27,9,Russian Blue,British Shorthair,False
+2760,27,27,Russian Blue,Russian Blue,True
 2761,27,27,Russian Blue,Russian Blue,True
 2762,27,27,Russian Blue,Russian Blue,True
 2763,27,27,Russian Blue,Russian Blue,True
@@ -2777,8 +2777,8 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2775,27,27,Russian Blue,Russian Blue,True
 2776,27,27,Russian Blue,Russian Blue,True
 2777,27,27,Russian Blue,Russian Blue,True
-2778,27,9,Russian Blue,British Shorthair,False
-2779,27,9,Russian Blue,British Shorthair,False
+2778,27,27,Russian Blue,Russian Blue,True
+2779,27,27,Russian Blue,Russian Blue,True
 2780,27,0,Russian Blue,Abyssinian,False
 2781,28,28,Saint Bernard,Saint Bernard,True
 2782,28,1,Saint Bernard,American Bulldog,False
@@ -2848,7 +2848,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2846,28,28,Saint Bernard,Saint Bernard,True
 2847,28,28,Saint Bernard,Saint Bernard,True
 2848,28,28,Saint Bernard,Saint Bernard,True
-2849,28,4,Saint Bernard,Beagle,False
+2849,28,3,Saint Bernard,Basset Hound,False
 2850,28,28,Saint Bernard,Saint Bernard,True
 2851,28,28,Saint Bernard,Saint Bernard,True
 2852,28,28,Saint Bernard,Saint Bernard,True
@@ -2863,12 +2863,12 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2861,28,28,Saint Bernard,Saint Bernard,True
 2862,28,28,Saint Bernard,Saint Bernard,True
 2863,28,28,Saint Bernard,Saint Bernard,True
-2864,28,8,Saint Bernard,Boxer,False
+2864,28,28,Saint Bernard,Saint Bernard,True
 2865,28,28,Saint Bernard,Saint Bernard,True
 2866,28,28,Saint Bernard,Saint Bernard,True
 2867,28,28,Saint Bernard,Saint Bernard,True
 2868,28,28,Saint Bernard,Saint Bernard,True
-2869,28,8,Saint Bernard,Boxer,False
+2869,28,28,Saint Bernard,Saint Bernard,True
 2870,28,28,Saint Bernard,Saint Bernard,True
 2871,28,28,Saint Bernard,Saint Bernard,True
 2872,28,28,Saint Bernard,Saint Bernard,True
@@ -2880,11 +2880,11 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2878,28,28,Saint Bernard,Saint Bernard,True
 2879,28,28,Saint Bernard,Saint Bernard,True
 2880,28,28,Saint Bernard,Saint Bernard,True
-2881,29,18,Samoyed,Keeshond,False
+2881,29,29,Samoyed,Samoyed,True
 2882,29,29,Samoyed,Samoyed,True
 2883,29,29,Samoyed,Samoyed,True
 2884,29,29,Samoyed,Samoyed,True
-2885,29,29,Samoyed,Samoyed,True
+2885,29,15,Samoyed,Great Pyrenees,False
 2886,29,29,Samoyed,Samoyed,True
 2887,29,29,Samoyed,Samoyed,True
 2888,29,29,Samoyed,Samoyed,True
@@ -2917,7 +2917,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2915,29,29,Samoyed,Samoyed,True
 2916,29,29,Samoyed,Samoyed,True
 2917,29,29,Samoyed,Samoyed,True
-2918,29,29,Samoyed,Samoyed,True
+2918,29,31,Samoyed,Shiba Inu,False
 2919,29,29,Samoyed,Samoyed,True
 2920,29,29,Samoyed,Samoyed,True
 2921,29,29,Samoyed,Samoyed,True
@@ -2940,7 +2940,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2938,29,29,Samoyed,Samoyed,True
 2939,29,29,Samoyed,Samoyed,True
 2940,29,29,Samoyed,Samoyed,True
-2941,29,29,Samoyed,Samoyed,True
+2941,29,15,Samoyed,Great Pyrenees,False
 2942,29,29,Samoyed,Samoyed,True
 2943,29,29,Samoyed,Samoyed,True
 2944,29,29,Samoyed,Samoyed,True
@@ -2984,7 +2984,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2982,30,30,Scottish Terrier,Scottish Terrier,True
 2983,30,30,Scottish Terrier,Scottish Terrier,True
 2984,30,30,Scottish Terrier,Scottish Terrier,True
-2985,30,30,Scottish Terrier,Scottish Terrier,True
+2985,30,29,Scottish Terrier,Samoyed,False
 2986,30,30,Scottish Terrier,Scottish Terrier,True
 2987,30,16,Scottish Terrier,Havanese,False
 2988,30,30,Scottish Terrier,Scottish Terrier,True
@@ -3005,7 +3005,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3003,30,30,Scottish Terrier,Scottish Terrier,True
 3004,30,16,Scottish Terrier,Havanese,False
 3005,30,30,Scottish Terrier,Scottish Terrier,True
-3006,30,12,Scottish Terrier,English Cocker Spaniel,False
+3006,30,5,Scottish Terrier,Bengal,False
 3007,30,30,Scottish Terrier,Scottish Terrier,True
 3008,30,30,Scottish Terrier,Scottish Terrier,True
 3009,30,30,Scottish Terrier,Scottish Terrier,True
@@ -3043,7 +3043,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3041,30,30,Scottish Terrier,Scottish Terrier,True
 3042,30,30,Scottish Terrier,Scottish Terrier,True
 3043,30,30,Scottish Terrier,Scottish Terrier,True
-3044,30,16,Scottish Terrier,Havanese,False
+3044,30,30,Scottish Terrier,Scottish Terrier,True
 3045,30,30,Scottish Terrier,Scottish Terrier,True
 3046,30,30,Scottish Terrier,Scottish Terrier,True
 3047,30,30,Scottish Terrier,Scottish Terrier,True
@@ -3062,7 +3062,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3060,30,30,Scottish Terrier,Scottish Terrier,True
 3061,30,30,Scottish Terrier,Scottish Terrier,True
 3062,30,36,Scottish Terrier,Yorkshire Terrier,False
-3063,30,35,Scottish Terrier,Wheaten Terrier,False
+3063,30,30,Scottish Terrier,Scottish Terrier,True
 3064,30,30,Scottish Terrier,Scottish Terrier,True
 3065,30,30,Scottish Terrier,Scottish Terrier,True
 3066,30,30,Scottish Terrier,Scottish Terrier,True
@@ -3070,7 +3070,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3068,30,30,Scottish Terrier,Scottish Terrier,True
 3069,30,30,Scottish Terrier,Scottish Terrier,True
 3070,30,30,Scottish Terrier,Scottish Terrier,True
-3071,30,35,Scottish Terrier,Wheaten Terrier,False
+3071,30,31,Scottish Terrier,Shiba Inu,False
 3072,30,30,Scottish Terrier,Scottish Terrier,True
 3073,30,30,Scottish Terrier,Scottish Terrier,True
 3074,30,30,Scottish Terrier,Scottish Terrier,True
@@ -3122,7 +3122,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3120,31,31,Shiba Inu,Shiba Inu,True
 3121,31,31,Shiba Inu,Shiba Inu,True
 3122,31,31,Shiba Inu,Shiba Inu,True
-3123,31,29,Shiba Inu,Samoyed,False
+3123,31,31,Shiba Inu,Shiba Inu,True
 3124,31,31,Shiba Inu,Shiba Inu,True
 3125,31,31,Shiba Inu,Shiba Inu,True
 3126,31,31,Shiba Inu,Shiba Inu,True
@@ -3183,7 +3183,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3181,32,32,Siamese,Siamese,True
 3182,32,32,Siamese,Siamese,True
 3183,32,32,Siamese,Siamese,True
-3184,32,25,Siamese,Pug,False
+3184,32,10,Siamese,Chihuahua,False
 3185,32,32,Siamese,Siamese,True
 3186,32,24,Siamese,Pomeranian,False
 3187,32,0,Siamese,Abyssinian,False
@@ -3202,7 +3202,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3200,32,32,Siamese,Siamese,True
 3201,32,32,Siamese,Siamese,True
 3202,32,27,Siamese,Russian Blue,False
-3203,32,32,Siamese,Siamese,True
+3203,32,10,Siamese,Chihuahua,False
 3204,32,10,Siamese,Chihuahua,False
 3205,32,24,Siamese,Pomeranian,False
 3206,32,32,Siamese,Siamese,True
@@ -3224,7 +3224,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3222,32,32,Siamese,Siamese,True
 3223,32,32,Siamese,Siamese,True
 3224,32,32,Siamese,Siamese,True
-3225,32,32,Siamese,Siamese,True
+3225,32,27,Siamese,Russian Blue,False
 3226,32,32,Siamese,Siamese,True
 3227,32,6,Siamese,Birman,False
 3228,32,32,Siamese,Siamese,True
@@ -3233,12 +3233,12 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3231,32,32,Siamese,Siamese,True
 3232,32,6,Siamese,Birman,False
 3233,32,32,Siamese,Siamese,True
-3234,32,6,Siamese,Birman,False
+3234,32,32,Siamese,Siamese,True
 3235,32,6,Siamese,Birman,False
 3236,32,32,Siamese,Siamese,True
 3237,32,32,Siamese,Siamese,True
 3238,32,32,Siamese,Siamese,True
-3239,32,2,Siamese,American Pit Bull Terrier,False
+3239,32,10,Siamese,Chihuahua,False
 3240,32,32,Siamese,Siamese,True
 3241,32,32,Siamese,Siamese,True
 3242,32,32,Siamese,Siamese,True
@@ -3255,12 +3255,12 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3253,32,32,Siamese,Siamese,True
 3254,32,32,Siamese,Siamese,True
 3255,32,32,Siamese,Siamese,True
-3256,32,6,Siamese,Birman,False
+3256,32,32,Siamese,Siamese,True
 3257,32,32,Siamese,Siamese,True
 3258,32,32,Siamese,Siamese,True
 3259,32,32,Siamese,Siamese,True
 3260,32,32,Siamese,Siamese,True
-3261,32,6,Siamese,Birman,False
+3261,32,32,Siamese,Siamese,True
 3262,32,32,Siamese,Siamese,True
 3263,32,32,Siamese,Siamese,True
 3264,32,32,Siamese,Siamese,True
@@ -3273,7 +3273,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3271,32,32,Siamese,Siamese,True
 3272,32,32,Siamese,Siamese,True
 3273,32,32,Siamese,Siamese,True
-3274,32,32,Siamese,Siamese,True
+3274,32,33,Siamese,Sphynx,False
 3275,32,32,Siamese,Siamese,True
 3276,32,32,Siamese,Siamese,True
 3277,32,32,Siamese,Siamese,True
@@ -3287,7 +3287,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3285,33,33,Sphynx,Sphynx,True
 3286,33,2,Sphynx,American Pit Bull Terrier,False
 3287,33,5,Sphynx,Bengal,False
-3288,33,33,Sphynx,Sphynx,True
+3288,33,10,Sphynx,Chihuahua,False
 3289,33,33,Sphynx,Sphynx,True
 3290,33,33,Sphynx,Sphynx,True
 3291,33,10,Sphynx,Chihuahua,False
@@ -3308,10 +3308,10 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3306,33,27,Sphynx,Russian Blue,False
 3307,33,10,Sphynx,Chihuahua,False
 3308,33,33,Sphynx,Sphynx,True
-3309,33,21,Sphynx,Miniature Pinscher,False
+3309,33,33,Sphynx,Sphynx,True
 3310,33,33,Sphynx,Sphynx,True
 3311,33,5,Sphynx,Bengal,False
-3312,33,0,Sphynx,Abyssinian,False
+3312,33,33,Sphynx,Sphynx,True
 3313,33,33,Sphynx,Sphynx,True
 3314,33,33,Sphynx,Sphynx,True
 3315,33,33,Sphynx,Sphynx,True
@@ -3352,7 +3352,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3350,33,33,Sphynx,Sphynx,True
 3351,33,33,Sphynx,Sphynx,True
 3352,33,0,Sphynx,Abyssinian,False
-3353,33,0,Sphynx,Abyssinian,False
+3353,33,10,Sphynx,Chihuahua,False
 3354,33,33,Sphynx,Sphynx,True
 3355,33,27,Sphynx,Russian Blue,False
 3356,33,1,Sphynx,American Bulldog,False
@@ -3379,25 +3379,25 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3377,33,33,Sphynx,Sphynx,True
 3378,33,33,Sphynx,Sphynx,True
 3379,33,33,Sphynx,Sphynx,True
-3380,34,8,Staffordshire Bull Terrier,Boxer,False
+3380,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3381,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
-3382,34,8,Staffordshire Bull Terrier,Boxer,False
+3382,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3383,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
-3384,34,8,Staffordshire Bull Terrier,Boxer,False
+3384,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3385,34,8,Staffordshire Bull Terrier,Boxer,False
-3386,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
-3387,34,8,Staffordshire Bull Terrier,Boxer,False
-3388,34,14,Staffordshire Bull Terrier,German Shorthaired,False
+3386,34,2,Staffordshire Bull Terrier,American Pit Bull Terrier,False
+3387,34,2,Staffordshire Bull Terrier,American Pit Bull Terrier,False
+3388,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3389,34,2,Staffordshire Bull Terrier,American Pit Bull Terrier,False
 3390,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3391,34,4,Staffordshire Bull Terrier,Beagle,False
 3392,34,2,Staffordshire Bull Terrier,American Pit Bull Terrier,False
 3393,34,1,Staffordshire Bull Terrier,American Bulldog,False
-3394,34,8,Staffordshire Bull Terrier,Boxer,False
+3394,34,4,Staffordshire Bull Terrier,Beagle,False
 3395,34,1,Staffordshire Bull Terrier,American Bulldog,False
 3396,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3397,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
-3398,34,8,Staffordshire Bull Terrier,Boxer,False
+3398,34,2,Staffordshire Bull Terrier,American Pit Bull Terrier,False
 3399,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3400,34,2,Staffordshire Bull Terrier,American Pit Bull Terrier,False
 3401,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
@@ -3409,13 +3409,13 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3407,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3408,34,1,Staffordshire Bull Terrier,American Bulldog,False
 3409,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
-3410,34,1,Staffordshire Bull Terrier,American Bulldog,False
+3410,34,2,Staffordshire Bull Terrier,American Pit Bull Terrier,False
 3411,34,14,Staffordshire Bull Terrier,German Shorthaired,False
 3412,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3413,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3414,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3415,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
-3416,34,8,Staffordshire Bull Terrier,Boxer,False
+3416,34,21,Staffordshire Bull Terrier,Miniature Pinscher,False
 3417,34,14,Staffordshire Bull Terrier,German Shorthaired,False
 3418,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3419,34,14,Staffordshire Bull Terrier,German Shorthaired,False
@@ -3424,7 +3424,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3422,34,1,Staffordshire Bull Terrier,American Bulldog,False
 3423,34,2,Staffordshire Bull Terrier,American Pit Bull Terrier,False
 3424,34,31,Staffordshire Bull Terrier,Shiba Inu,False
-3425,34,14,Staffordshire Bull Terrier,German Shorthaired,False
+3425,34,13,Staffordshire Bull Terrier,English Setter,False
 3426,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3427,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3428,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
@@ -3435,17 +3435,17 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3433,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3434,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3435,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
-3436,34,8,Staffordshire Bull Terrier,Boxer,False
+3436,34,2,Staffordshire Bull Terrier,American Pit Bull Terrier,False
 3437,34,8,Staffordshire Bull Terrier,Boxer,False
-3438,34,8,Staffordshire Bull Terrier,Boxer,False
+3438,34,4,Staffordshire Bull Terrier,Beagle,False
 3439,34,4,Staffordshire Bull Terrier,Beagle,False
 3440,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3441,34,1,Staffordshire Bull Terrier,American Bulldog,False
-3442,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3442,34,4,Staffordshire Bull Terrier,Beagle,False
 3443,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3444,34,29,Staffordshire Bull Terrier,Samoyed,False
 3445,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
-3446,34,14,Staffordshire Bull Terrier,German Shorthaired,False
+3446,34,4,Staffordshire Bull Terrier,Beagle,False
 3447,34,4,Staffordshire Bull Terrier,Beagle,False
 3448,34,31,Staffordshire Bull Terrier,Shiba Inu,False
 3449,34,1,Staffordshire Bull Terrier,American Bulldog,False
@@ -3456,7 +3456,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3454,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3455,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3456,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
-3457,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
+3457,34,2,Staffordshire Bull Terrier,American Pit Bull Terrier,False
 3458,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3459,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3460,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
@@ -3466,7 +3466,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3464,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
 3465,34,1,Staffordshire Bull Terrier,American Bulldog,False
 3466,34,34,Staffordshire Bull Terrier,Staffordshire Bull Terrier,True
-3467,34,8,Staffordshire Bull Terrier,Boxer,False
+3467,34,2,Staffordshire Bull Terrier,American Pit Bull Terrier,False
 3468,34,1,Staffordshire Bull Terrier,American Bulldog,False
 3469,35,35,Wheaten Terrier,Wheaten Terrier,True
 3470,35,35,Wheaten Terrier,Wheaten Terrier,True
@@ -3492,19 +3492,19 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3490,35,35,Wheaten Terrier,Wheaten Terrier,True
 3491,35,35,Wheaten Terrier,Wheaten Terrier,True
 3492,35,35,Wheaten Terrier,Wheaten Terrier,True
-3493,35,35,Wheaten Terrier,Wheaten Terrier,True
+3493,35,15,Wheaten Terrier,Great Pyrenees,False
 3494,35,35,Wheaten Terrier,Wheaten Terrier,True
 3495,35,35,Wheaten Terrier,Wheaten Terrier,True
-3496,35,30,Wheaten Terrier,Scottish Terrier,False
-3497,35,16,Wheaten Terrier,Havanese,False
+3496,35,29,Wheaten Terrier,Samoyed,False
+3497,35,35,Wheaten Terrier,Wheaten Terrier,True
 3498,35,35,Wheaten Terrier,Wheaten Terrier,True
 3499,35,35,Wheaten Terrier,Wheaten Terrier,True
-3500,35,35,Wheaten Terrier,Wheaten Terrier,True
+3500,35,12,Wheaten Terrier,English Cocker Spaniel,False
 3501,35,35,Wheaten Terrier,Wheaten Terrier,True
 3502,35,35,Wheaten Terrier,Wheaten Terrier,True
 3503,35,35,Wheaten Terrier,Wheaten Terrier,True
 3504,35,35,Wheaten Terrier,Wheaten Terrier,True
-3505,35,35,Wheaten Terrier,Wheaten Terrier,True
+3505,35,15,Wheaten Terrier,Great Pyrenees,False
 3506,35,35,Wheaten Terrier,Wheaten Terrier,True
 3507,35,35,Wheaten Terrier,Wheaten Terrier,True
 3508,35,16,Wheaten Terrier,Havanese,False
@@ -3536,7 +3536,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3534,35,30,Wheaten Terrier,Scottish Terrier,False
 3535,35,16,Wheaten Terrier,Havanese,False
 3536,35,35,Wheaten Terrier,Wheaten Terrier,True
-3537,35,35,Wheaten Terrier,Wheaten Terrier,True
+3537,35,36,Wheaten Terrier,Yorkshire Terrier,False
 3538,35,35,Wheaten Terrier,Wheaten Terrier,True
 3539,35,35,Wheaten Terrier,Wheaten Terrier,True
 3540,35,35,Wheaten Terrier,Wheaten Terrier,True
@@ -3551,7 +3551,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3549,35,35,Wheaten Terrier,Wheaten Terrier,True
 3550,35,35,Wheaten Terrier,Wheaten Terrier,True
 3551,35,35,Wheaten Terrier,Wheaten Terrier,True
-3552,35,16,Wheaten Terrier,Havanese,False
+3552,35,15,Wheaten Terrier,Great Pyrenees,False
 3553,35,35,Wheaten Terrier,Wheaten Terrier,True
 3554,35,35,Wheaten Terrier,Wheaten Terrier,True
 3555,35,11,Wheaten Terrier,Egyptian Mau,False
@@ -3571,7 +3571,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3569,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3570,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3571,36,36,Yorkshire Terrier,Yorkshire Terrier,True
-3572,36,35,Yorkshire Terrier,Wheaten Terrier,False
+3572,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3573,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3574,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3575,36,36,Yorkshire Terrier,Yorkshire Terrier,True
@@ -3600,7 +3600,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3598,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3599,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3600,36,36,Yorkshire Terrier,Yorkshire Terrier,True
-3601,36,16,Yorkshire Terrier,Havanese,False
+3601,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3602,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3603,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3604,36,36,Yorkshire Terrier,Yorkshire Terrier,True
@@ -3619,7 +3619,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3617,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3618,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3619,36,36,Yorkshire Terrier,Yorkshire Terrier,True
-3620,36,16,Yorkshire Terrier,Havanese,False
+3620,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3621,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3622,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3623,36,36,Yorkshire Terrier,Yorkshire Terrier,True
@@ -3634,15 +3634,15 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3632,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3633,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3634,36,36,Yorkshire Terrier,Yorkshire Terrier,True
-3635,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3635,36,16,Yorkshire Terrier,Havanese,False
 3636,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3637,36,18,Yorkshire Terrier,Keeshond,False
-3638,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3638,36,30,Yorkshire Terrier,Scottish Terrier,False
 3639,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3640,36,35,Yorkshire Terrier,Wheaten Terrier,False
 3641,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3642,36,36,Yorkshire Terrier,Yorkshire Terrier,True
-3643,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3643,36,12,Yorkshire Terrier,English Cocker Spaniel,False
 3644,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3645,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3646,36,16,Yorkshire Terrier,Havanese,False
@@ -3655,12 +3655,12 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3653,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3654,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3655,36,36,Yorkshire Terrier,Yorkshire Terrier,True
-3656,36,36,Yorkshire Terrier,Yorkshire Terrier,True
+3656,36,30,Yorkshire Terrier,Scottish Terrier,False
 3657,36,36,Yorkshire Terrier,Yorkshire Terrier,True
-3658,36,16,Yorkshire Terrier,Havanese,False
+3658,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3659,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3660,36,36,Yorkshire Terrier,Yorkshire Terrier,True
-3661,36,16,Yorkshire Terrier,Havanese,False
+3661,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3662,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3663,36,36,Yorkshire Terrier,Yorkshire Terrier,True
 3664,36,16,Yorkshire Terrier,Havanese,False

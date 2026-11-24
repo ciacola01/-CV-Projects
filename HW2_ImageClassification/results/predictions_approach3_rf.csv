@@ -994,7 +994,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 992,10,10,Chihuahua,Chihuahua,True
 993,10,10,Chihuahua,Chihuahua,True
 994,10,32,Chihuahua,Siamese,False
-995,10,31,Chihuahua,Shiba Inu,False
+995,10,10,Chihuahua,Chihuahua,True
 996,10,10,Chihuahua,Chihuahua,True
 997,10,10,Chihuahua,Chihuahua,True
 998,10,31,Chihuahua,Shiba Inu,False
@@ -1095,7 +1095,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1093,11,11,Egyptian Mau,Egyptian Mau,True
 1094,11,11,Egyptian Mau,Egyptian Mau,True
 1095,11,11,Egyptian Mau,Egyptian Mau,True
-1096,11,11,Egyptian Mau,Egyptian Mau,True
+1096,11,5,Egyptian Mau,Bengal,False
 1097,11,5,Egyptian Mau,Bengal,False
 1098,11,5,Egyptian Mau,Bengal,False
 1099,11,11,Egyptian Mau,Egyptian Mau,True
@@ -1150,7 +1150,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1148,11,11,Egyptian Mau,Egyptian Mau,True
 1149,11,0,Egyptian Mau,Abyssinian,False
 1150,11,11,Egyptian Mau,Egyptian Mau,True
-1151,11,11,Egyptian Mau,Egyptian Mau,True
+1151,11,20,Egyptian Mau,Maine Coon,False
 1152,11,11,Egyptian Mau,Egyptian Mau,True
 1153,11,20,Egyptian Mau,Maine Coon,False
 1154,11,11,Egyptian Mau,Egyptian Mau,True
@@ -1512,7 +1512,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1510,15,15,Great Pyrenees,Great Pyrenees,True
 1511,15,15,Great Pyrenees,Great Pyrenees,True
 1512,15,15,Great Pyrenees,Great Pyrenees,True
-1513,15,15,Great Pyrenees,Great Pyrenees,True
+1513,15,29,Great Pyrenees,Samoyed,False
 1514,15,15,Great Pyrenees,Great Pyrenees,True
 1515,15,15,Great Pyrenees,Great Pyrenees,True
 1516,15,15,Great Pyrenees,Great Pyrenees,True
@@ -1595,7 +1595,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 1593,16,16,Havanese,Havanese,True
 1594,16,16,Havanese,Havanese,True
 1595,16,16,Havanese,Havanese,True
-1596,16,16,Havanese,Havanese,True
+1596,16,35,Havanese,Wheaten Terrier,False
 1597,16,16,Havanese,Havanese,True
 1598,16,16,Havanese,Havanese,True
 1599,16,16,Havanese,Havanese,True
@@ -2002,7 +2002,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2000,20,20,Maine Coon,Maine Coon,True
 2001,20,20,Maine Coon,Maine Coon,True
 2002,20,20,Maine Coon,Maine Coon,True
-2003,20,26,Maine Coon,Ragdoll,False
+2003,20,20,Maine Coon,Maine Coon,True
 2004,20,0,Maine Coon,Abyssinian,False
 2005,20,23,Maine Coon,Persian,False
 2006,20,20,Maine Coon,Maine Coon,True
@@ -2148,7 +2148,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2146,21,7,Miniature Pinscher,Bombay,False
 2147,21,21,Miniature Pinscher,Miniature Pinscher,True
 2148,21,21,Miniature Pinscher,Miniature Pinscher,True
-2149,21,31,Miniature Pinscher,Shiba Inu,False
+2149,21,8,Miniature Pinscher,Boxer,False
 2150,21,21,Miniature Pinscher,Miniature Pinscher,True
 2151,21,21,Miniature Pinscher,Miniature Pinscher,True
 2152,21,21,Miniature Pinscher,Miniature Pinscher,True
@@ -2554,7 +2554,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2552,25,25,Pug,Pug,True
 2553,25,21,Pug,Miniature Pinscher,False
 2554,25,25,Pug,Pug,True
-2555,25,1,Pug,American Bulldog,False
+2555,25,25,Pug,Pug,True
 2556,25,25,Pug,Pug,True
 2557,25,25,Pug,Pug,True
 2558,25,25,Pug,Pug,True
@@ -2586,7 +2586,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2584,26,24,Ragdoll,Pomeranian,False
 2585,26,26,Ragdoll,Ragdoll,True
 2586,26,26,Ragdoll,Ragdoll,True
-2587,26,6,Ragdoll,Birman,False
+2587,26,32,Ragdoll,Siamese,False
 2588,26,26,Ragdoll,Ragdoll,True
 2589,26,26,Ragdoll,Ragdoll,True
 2590,26,6,Ragdoll,Birman,False
@@ -2607,7 +2607,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2605,26,26,Ragdoll,Ragdoll,True
 2606,26,26,Ragdoll,Ragdoll,True
 2607,26,26,Ragdoll,Ragdoll,True
-2608,26,26,Ragdoll,Ragdoll,True
+2608,26,23,Ragdoll,Persian,False
 2609,26,26,Ragdoll,Ragdoll,True
 2610,26,26,Ragdoll,Ragdoll,True
 2611,26,6,Ragdoll,Birman,False
@@ -2657,7 +2657,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2655,26,6,Ragdoll,Birman,False
 2656,26,26,Ragdoll,Ragdoll,True
 2657,26,23,Ragdoll,Persian,False
-2658,26,23,Ragdoll,Persian,False
+2658,26,6,Ragdoll,Birman,False
 2659,26,26,Ragdoll,Ragdoll,True
 2660,26,6,Ragdoll,Birman,False
 2661,26,6,Ragdoll,Birman,False
@@ -2701,7 +2701,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2699,27,7,Russian Blue,Bombay,False
 2700,27,27,Russian Blue,Russian Blue,True
 2701,27,9,Russian Blue,British Shorthair,False
-2702,27,27,Russian Blue,Russian Blue,True
+2702,27,9,Russian Blue,British Shorthair,False
 2703,27,7,Russian Blue,Bombay,False
 2704,27,7,Russian Blue,Bombay,False
 2705,27,27,Russian Blue,Russian Blue,True
@@ -2880,7 +2880,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 2878,28,28,Saint Bernard,Saint Bernard,True
 2879,28,28,Saint Bernard,Saint Bernard,True
 2880,28,28,Saint Bernard,Saint Bernard,True
-2881,29,18,Samoyed,Keeshond,False
+2881,29,29,Samoyed,Samoyed,True
 2882,29,29,Samoyed,Samoyed,True
 2883,29,29,Samoyed,Samoyed,True
 2884,29,29,Samoyed,Samoyed,True
@@ -3317,7 +3317,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3315,33,33,Sphynx,Sphynx,True
 3316,33,33,Sphynx,Sphynx,True
 3317,33,33,Sphynx,Sphynx,True
-3318,33,10,Sphynx,Chihuahua,False
+3318,33,33,Sphynx,Sphynx,True
 3319,33,33,Sphynx,Sphynx,True
 3320,33,33,Sphynx,Sphynx,True
 3321,33,33,Sphynx,Sphynx,True
@@ -3352,7 +3352,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3350,33,33,Sphynx,Sphynx,True
 3351,33,33,Sphynx,Sphynx,True
 3352,33,33,Sphynx,Sphynx,True
-3353,33,0,Sphynx,Abyssinian,False
+3353,33,10,Sphynx,Chihuahua,False
 3354,33,33,Sphynx,Sphynx,True
 3355,33,33,Sphynx,Sphynx,True
 3356,33,33,Sphynx,Sphynx,True
@@ -3553,7 +3553,7 @@ test_index,y_true,y_pred,true_breed,pred_breed,correct
 3551,35,35,Wheaten Terrier,Wheaten Terrier,True
 3552,35,16,Wheaten Terrier,Havanese,False
 3553,35,35,Wheaten Terrier,Wheaten Terrier,True
-3554,35,35,Wheaten Terrier,Wheaten Terrier,True
+3554,35,16,Wheaten Terrier,Havanese,False
 3555,35,33,Wheaten Terrier,Sphynx,False
 3556,35,35,Wheaten Terrier,Wheaten Terrier,True
 3557,35,35,Wheaten Terrier,Wheaten Terrier,True

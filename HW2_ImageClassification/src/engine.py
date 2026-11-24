@@ -14,12 +14,10 @@ from sklearn.metrics import f1_score
 from model import set_train_mode
 
 """You'll train one time and the accuracy is measured while training"""
-def train_one_epoch(model, loader, criterion, optimizer, device, freeze_backbone, max_batches=None):
+def train_one_epoch(model, loader, criterion, optimizer, device, freeze_backbone):
     set_train_mode(model, freeze_backbone)
     total_loss, correct, n = 0.0, 0, 0
-    for i, (x, y) in enumerate(loader):
-        if max_batches is not None and i >= max_batches:
-            break
+    for x, y in loader:
         x, y = x.to(device), y.to(device)
 
         optimizer.zero_grad() # Clear the gradients of the previous step
@@ -37,14 +35,12 @@ def train_one_epoch(model, loader, criterion, optimizer, device, freeze_backbone
 
 """Evaluate a model on a loader (val, test or clean train) and returns a dict with: loss, accuracy, macro_f1, preds, labels"""
 @torch.no_grad()
-def evaluate(model, loader, criterion, device, max_batches=None):
+def evaluate(model, loader, criterion, device):
     model.eval()
     total_loss, n = 0.0, 0
     all_preds, all_labels = [] , []
 
-    for i, (x, y) in enumerate(loader):
-        if max_batches is not None and i >= max_batches:
-            break
+    for x, y in loader:
         x,y = x.to(device), y.to(device)
         out = model(x)
         total_loss += criterion(out, y).item() * x.size(0)

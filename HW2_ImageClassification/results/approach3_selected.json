@@ -2,19 +2,19 @@
   "best_classifier": "rf",
   "selected": {
     "logreg": {
-      "fit_time_sec": 0.08303300000261515,
+      "fit_time_sec": 0.22360787499928847,
       "val_accuracy": 0.8573369565217391,
       "val_macro_f1": 0.8580950276631198,
       "n_parameters": 21349,
       "tree_nodes": null
     },
     "rf": {
-      "fit_time_sec": 2.160957000014605,
-      "val_accuracy": 0.8586956521739131,
-      "val_macro_f1": 0.8584777570226454,
+      "fit_time_sec": 8.019929792004405,
+      "val_accuracy": 0.8614130434782609,
+      "val_macro_f1": 0.8611885306680893,
       "n_parameters": null,
-      "tree_nodes": 432660
+      "tree_nodes": 432642
     }
   },
-  "feature_extraction_time_train_val_sec": 112.82513549999567
+  "feature_extraction_time_train_val_sec": 59.87739316598163
 }

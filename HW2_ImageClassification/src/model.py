@@ -17,7 +17,6 @@ Structure of the network
     [3] Linear(1024 -> 1000)
 """
 
-import torch
 import torch.nn as nn
 from torchvision.models import MobileNet_V3_Small_Weights, mobilenet_v3_small
 
@@ -64,20 +63,3 @@ def build_feature_extractor():
         p.requires_grad = False
     extractor.eval()
     return extractor
-
-# Test of building two models
-if __name__ == "__main__":
-    for label, freeze in [("Approach 1 (full fine-tuning)", False), ("Approach 2 (only classifier)", True),]:
-        m = build_model(freeze_backbone=freeze)
-        tr, tot = count_trainable_params(m)
-        print(f"\n=== {label} ===")
-        print(f"Trainable parameters: {tr:,} on {tot:,}")
-        if freeze:
-            print("Trainable layers", trainable_layer_names(m))
-    m =build_model()
-    m.eval()
-    with torch.no_grad():
-        out = m(torch.randn(2, 3, 224, 224))
-    print("\nOutput form:", tuple(out.shape), "(expected (2, 37))")
-    assert out.shape == (2, NUM_CLASSES), f"Unexpected form: {out.shape}"
-    print("Correct forward pass")

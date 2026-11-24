@@ -19,8 +19,6 @@ from sklearn.metrics import accuracy_score, f1_score
 from sklearn.pipeline import Pipeline
 from config import CHECKPOINTS_DIR, FEATURES_DIR, RESULTS_DIR, SEED
 
-from config import FEATURES_DIR, RESULTS_DIR, SEED
-
 
 def fit_and_score(name, clf, X_tr, y_tr, X_val, y_val):
     t0 = time.perf_counter()
@@ -47,7 +45,6 @@ def main() -> None:
     data = np.load(FEATURES_DIR / "features.npz", allow_pickle=True)
     X_tr, y_tr = data["X_train"], data["y_train"]
     X_val, y_val = data["X_val"], data["y_val"]
-    class_names = list(data["class_names"])
 
     # StandardScaler: fit only on training, transform on val (niente leakage)
     scaler = StandardScaler().fit(X_tr)
@@ -69,7 +66,6 @@ def main() -> None:
 
     CHECKPOINTS_DIR.mkdir(parents=True, exist_ok=True)
     for name, (fitted, scaler) in selected.items():
-        from sklearn.pipeline import Pipeline
         pipe = Pipeline([("scaler", scaler), ("clf", fitted)])
         out_path = CHECKPOINTS_DIR / f"approach3_{name}.joblib"
         joblib.dump(pipe, out_path)

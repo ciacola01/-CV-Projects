@@ -1,31 +1,41 @@
 approach,true_breed,predicted_breed,count
-approach1_full,American Pit Bull Terrier,American Bulldog,17
-approach1_full,American Pit Bull Terrier,Staffordshire Bull Terrier,16
+approach1_full,Bengal,Egyptian Mau,21
+approach1_full,Birman,Ragdoll,18
 approach1_full,Ragdoll,Birman,16
-approach1_full,Russian Blue,British Shorthair,15
-approach1_full,Chihuahua,Shiba Inu,15
-approach1_full,American Pit Bull Terrier,German Shorthaired,14
-approach1_full,Staffordshire Bull Terrier,Boxer,14
-approach1_full,Staffordshire Bull Terrier,American Bulldog,12
-approach1_full,Siamese,Birman,11
-approach1_full,Bengal,Egyptian Mau,10
-approach2_head,American Pit Bull Terrier,Staffordshire Bull Terrier,25
-approach2_head,Siamese,Birman,15
-approach2_head,Ragdoll,Birman,15
-approach2_head,Maine Coon,Ragdoll,13
-approach2_head,Basset Hound,Beagle,12
-approach2_head,British Shorthair,Russian Blue,12
+approach1_full,American Pit Bull Terrier,American Bulldog,16
+approach1_full,Chihuahua,Shiba Inu,16
+approach1_full,Staffordshire Bull Terrier,American Pit Bull Terrier,12
+approach1_full,Pomeranian,Samoyed,11
+approach1_full,Staffordshire Bull Terrier,American Bulldog,11
+approach1_full,Beagle,Basset Hound,10
+approach1_full,American Pit Bull Terrier,Staffordshire Bull Terrier,10
+approach2_head,American Pit Bull Terrier,Staffordshire Bull Terrier,29
+approach2_head,Russian Blue,British Shorthair,18
+approach2_head,Birman,Siamese,16
+approach2_head,Birman,Ragdoll,15
+approach2_head,American Pit Bull Terrier,American Bulldog,14
+approach2_head,Pomeranian,Shiba Inu,12
+approach2_head,Miniature Pinscher,Staffordshire Bull Terrier,11
+approach2_head,Maine Coon,Ragdoll,10
 approach2_head,Maine Coon,Bengal,10
-approach2_head,Chihuahua,Shiba Inu,10
 approach2_head,Egyptian Mau,Bengal,9
-approach2_head,Russian Blue,British Shorthair,9
-approach3_rf,Chihuahua,Shiba Inu,19
+approach3_logreg,American Pit Bull Terrier,American Bulldog,17
+approach3_logreg,American Pit Bull Terrier,Staffordshire Bull Terrier,16
+approach3_logreg,Ragdoll,Birman,15
+approach3_logreg,Birman,Ragdoll,13
+approach3_logreg,Maine Coon,Bengal,13
+approach3_logreg,English Cocker Spaniel,English Setter,12
+approach3_logreg,American Pit Bull Terrier,Boxer,11
+approach3_logreg,Russian Blue,British Shorthair,10
+approach3_logreg,Maine Coon,Ragdoll,9
+approach3_logreg,Egyptian Mau,Bengal,9
+approach3_rf,Chihuahua,Shiba Inu,18
 approach3_rf,British Shorthair,Russian Blue,17
 approach3_rf,Birman,Ragdoll,17
 approach3_rf,Ragdoll,Birman,17
-approach3_rf,American Pit Bull Terrier,American Bulldog,16
 approach3_rf,American Pit Bull Terrier,Staffordshire Bull Terrier,16
-approach3_rf,Russian Blue,British Shorthair,15
+approach3_rf,Russian Blue,British Shorthair,16
+approach3_rf,American Pit Bull Terrier,American Bulldog,16
 approach3_rf,Staffordshire Bull Terrier,American Bulldog,14
 approach3_rf,Staffordshire Bull Terrier,Boxer,13
 approach3_rf,Chihuahua,Sphynx,12

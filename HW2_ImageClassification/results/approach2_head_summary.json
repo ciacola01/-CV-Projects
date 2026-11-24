@@ -8,11 +8,11 @@
   "batch_size": 32,
   "epochs": 15,
   "seed": 42,
-  "device": "cpu",
+  "device": "mps",
   "selection_rule": "epoch with the highest validation macro-F1",
-  "best_epoch": 9,
-  "best_val_macro_f1": 0.8944832959991241,
-  "best_val_acc": 0.8940217391304348,
+  "best_epoch": 13,
+  "best_val_macro_f1": 0.8965933899167129,
+  "best_val_acc": 0.8967391304347826,
   "trainable_parameters": 628773,
   "total_parameters": 1555781,
   "trainable_layers": [
@@ -21,7 +21,7 @@
     "classifier.3.weight",
     "classifier.3.bias"
   ],
-  "train_time_sec": 1288.106959500059,
-  "total_time_sec": 1777.822416583018,
+  "train_time_sec": 487.710690996988,
+  "total_time_sec": 832.6254596670042,
   "checkpoint": "approach2_head.pt"
 }

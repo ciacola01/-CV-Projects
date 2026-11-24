@@ -153,8 +153,9 @@ def plot_examples(key, test_set, n=4) -> None:
 def main() -> None:
     test = load_json(RESULTS_DIR / "test_results.json")
     sel3 = load_json(RESULTS_DIR / "approach3_selected.json")
-    best3 = f"approach3_{sel3['best_classifier']}"   # chosen on VALIDATION
-    main_keys = ["approach1_full", "approach2_head", best3]
+    # approach 3: figures for ALL the classifiers (logreg and rf), not only the best one
+    approach3_keys = [k for k in test if k.startswith("approach3_")]
+    main_keys = ["approach1_full", "approach2_head"] + approach3_keys
 
     # 1) Table
     table = build_table(test, sel3)

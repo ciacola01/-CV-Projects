@@ -2,7 +2,7 @@
 All that regard the data and it is imported from all the approaches and the methods sees all the same datas, splits and transformations. 
 
 Functions:
-- get_transforms() / get_mean_std(): how to prepare images
+- get_transforms(): how to prepare images
 - load_dataset() / get_labels(): load and download Oxford-IIITPet
 - make_split(): divides trainval in train/val
 - save_split() / load_split(): saves indexes on file (reproducibility)
@@ -42,11 +42,6 @@ def get_transforms():
     ])
 
     return transform_train, transform_eval
-
-# Mean and standard deviation to visualize images
-def get_mean_std():
-    t = MobileNet_V3_Small_Weights.DEFAULT.transforms()
-    return list(t.mean), list(t.std)
 
 """ Datasets """
 # Load an official partition of Oxfors-IIITPet

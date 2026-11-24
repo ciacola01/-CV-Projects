@@ -7,5 +7,5 @@
   "numpy": "2.4.6",
   "seed": 42,
   "deterministic_algorithms": true,
-  "device": "cpu"
+  "device": "mps"
 }

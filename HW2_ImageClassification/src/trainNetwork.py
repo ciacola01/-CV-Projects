@@ -29,7 +29,6 @@ def main() -> None:
     parser.add_argument("--lr", type=float, default=None)
     parser.add_argument("--epochs", type=int, default=None)
     parser.add_argument("--tag", type=str, default=None, help="run name to compare lerning rates")
-    parser.add_argument("--max_batches", type=int, default=None, help="quick test")
     args = parser.parse_args()
 
     mode = args.mode
@@ -38,8 +37,6 @@ def main() -> None:
     epochs = args.epochs if args.epochs is not None else TRAIN_DEFAULTS[mode]["epochs"]
     approach = "approach2_head" if freeze else "approach1_full"
     run_name = args.tag or approach
-    if args.max_batches:
-        run_name += "_smoke"
 
     # Set seed before building the model
     set_seed(SEED)
@@ -68,11 +65,11 @@ def main() -> None:
 
     for epoch in range(1, epochs+1):
         t0 = time.perf_counter()
-        tr_loss, tr_acc = train_one_epoch(model, train_loader, criterion, optimizer, device, freeze, args.max_batches)
+        tr_loss, tr_acc = train_one_epoch(model, train_loader, criterion, optimizer, device, freeze)
         epoch_time = time.perf_counter() - t0
         train_time += epoch_time
 
-        val = evaluate(model, val_loader, criterion, device, args.max_batches)
+        val = evaluate(model, val_loader, criterion, device)
         print(f"Epoch {epoch:02d}/{epochs} | train loss {tr_loss:.4f} acc {tr_acc:.4f} | val loss {val['loss']:.4f} acc {val['accuracy']:.4f} F1 {val['macro_f1']:.4f} | {epoch_time:.0f}s")
         history.append({"epoch": epoch, "train_loss": tr_loss, "train_acc": tr_acc, "val_loss": val["loss"], "val_acc": val["accuracy"], "val_macro_f1": val["macro_f1"], "epoch_time_sec": epoch_time})
 
